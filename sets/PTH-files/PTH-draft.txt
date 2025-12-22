@@ -1,0 +1,126 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Dire Rat",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Summon 1 — Rat",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PTH-files/img/0.png"
+			}
+		},
+		{
+			"name": "Dolphin",
+			"rarity": "special",
+			"mana_cost": "{11}",
+			"type": "Summon 1 — Dolphin",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PTH-files/img/1.png"
+			}
+		},
+		{
+			"name": "Dog",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Summon 1 — Dog",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PTH-files/img/2.png"
+			}
+		},
+		{
+			"name": "Eagle",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Summon 1 — Eagle",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PTH-files/img/3.png"
+			}
+		},
+		{
+			"name": "Poisonous Frog",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Summon 1 — Frog",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PTH-files/img/4.png"
+			}
+		},
+		{
+			"name": "Giant Centipede",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Summon 1 — Centipede",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PTH-files/img/5.png"
+			}
+		},
+		{
+			"name": "Fire Beetle",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Summon 1 — Beetle",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PTH-files/img/6.png"
+			}
+		},
+		{
+			"name": "Mite (Gremlin)",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Summon 1 — Gremlin",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PTH-files/img/7.png"
+			}
+		},
+		{
+			"name": "Pony (Horse)",
+			"rarity": "special",
+			"mana_cost": "{13}",
+			"type": "Summon 1 — Horse",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PTH-files/img/8.png"
+			}
+		},
+		{
+			"name": "Stirge",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Summon 1 — Stirge",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PTH-files/img/9.png"
+			}
+		},
+		{
+			"name": "Viper (Snake)",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Summon 1 — Snake",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PTH-files/img/10.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Dire Rat
+	1 Dolphin
+	1 Dog
+	1 Eagle
+	1 Poisonous Frog
+	1 Giant Centipede
+	1 Fire Beetle
+	1 Mite (Gremlin)
+	1 Pony (Horse)
+	1 Stirge
+	1 Viper (Snake)
