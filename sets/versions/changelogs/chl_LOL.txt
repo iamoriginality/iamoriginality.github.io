@@ -1,4 +1,18 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Caitlyn, Rule of Law
+rules_text: First strike
+Creatures your opponents controls lose hexproof and can't have or gain hexproof.
+{U}{R}: Caitlyn, Rule of Law deals 1 damage to target player or planeswalker
+ => First strike
+Creatures your opponents controls lose hexproof and can't have or gain hexproof.
+{U}{R}: Caitlyn, Rule of Law deals 1 damage to target player or planeswalker
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

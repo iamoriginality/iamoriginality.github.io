@@ -158,7 +158,7 @@
             "number": 18,
             "color_identity": "UR",
             "cost": "{1}{U}{U}{R}",
-            "rules_text": "First strike\nCreatures your opponents controls lose hexproof and can't have or gain hexproof.\n{U}{R}: Caitlyn, Rule of Law deals 1 damage to target player or planeswalker\n",
+            "rules_text": "First strike\nCreatures your opponents controls lose hexproof and can't have or gain hexproof.\n{U}{R}: Caitlyn, Rule of Law deals 1 damage to target player or planeswalker",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",

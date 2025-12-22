@@ -1,18 +1,10 @@
 ﻿{
-    "name": "League of Magic",
-    "formats": "",
-    "trimmed": "y",
-    "image_type": "png",
-    "draft_structure": "cube",
-    "unpreviewed": "card back",
-    "image_name": "position",
-    "v_mana": "",
     "cards": [
         {
             "card_name": "Shyvana, Dragon's Fire",
             "color": "R",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Human Champion",
+            "type": "Legendary Creature \u2013 Human Champion",
             "number": 12,
             "color_identity": "R",
             "cost": "{R}{R}",
@@ -28,7 +20,7 @@
             "position": "0",
             "card_name2": "Shyvana, Dragon's Rage",
             "color2": "R",
-            "type2": "Legendary Creature \u2014 Dragon Champion",
+            "type2": "Legendary Creature \u2013 Dragon Champion",
             "cost2": "",
             "rules_text2": "{1}{R}: Deal 2 damage to target blocking or blocked creature.",
             "flavor_text2": "[i][/i]",
@@ -37,13 +29,15 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "notes": "Possible that a 5/4 swinging on T4 with whatever the T3 play was will be too aggresive"
+            "notes": "Possible that a 5/4 swinging on T4 with whatever the T3 play was will be too aggresive",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sylas, King Slayer",
             "color": "WR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Mage Champion",
+            "type": "Legendary Creature \u2013 Mage Champion",
             "number": 29,
             "color_identity": "WR",
             "cost": "{1}{R}{R}{W}",
@@ -57,13 +51,15 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "1",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fiora Honor of House Laurent",
             "color": "WR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Knight Champion",
+            "type": "Legendary Creature \u2013 Knight Champion",
             "number": 22,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
@@ -77,13 +73,15 @@
             "artist": "",
             "alias": "",
             "position": "2",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Garen, Pride of Demacia",
             "color": "W",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Knight Creature",
+            "type": "Legendary Creature \u2013 Knight Creature",
             "number": 2,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -97,13 +95,15 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "3",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lux, Hidden Mage",
             "color": "W",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Mage Champion",
+            "type": "Legendary Creature \u2013 Mage Champion",
             "number": 3,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
@@ -117,13 +117,15 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "4",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jinx, The Loose Cannon",
             "color": "R",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Human Champion",
+            "type": "Legendary Creature \u2013 Human Champion",
             "number": 11,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
@@ -139,7 +141,7 @@
             "position": "5",
             "card_name2": "Jinx, Rampaging Criminal",
             "color2": "R",
-            "type2": "Legendary Creature \u2014 Human Champion",
+            "type2": "Legendary Creature \u2013 Human Champion",
             "cost2": "",
             "rules_text2": "Trample\n{1}: Transform Jinx, Rampaging Criminal. Transform only as a Sorcery",
             "flavor_text2": "[i][/i]",
@@ -148,13 +150,15 @@
             "loyalty2": "",
             "artist2": "aminoapps.com/p/xhjrg",
             "alias2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Caitlyn, Rule of Law",
             "color": "UR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Human Champion",
+            "type": "Legendary Creature \u2013 Human Champion",
             "number": 18,
             "color_identity": "UR",
             "cost": "{1}{U}{U}{R}",
@@ -168,13 +172,15 @@
             "artist": "",
             "alias": "",
             "position": "6",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vi, Fist of Justice",
             "color": "UR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Human Champion",
+            "type": "Legendary Creature \u2013 Human Champion",
             "number": 31,
             "color_identity": "UR",
             "cost": "{1}{U}{R}{R}",
@@ -188,13 +194,15 @@
             "artist": "",
             "alias": "",
             "position": "7",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Urgot, Slum Baron",
             "color": "UR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Mutant Champion",
+            "type": "Legendary Creature \u2013 Mutant Champion",
             "number": 30,
             "color_identity": "UR",
             "cost": "{3}{U}{U}{R}{R}",
@@ -208,13 +216,15 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "8",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jayce, Tomorrow's Hero",
             "color": "U",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Human Champion",
+            "type": "Legendary Creature \u2013 Human Champion",
             "number": 5,
             "color_identity": "UR",
             "cost": "{3}{U}{U}",
@@ -230,7 +240,7 @@
             "position": "9",
             "card_name2": "Jayce, Vigilante",
             "color2": "R",
-            "type2": "Legendary Creature \u2014 Human Champion",
+            "type2": "Legendary Creature \u2013 Human Champion",
             "cost2": "",
             "rules_text2": "Lifelink, Vigilance\n{1}{U}: Transform Jayce, Vigilante",
             "flavor_text2": "[i][/i]",
@@ -239,13 +249,15 @@
             "loyalty2": "",
             "artist2": "na.leagueoflegends.com",
             "alias2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kled, Fury of Noxus",
             "color": "BR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Yorlde Champion",
+            "type": "Legendary Creature \u2013 Yorlde Champion",
             "number": 26,
             "color_identity": "BR",
             "cost": "{B}{B}{R}{R}",
@@ -259,13 +271,15 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "10",
-            "notes": "Possible Kled is basically unkillable from the loop of attacking and generating Skarls"
+            "notes": "Possible Kled is basically unkillable from the loop of attacking and generating Skarls",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skarl",
             "color": "BR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Skarl",
+            "type": "Legendary Creature \u2013 Skarl",
             "number": 4,
             "color_identity": "BR",
             "cost": "",
@@ -279,13 +293,15 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "11",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hextech Gauntlet",
             "color": "",
             "rarity": "cube",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 7,
             "color_identity": "C",
             "cost": "",
@@ -299,13 +315,15 @@
             "artist": "",
             "alias": "",
             "position": "12",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Darius, Might of Noxus",
             "color": "BR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Knight Champion",
+            "type": "Legendary Creature \u2013 Knight Champion",
             "number": 19,
             "color_identity": "BR",
             "cost": "{5}{B}{R}",
@@ -319,13 +337,15 @@
             "artist": "",
             "alias": "",
             "position": "13",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Draven, Face of Noxus",
             "color": "BR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Human Champion",
+            "type": "Legendary Creature \u2013 Human Champion",
             "number": 21,
             "color_identity": "BR",
             "cost": "{2}{B}{R}{R}",
@@ -339,13 +359,15 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "14",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Whirling Axe",
             "color": "",
             "rarity": "cube",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 8,
             "color_identity": "C",
             "cost": "",
@@ -359,13 +381,15 @@
             "artist": "",
             "alias": "",
             "position": "15",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swain, Head of Noxus",
             "color": "BR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Advisor Champion",
+            "type": "Legendary Creature \u2013 Advisor Champion",
             "number": 28,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
@@ -381,7 +405,7 @@
             "position": "16",
             "card_name2": "Swain, Demonic Overlord",
             "color2": "BR",
-            "type2": "Legendary Creature \u2014 Demon Champion",
+            "type2": "Legendary Creature \u2013 Demon Champion",
             "cost2": "",
             "rules_text2": "Lifelink, Flying\n{T}: Deal damage to each other creature equal to the number of counters on Swain, Demonic Overlord, remove all +1/+1 counters, and transform Swain, Demonic Overlord.",
             "flavor_text2": "[i][/i]",
@@ -390,13 +414,15 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Leblanc, Shadow of Noxus",
             "color": "B",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Illusion Champion",
+            "type": "Legendary Creature \u2013 Illusion Champion",
             "number": 9,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -410,13 +436,15 @@
             "artist": "deviantart.com/sciamano240",
             "alias": "",
             "position": "17",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Illusion",
             "color": "B",
             "rarity": "cube",
-            "type": "Creature \u2014 Illusion",
+            "type": "Creature \u2013 Illusion",
             "number": 3,
             "color_identity": "B",
             "cost": "",
@@ -430,13 +458,15 @@
             "artist": "deviantart.com/sciamano240",
             "alias": "",
             "position": "18",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gold",
             "color": "",
             "rarity": "cube",
-            "type": "Artifact \u2014 Gold",
+            "type": "Artifact \u2013 Gold",
             "number": 6,
             "color_identity": "C",
             "cost": "",
@@ -450,13 +480,15 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "19",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spirit",
             "color": "UB",
             "rarity": "cube",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 5,
             "color_identity": "UB",
             "cost": "",
@@ -470,13 +502,15 @@
             "artist": "",
             "alias": "",
             "position": "20",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Azir, Ascended King",
             "color": "WU",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 King Champion",
+            "type": "Legendary Creature \u2013 King Champion",
             "number": 17,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
@@ -490,13 +524,15 @@
             "artist": "",
             "alias": "",
             "position": "21",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sand Soldier",
             "color": "W",
             "rarity": "cube",
-            "type": "Creature \u2014 Sand Soldier",
+            "type": "Creature \u2013 Sand Soldier",
             "number": 1,
             "color_identity": "W",
             "cost": "",
@@ -510,13 +546,15 @@
             "artist": "",
             "alias": "",
             "position": "22",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "King Defender",
             "color": "U",
             "rarity": "cube",
-            "type": "Creature \u2014 Wall Phalanx",
+            "type": "Creature \u2013 Wall Phalanx",
             "number": 2,
             "color_identity": "U",
             "cost": "",
@@ -530,13 +568,15 @@
             "artist": "",
             "alias": "",
             "position": "23",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skarner, Crystaline Predator",
             "color": "WU",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Crystal Champion",
+            "type": "Legendary Creature \u2013 Crystal Champion",
             "number": 27,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
@@ -550,13 +590,15 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "24",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rammus, the Forgotten God",
             "color": "U",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Turtle Champion",
+            "type": "Legendary Creature \u2013 Turtle Champion",
             "number": 7,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -570,13 +612,15 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "25",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sivir, Last of the Bloodline",
             "color": "W",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Human Champion",
+            "type": "Legendary Creature \u2013 Human Champion",
             "number": 4,
             "color_identity": "WU",
             "cost": "{W}{W}",
@@ -590,13 +634,15 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "26",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Amumu, the Lonely Wanderer",
             "color": "WU",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Zombie Champion",
+            "type": "Legendary Creature \u2013 Zombie Champion",
             "number": 16,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
@@ -610,7 +656,9 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "27",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hextech Cloning",
@@ -620,7 +668,7 @@
             "number": 23,
             "color_identity": "UR",
             "cost": "{U}{U}{R}{R}",
-            "rules_text": "Choose one then exile this card \u2014\n\u2022 Cast a copy of target instant or sorcery in your graveyard. Exile that card\n\u2022 Exile a creature or enchantment card from your graveyard: Create a token that's a copy of that card.",
+            "rules_text": "Choose one then exile this card \u2013\n\u2022 Cast a copy of target instant or sorcery in your graveyard. Exile that card\n\u2022 Exile a creature or enchantment card from your graveyard: Create a token that's a copy of that card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -630,7 +678,9 @@
             "artist": "aaronfirem.blogspot.com",
             "alias": "",
             "position": "28",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Enemy Nexus",
@@ -650,13 +700,15 @@
             "artist": "bjny07.artstation.com",
             "alias": "",
             "position": "29",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Dead Pool",
             "color": "BG",
             "rarity": "cube",
-            "type": "Artifact \u2014 Vehicle",
+            "type": "Artifact \u2013 Vehicle",
             "number": 20,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
@@ -670,13 +722,15 @@
             "artist": "duongnguyenminhthuan.artstation.com",
             "alias": "",
             "position": "30",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Poro",
             "color": "G",
             "rarity": "cube",
-            "type": "Creature \u2014 Poro",
+            "type": "Creature \u2013 Poro",
             "number": 15,
             "color_identity": "G",
             "cost": "{G}",
@@ -690,13 +744,15 @@
             "artist": "",
             "alias": "",
             "position": "31",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Khada-Jhin, Masked Artist",
             "color": "UG",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Champion",
+            "type": "Legendary Creature \u2013 Champion",
             "number": 25,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
@@ -710,13 +766,15 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "32",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lee Sin, Spirit of the Dragon",
             "color": "G",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Monk Champion",
+            "type": "Legendary Creature \u2013 Monk Champion",
             "number": 14,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -730,13 +788,15 @@
             "artist": "foritis.artstation.com/",
             "alias": "",
             "position": "33",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ahri, Essence Hunter",
             "color": "G",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Demon Champion",
+            "type": "Legendary Creature \u2013 Demon Champion",
             "number": 13,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
@@ -750,13 +810,15 @@
             "artist": "KIENAN LAFFERTY on DEVIANTART",
             "alias": "",
             "position": "34",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yasuo, Lonely Exile",
             "color": "U",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Ninja Champion",
+            "type": "Legendary Creature \u2013 Ninja Champion",
             "number": 8,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -770,13 +832,15 @@
             "artist": "lisongnan.artstation.com/",
             "alias": "",
             "position": "35",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Karma, Soul Incarnate",
             "color": "UG",
             "rarity": "cube",
-            "type": "Legendary Creature \u2014 Spirit Champion",
+            "type": "Legendary Creature \u2013 Spirit Champion",
             "number": 24,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
@@ -790,7 +854,9 @@
             "artist": "ZARORY on DEVIANART",
             "alias": "",
             "position": "36",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Last Breath",
@@ -810,13 +876,15 @@
             "artist": "na.leagueoflegends.com",
             "alias": "",
             "position": "37",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bard, the Voiceless Chorus",
             "color": "",
             "rarity": "cube",
-            "type": "Legendary Planeswalker \u2014 Bard",
+            "type": "Legendary Planeswalker \u2013 Bard",
             "number": 1,
             "color_identity": "C",
             "cost": "{2}{C}{C}",
@@ -830,8 +898,9 @@
             "artist": "",
             "alias": "",
             "position": "38",
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         }
-    ],
-    "version": 2
+    ]
 }
