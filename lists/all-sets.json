@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "LOL",
+            "set_name": "League of Magic",
+            "formats": ""
+        },
+        {
             "set_code": "PTH",
             "set_name": "",
             "formats": ""
