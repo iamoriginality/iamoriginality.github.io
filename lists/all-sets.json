@@ -14,6 +14,26 @@
             "set_code": "LOL",
             "set_name": "League of Magic",
             "formats": ""
+        },
+        {
+            "set_code": "LST",
+            "set_name": "Universes Everywhere: Lost",
+            "formats": ""
+        },
+        {
+            "set_code": "MCR",
+            "set_name": "Universes Everywhere: Minecraft",
+            "formats": ""
+        },
+        {
+            "set_code": "NVA",
+            "set_name": "Universes Everywhere: Neverafter",
+            "formats": ""
+        },
+        {
+            "set_code": "OSW",
+            "set_name": "Universes Everywhere: Obscure Star Wars",
+            "formats": ""
         }
     ]
 }

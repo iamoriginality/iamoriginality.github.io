@@ -1,0 +1,191 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Princess Rosamund De Prix",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/0.png"
+			}
+		},
+		{
+			"name": "Mother Timothy Goose, Storyteller",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Bard",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/1.png"
+			}
+		},
+		{
+			"name": "Pinocchio, Child Liar",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Child Toy",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/2.png"
+			}
+		},
+		{
+			"name": "PiB, Trickster Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/3.png"
+			}
+		},
+		{
+			"name": "Prince Gerard of Greenleigh",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Frog Noble",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/4.png"
+			}
+		},
+		{
+			"name": "Ylfa Snorgelsson, Big Bad Wolf",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Child Wolf",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/5.png"
+			}
+		},
+		{
+			"name": "Scheherazade, Explorer of Worlds",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/6.png"
+			}
+		},
+		{
+			"name": "Cricket, Moral Guidance",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/7.png"
+			}
+		},
+		{
+			"name": "The Neverafter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/8.png"
+			}
+		},
+		{
+			"name": "Twice Upon a Time",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/9.png"
+			}
+		},
+		{
+			"name": "The Third Wish",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/10.png"
+			}
+		},
+		{
+			"name": "The Lines Between",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/11.png"
+			}
+		},
+		{
+			"name": "Mother Goose's Storybook",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/12.png"
+			}
+		},
+		{
+			"name": "Swan",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Swan",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/13.png"
+			}
+		},
+		{
+			"name": "Swan",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Swan",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/14.png"
+			}
+		},
+		{
+			"name": "Grimm Tales",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/15.png"
+			}
+		},
+		{
+			"name": "Neverafter",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Late Game — Difficulty — 2",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NVA-files/img/16.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Princess Rosamund De Prix
+	5 Ylfa Snorgelsson, Big Bad Wolf
+	5 Mother Goose's Storybook
+[uncommon(3)]
+	5 Mother Timothy Goose, Storyteller
+	5 PiB, Trickster Spirit
+	5 Prince Gerard of Greenleigh
+	5 The Lines Between
+[common(10)]
+	5 Pinocchio, Child Liar
+	5 Scheherazade, Explorer of Worlds
+	5 Cricket, Moral Guidance
+	5 The Neverafter
+	5 Twice Upon a Time
+	5 The Third Wish
+	5 Grimm Tales

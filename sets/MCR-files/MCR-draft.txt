@@ -1,0 +1,298 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Steve",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/0.png"
+			}
+		},
+		{
+			"name": "Alex",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/1.png"
+			}
+		},
+		{
+			"name": "Villager",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/2.png"
+			}
+		},
+		{
+			"name": "Cow",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/3.png"
+			}
+		},
+		{
+			"name": "Pig",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/4.png"
+			}
+		},
+		{
+			"name": "Sheep",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/5.png"
+			}
+		},
+		{
+			"name": "Chicken",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/6.png"
+			}
+		},
+		{
+			"name": "Horse",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Horse Mount",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/7.png"
+			}
+		},
+		{
+			"name": "Sunflower Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/8.png"
+			}
+		},
+		{
+			"name": "Compass",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/9.png"
+			}
+		},
+		{
+			"name": "Farm",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/10.png"
+			}
+		},
+		{
+			"name": "Village",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/11.png"
+			}
+		},
+		{
+			"name": "Elytra",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/12.png"
+			}
+		},
+		{
+			"name": "Savanna",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/13.png"
+			}
+		},
+		{
+			"name": "Mushroom Fields",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/14.png"
+			}
+		},
+		{
+			"name": "Ice Spikes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/15.png"
+			}
+		},
+		{
+			"name": "Mangrove Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/16.png"
+			}
+		},
+		{
+			"name": "Dark Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/17.png"
+			}
+		},
+		{
+			"name": "Stony Peaks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/18.png"
+			}
+		},
+		{
+			"name": "Cherry Grove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/19.png"
+			}
+		},
+		{
+			"name": "Iron",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/20.png"
+			}
+		},
+		{
+			"name": "Gold",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/21.png"
+			}
+		},
+		{
+			"name": "Diamond",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/22.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/23.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/24.png"
+			}
+		},
+		{
+			"name": "Blocks and Biomes",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/25.png"
+			}
+		},
+		{
+			"name": "Minecraft",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Mid Game — Difficulty — 3",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/MCR-files/img/26.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Steve
+	5 Alex
+	5 Villager
+[uncommon(3)]
+	5 Sheep
+	5 Horse
+	5 Village
+	5 Elytra
+[common(10)]
+	5 Cow
+	5 Pig
+	5 Chicken
+	5 Sunflower Plains
+	5 Compass
+	5 Farm
+	5 Savanna
+	5 Mushroom Fields
+	5 Ice Spikes
+	5 Mangrove Swamp
+	5 Dark Forest
+	5 Stony Peaks
+	5 Cherry Grove
+	5 Blocks and Biomes

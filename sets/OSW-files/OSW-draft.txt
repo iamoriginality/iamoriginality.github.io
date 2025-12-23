@@ -1,0 +1,191 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Joh Yowza, Hogging the Spotlight",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Yuzzum Bard",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/0.png"
+			}
+		},
+		{
+			"name": "Salacious B Crumb, Hutt's Jester",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Kowakian",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/1.png"
+			}
+		},
+		{
+			"name": "Dexter Jettster, Bar Owner",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Besalisk",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/2.png"
+			}
+		},
+		{
+			"name": "Klaud, Mistaken Criminal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Trodatome Artificer",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/3.png"
+			}
+		},
+		{
+			"name": "Figrin D'an, and the Modal Nodes",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bith Bard",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/4.png"
+			}
+		},
+		{
+			"name": "Paodok'Draba'Takat, Scarrif Rebel",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Drabatan Rogue",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/5.png"
+			}
+		},
+		{
+			"name": "Turgle, Bragadocious Outlaw",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Kobohan Rogue",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/6.png"
+			}
+		},
+		{
+			"name": "Babu Frik, Master Technician",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Anzellan Artificer",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/7.png"
+			}
+		},
+		{
+			"name": "Terak's Keep",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/8.png"
+			}
+		},
+		{
+			"name": "Maximillian Rebo, Jizz Wailer",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}",
+			"type": "Creature — Ortolan Bard",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/9.png"
+			}
+		},
+		{
+			"name": "Sebulba's Sabotage",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/10.png"
+			}
+		},
+		{
+			"name": "Door Too Low",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/11.png"
+			}
+		},
+		{
+			"name": "Evacuate From Hoth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/12.png"
+			}
+		},
+		{
+			"name": "Bard",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Bard",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/13.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/14.png"
+			}
+		},
+		{
+			"name": "Glup Shitto",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/15.png"
+			}
+		},
+		{
+			"name": "Obscure Star Wars",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Mid Game — Difficulty — 3",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/OSW-files/img/16.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Joh Yowza, Hogging the Spotlight
+	5 Dexter Jettster, Bar Owner
+	5 Maximillian Rebo, Jizz Wailer
+[uncommon(3)]
+	5 Salacious B Crumb, Hutt's Jester
+	5 Klaud, Mistaken Criminal
+	5 Figrin D'an, and the Modal Nodes
+	5 Evacuate From Hoth
+[common(10)]
+	5 Paodok'Draba'Takat, Scarrif Rebel
+	5 Turgle, Bragadocious Outlaw
+	5 Babu Frik, Master Technician
+	5 Terak's Keep
+	5 Sebulba's Sabotage
+	5 Door Too Low
+	5 Glup Shitto

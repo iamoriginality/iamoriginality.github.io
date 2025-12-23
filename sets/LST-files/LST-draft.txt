@@ -1,0 +1,160 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Jack Shepherd, Man of Science",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/0.png"
+			}
+		},
+		{
+			"name": "Kate Austen, Wanted Criminal",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/1.png"
+			}
+		},
+		{
+			"name": "Hurley Reyes, Cursed to be Lucky",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/2.png"
+			}
+		},
+		{
+			"name": "John Locke, Man of Faith",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/3.png"
+			}
+		},
+		{
+			"name": "Sayid Jarrah, Former Torturer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/4.png"
+			}
+		},
+		{
+			"name": "Claire Littleton, Reluctant Mother",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/5.png"
+			}
+		},
+		{
+			"name": "Charlie Pace, Addicted Rockstar",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/6.png"
+			}
+		},
+		{
+			"name": "Sawyer Ford, Abrasive Leader",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/7.png"
+			}
+		},
+		{
+			"name": "The Island of the Lost",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/8.png"
+			}
+		},
+		{
+			"name": "The Hatch",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/9.png"
+			}
+		},
+		{
+			"name": "The Oceanic Six",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/10.png"
+			}
+		},
+		{
+			"name": "After the Crash",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/11.png"
+			}
+		},
+		{
+			"name": "Smoke Monster",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/12.png"
+			}
+		},
+		{
+			"name": "Lost",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Mid Game — Difficulty — 1",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LST-files/img/13.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Jack Shepherd, Man of Science
+	5 Hurley Reyes, Cursed to be Lucky
+	5 Sawyer Ford, Abrasive Leader
+[uncommon(3)]
+	5 Sayid Jarrah, Former Torturer
+	5 Claire Littleton, Reluctant Mother
+	5 The Oceanic Six
+	5 After the Crash
+[common(10)]
+	5 Kate Austen, Wanted Criminal
+	5 John Locke, Man of Faith
+	5 Charlie Pace, Addicted Rockstar
+	5 The Island of the Lost
+	5 The Hatch
+	5 Smoke Monster
