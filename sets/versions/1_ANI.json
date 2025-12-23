@@ -1,7 +1,7 @@
 ﻿{
     "name": "",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "draft booster",
     "unpreviewed": "card back",
@@ -328,6 +328,5 @@
             "position": "15",
             "notes": ""
         }
-    ],
-    "version": 1
+    ]
 }

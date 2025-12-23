@@ -1,0 +1,181 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Jake, the Leader",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Child Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/0.png"
+			}
+		},
+		{
+			"name": "Marco, the Tactician",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Child Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/1.png"
+			}
+		},
+		{
+			"name": "Rachel, the Soldier",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Child Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/2.png"
+			}
+		},
+		{
+			"name": "Cassie, the Medic",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Child Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/3.png"
+			}
+		},
+		{
+			"name": "Tobias, the Scout",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Child Soldier Beast",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/4.png"
+			}
+		},
+		{
+			"name": "Elfangor-Sirinial-Shamtul",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Alien Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/5.png"
+			}
+		},
+		{
+			"name": "Aximili-Esgarrouth-Isthill",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Alien Child Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/6.png"
+			}
+		},
+		{
+			"name": "Ellimist, the Creator",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — God",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/7.png"
+			}
+		},
+		{
+			"name": "The Gardens",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/8.png"
+			}
+		},
+		{
+			"name": "The Hawk's Hunt",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/9.png"
+			}
+		},
+		{
+			"name": "The War Against the Yeerks",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/10.png"
+			}
+		},
+		{
+			"name": "Emergency Starfish",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/11.png"
+			}
+		},
+		{
+			"name": "A Sweet Treat",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/12.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/13.png"
+			}
+		},
+		{
+			"name": "Between Beast and Man",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/14.png"
+			}
+		},
+		{
+			"name": "Animorphs",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Mid Game — Difficulty — 3",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/ANI-files/img/15.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Tobias, the Scout
+	5 Elfangor-Sirinial-Shamtul
+	5 Ellimist, the Creator
+[uncommon(3)]
+	5 Rachel, the Soldier
+	5 Cassie, the Medic
+	5 Aximili-Esgarrouth-Isthill
+	5 The War Against the Yeerks
+[common(10)]
+	5 Jake, the Leader
+	5 Marco, the Tactician
+	5 The Gardens
+	5 The Hawk's Hunt
+	5 Emergency Starfish
+	5 A Sweet Treat
+	5 Between Beast and Man

@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "ANI",
+            "set_name": "",
+            "formats": ""
+        },
+        {
             "set_code": "LOL",
             "set_name": "League of Magic",
             "formats": ""
