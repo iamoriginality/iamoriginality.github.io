@@ -1,0 +1,6039 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Shyvana, Jarvan's Protector",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Dragon Champion",
+			"collector_number": "249",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://iamoriginality.github.io/sets/LOL-files/img/0_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/0_front.png"
+			}
+		},
+		{
+			"name": "Kled, Fury of Noxus",
+			"rarity": "special",
+			"mana_cost": "{B}{B}{R}{R}",
+			"type": "Legendary Creature — Yorlde Champion",
+			"collector_number": "395",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/1.png"
+			}
+		},
+		{
+			"name": "Skarl",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Creature — Skarl",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/2.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact — Treasure",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/3.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Spirit",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/4.png"
+			}
+		},
+		{
+			"name": "The Dreadway",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/5.png"
+			}
+		},
+		{
+			"name": "Zed, Leader of Shadows",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Ninja Champion",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/6.png"
+			}
+		},
+		{
+			"name": "Karma, Soul Incarnate",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Legendary Creature — Spirit Champion",
+			"collector_number": "391",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/7.png"
+			}
+		},
+		{
+			"name": "Pyke, Drowned Serpent",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Demon Champion",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/8.png"
+			}
+		},
+		{
+			"name": "Gangplank, Pirate Lord",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Pirate Champion",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/9.png"
+			}
+		},
+		{
+			"name": "Tahm Kench, Ravenous Broker",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Demon Champion",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/10.png"
+			}
+		},
+		{
+			"name": "Karthus, Death's Lament",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Spirit Champion",
+			"collector_number": "392",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/11.png"
+			}
+		},
+		{
+			"name": "Yorick, Corrupted Guide",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Zombie Champion",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/12.png"
+			}
+		},
+		{
+			"name": "Maiden of the Mists",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/13.png"
+			}
+		},
+		{
+			"name": "Tryndamere, War King",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Champion",
+			"collector_number": "458",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/14.png"
+			}
+		},
+		{
+			"name": "Ashe, the Great Uniter",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Champion",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/15.png"
+			}
+		},
+		{
+			"name": "Lulu, Faerie Friend",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Yorlde Champion",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/16.png"
+			}
+		},
+		{
+			"name": "Scholar of the Sands",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human",
+			"collector_number": "437",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/17.png"
+			}
+		},
+		{
+			"name": "Crownguard Scout",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/18.png"
+			}
+		},
+		{
+			"name": "Ionian Primal Monk",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Monk",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/19.png"
+			}
+		},
+		{
+			"name": "Fallen Priest",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/20.png"
+			}
+		},
+		{
+			"name": "Bandle City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Forest",
+			"collector_number": "500",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/21.png"
+			}
+		},
+		{
+			"name": "Bandle Scout",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Yordle Scout",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/22.png"
+			}
+		},
+		{
+			"name": "Azir, Sunborn King",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Ascended Champion",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/23.png"
+			}
+		},
+		{
+			"name": "Hextech Aide",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact Creature — Hextech Construct",
+			"collector_number": "381",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/24.png"
+			}
+		},
+		{
+			"name": "Jagged Hook Rookie",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "389",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/25.png"
+			}
+		},
+		{
+			"name": "Trifarian Recruit",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "456",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/26.png"
+			}
+		},
+		{
+			"name": "Winter's Claw Reaver",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Viking",
+			"collector_number": "471",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/27.png"
+			}
+		},
+		{
+			"name": "Inventor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/28.png"
+			}
+		},
+		{
+			"name": "Irelia, Warrior Dancer",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Monk Champion",
+			"collector_number": "388",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/29.png"
+			}
+		},
+		{
+			"name": "Garen, Dauntless Vanguard",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Knight Champion",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/30.png"
+			}
+		},
+		{
+			"name": "Teemo, Lone Scout",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Yorlde Champion",
+			"collector_number": "454",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/31.png"
+			}
+		},
+		{
+			"name": "Darius, Might of Noxus",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Knight Champion",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/32.png"
+			}
+		},
+		{
+			"name": "Jayce, Genius Inventor",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Creature — Human Champion",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/33.png"
+			}
+		},
+		{
+			"name": "Enraged Ironback",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Turtle",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/34.png"
+			}
+		},
+		{
+			"name": "Push Through",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/35.png"
+			}
+		},
+		{
+			"name": "Ship Drunkard",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/36.png"
+			}
+		},
+		{
+			"name": "Drag Below",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/37.png"
+			}
+		},
+		{
+			"name": "Butcher's Bridge",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "503",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/38.png"
+			}
+		},
+		{
+			"name": "The City of Progress",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "504",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/39.png"
+			}
+		},
+		{
+			"name": "Hextech Musician",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/40.png"
+			}
+		},
+		{
+			"name": "Briliant Idea",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/41.png"
+			}
+		},
+		{
+			"name": "Blitzcrank, Lost Golem",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Artifact Creature — Hextech Champion",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/42.png"
+			}
+		},
+		{
+			"name": "Hexlace",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "490",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/43.png"
+			}
+		},
+		{
+			"name": "Winged Protege",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/44.png"
+			}
+		},
+		{
+			"name": "Fume Creaks",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/45.png"
+			}
+		},
+		{
+			"name": "Down in the Sumps",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/46.png"
+			}
+		},
+		{
+			"name": "Zoe, Playful Trickster",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Aspect Champion",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/47.png"
+			}
+		},
+		{
+			"name": "Stand Together",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/48.png"
+			}
+		},
+		{
+			"name": "Cultivating Harmony",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/49.png"
+			}
+		},
+		{
+			"name": "Spirit Shield",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/50.png"
+			}
+		},
+		{
+			"name": "Mordekaiser, Soul King",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Knight Champion",
+			"collector_number": "406",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/51.png"
+			}
+		},
+		{
+			"name": "Spirit Seer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/52.png"
+			}
+		},
+		{
+			"name": "Defend the Placidium",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/53.png"
+			}
+		},
+		{
+			"name": "Bigger than Being",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/54.png"
+			}
+		},
+		{
+			"name": "Kinkou Monastery",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Forest",
+			"collector_number": "514",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/55.png"
+			}
+		},
+		{
+			"name": "Ionian Spiritualist",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "387",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/56.png"
+			}
+		},
+		{
+			"name": "Call the Silverwings",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/57.png"
+			}
+		},
+		{
+			"name": "Silverwing Fledgling",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/58.png"
+			}
+		},
+		{
+			"name": "Laurent Duelist",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/59.png"
+			}
+		},
+		{
+			"name": "Devoted Cleric",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/60.png"
+			}
+		},
+		{
+			"name": "Selfless Hound",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dog",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/61.png"
+			}
+		},
+		{
+			"name": "Battlefield Rallier",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/62.png"
+			}
+		},
+		{
+			"name": "Zealot Devotee",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/63.png"
+			}
+		},
+		{
+			"name": "Devoted Yordle",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Yordle Knight",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/64.png"
+			}
+		},
+		{
+			"name": "Watchful Knight",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/65.png"
+			}
+		},
+		{
+			"name": "Devoted Giffonhawk",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Roc",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/66.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Bird",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/67.png"
+			}
+		},
+		{
+			"name": "Aspect's Presence",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/68.png"
+			}
+		},
+		{
+			"name": "Final Push",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/69.png"
+			}
+		},
+		{
+			"name": "Purify",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/70.png"
+			}
+		},
+		{
+			"name": "Blown Away",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/71.png"
+			}
+		},
+		{
+			"name": "Drain Lifeforce",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/72.png"
+			}
+		},
+		{
+			"name": "Devoted Trickster",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Mage",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/73.png"
+			}
+		},
+		{
+			"name": "Bahrl Jay",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/74.png"
+			}
+		},
+		{
+			"name": "Sea-Tiger Seer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Serpent Shaman",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/75.png"
+			}
+		},
+		{
+			"name": "Devoted Spy",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Ninja",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/76.png"
+			}
+		},
+		{
+			"name": "Ancient Sphinx",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/77.png"
+			}
+		},
+		{
+			"name": "Spirit of the Tidecaller",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/78.png"
+			}
+		},
+		{
+			"name": "Consult Mentor",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/79.png"
+			}
+		},
+		{
+			"name": "Underwater Presence",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/80.png"
+			}
+		},
+		{
+			"name": "Absorb Spell",
+			"rarity": "special",
+			"mana_cost": "{X}{U}{B}",
+			"type": "Instant",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/81.png"
+			}
+		},
+		{
+			"name": "Consult the Nexus",
+			"rarity": "special",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/82.png"
+			}
+		},
+		{
+			"name": "Distracting Lights",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/83.png"
+			}
+		},
+		{
+			"name": "Gift of Wings",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/84.png"
+			}
+		},
+		{
+			"name": "Rejected from the Library",
+			"rarity": "special",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/85.png"
+			}
+		},
+		{
+			"name": "Black Rose Assassin",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/86.png"
+			}
+		},
+		{
+			"name": "New Recruit",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/87.png"
+			}
+		},
+		{
+			"name": "Ravenguard Elite",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Mage",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/88.png"
+			}
+		},
+		{
+			"name": "Devoted Witch",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Mage",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/89.png"
+			}
+		},
+		{
+			"name": "Witch of the Mist",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/90.png"
+			}
+		},
+		{
+			"name": "Vastayan Graverobber",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Vastayan",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/91.png"
+			}
+		},
+		{
+			"name": "Demonic Minion",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Minion",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/92.png"
+			}
+		},
+		{
+			"name": "Devoted Soldier",
+			"rarity": "special",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Zombie Soldier",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/93.png"
+			}
+		},
+		{
+			"name": "Spirit Walker",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/94.png"
+			}
+		},
+		{
+			"name": "Agony of the King",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/95.png"
+			}
+		},
+		{
+			"name": "Trade with the Otherrealm",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/96.png"
+			}
+		},
+		{
+			"name": "Thrown in the Locker",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/97.png"
+			}
+		},
+		{
+			"name": "Burning Homestead",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/98.png"
+			}
+		},
+		{
+			"name": "Lost Sister",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Mage",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/99.png"
+			}
+		},
+		{
+			"name": "Eager Frontliner",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/100.png"
+			}
+		},
+		{
+			"name": "Devoted Guardian",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/101.png"
+			}
+		},
+		{
+			"name": "Quickening Inventor",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/102.png"
+			}
+		},
+		{
+			"name": "Monolith Golem",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Golem",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/103.png"
+			}
+		},
+		{
+			"name": "Influential Socialite",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Mage",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/104.png"
+			}
+		},
+		{
+			"name": "Wandering Rider",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/105.png"
+			}
+		},
+		{
+			"name": "Roaming Dragon",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/106.png"
+			}
+		},
+		{
+			"name": "Lightning Strike",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/107.png"
+			}
+		},
+		{
+			"name": "Mad Scramble",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/108.png"
+			}
+		},
+		{
+			"name": "Beserker Rage",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/109.png"
+			}
+		},
+		{
+			"name": "Ranger's Mount",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/110.png"
+			}
+		},
+		{
+			"name": "Wandering Soldier",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/111.png"
+			}
+		},
+		{
+			"name": "Devoted Soul",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/112.png"
+			}
+		},
+		{
+			"name": "Creeping Spirit",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/113.png"
+			}
+		},
+		{
+			"name": "Attentive Explorer",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/114.png"
+			}
+		},
+		{
+			"name": "Bandlewood Defender",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/115.png"
+			}
+		},
+		{
+			"name": "Collected Barbarian",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/116.png"
+			}
+		},
+		{
+			"name": "Yeti Youngling",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Yeti",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/117.png"
+			}
+		},
+		{
+			"name": "Devoted Colossal",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/118.png"
+			}
+		},
+		{
+			"name": "United Strike",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/119.png"
+			}
+		},
+		{
+			"name": "Overgrown Nature",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/120.png"
+			}
+		},
+		{
+			"name": "Yeti",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Yeti",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/121.png"
+			}
+		},
+		{
+			"name": "Hungry Voidling",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Creature — Voidborn",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/122.png"
+			}
+		},
+		{
+			"name": "Void Stalker",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Creature — Voidborn",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/123.png"
+			}
+		},
+		{
+			"name": "Voidborn Brute",
+			"rarity": "special",
+			"mana_cost": "{7}",
+			"type": "Creature — Voidborn",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/124.png"
+			}
+		},
+		{
+			"name": "Doran's Blade",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "486",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/125.png"
+			}
+		},
+		{
+			"name": "Map of Runeterra",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "491",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/126.png"
+			}
+		},
+		{
+			"name": "Doran's Ring",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "487",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/127.png"
+			}
+		},
+		{
+			"name": "Doran's Shield",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "488",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/128.png"
+			}
+		},
+		{
+			"name": "Crest of Piltover and Zaun",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "482",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/129.png"
+			}
+		},
+		{
+			"name": "Crest of the Shadow Isles",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "485",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/130.png"
+			}
+		},
+		{
+			"name": "Crest of Ionia",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "480",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/131.png"
+			}
+		},
+		{
+			"name": "Crest of Noxus",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "481",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/132.png"
+			}
+		},
+		{
+			"name": "Crest of Freljord",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "479",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/133.png"
+			}
+		},
+		{
+			"name": "Crest of Shurima",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "483",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/134.png"
+			}
+		},
+		{
+			"name": "Crest of Bilgewater",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "477",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/135.png"
+			}
+		},
+		{
+			"name": "Crest of Demacia",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "478",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/136.png"
+			}
+		},
+		{
+			"name": "Crest of Targon",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "484",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/137.png"
+			}
+		},
+		{
+			"name": "Crest of Bandle City",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "476",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/138.png"
+			}
+		},
+		{
+			"name": "ZZ'rot",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/139.png"
+			}
+		},
+		{
+			"name": "Kah'Zix, Apex Predator",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Creature — Voidborn Champion",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/140.png"
+			}
+		},
+		{
+			"name": "Inner City Guard",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/141.png"
+			}
+		},
+		{
+			"name": "Flameblade Knight",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/142.png"
+			}
+		},
+		{
+			"name": "Pursued Arcanist",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Mage",
+			"collector_number": "426",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/143.png"
+			}
+		},
+		{
+			"name": "Greenfang Scout",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/144.png"
+			}
+		},
+		{
+			"name": "Citywide Assembly",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/145.png"
+			}
+		},
+		{
+			"name": "Holy Adornment",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/146.png"
+			}
+		},
+		{
+			"name": "Kayle's Blessing",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "393",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/147.png"
+			}
+		},
+		{
+			"name": "Prismatic Barrier",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/148.png"
+			}
+		},
+		{
+			"name": "Forbidden Study",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/149.png"
+			}
+		},
+		{
+			"name": "Demacian Shimmercloak",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/150.png"
+			}
+		},
+		{
+			"name": "Krakenwyrm",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Legendary Creature — Serpent",
+			"collector_number": "398",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/151.png"
+			}
+		},
+		{
+			"name": "Rise of the Dead Tides",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "434",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/152.png"
+			}
+		},
+		{
+			"name": "The Syren",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "450",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/153.png"
+			}
+		},
+		{
+			"name": "Discovering Lineage",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/154.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/155.png"
+			}
+		},
+		{
+			"name": "Syren Lookout",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "451",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/156.png"
+			}
+		},
+		{
+			"name": "Dreadway Boarder",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/157.png"
+			}
+		},
+		{
+			"name": "Port Serpent",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Serpent",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/158.png"
+			}
+		},
+		{
+			"name": "Hire New Hands",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/159.png"
+			}
+		},
+		{
+			"name": "Weather the Storm",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/160.png"
+			}
+		},
+		{
+			"name": "Shipwide Betrayal",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Instant",
+			"collector_number": "439",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/161.png"
+			}
+		},
+		{
+			"name": "Blobfish Escort",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Fish",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/162.png"
+			}
+		},
+		{
+			"name": "Calculated Gambler",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/163.png"
+			}
+		},
+		{
+			"name": "Pirate Ship",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "421",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/164.png"
+			}
+		},
+		{
+			"name": "Jinx, Force of Chaos",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Champion",
+			"collector_number": "390",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/165.png"
+			}
+		},
+		{
+			"name": "Man Overboard",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/166.png"
+			}
+		},
+		{
+			"name": "Eternal Shuriman",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Anubian",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/167.png"
+			}
+		},
+		{
+			"name": "Crypt Robber",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Robber",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/168.png"
+			}
+		},
+		{
+			"name": "Ancient Burial Ground",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/169.png"
+			}
+		},
+		{
+			"name": "Lost to Time",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/170.png"
+			}
+		},
+		{
+			"name": "Remnants of Ascension",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "431",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/171.png"
+			}
+		},
+		{
+			"name": "Tomb Statue",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/172.png"
+			}
+		},
+		{
+			"name": "Cull the Meek",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/173.png"
+			}
+		},
+		{
+			"name": "Lost in the Scrolls",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/174.png"
+			}
+		},
+		{
+			"name": "Arcane Thief",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Spirit Mage",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/175.png"
+			}
+		},
+		{
+			"name": "Thinker 4 and Breaker 2",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Abomination",
+			"collector_number": "455",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/176.png"
+			}
+		},
+		{
+			"name": "Skyline Observer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/177.png"
+			}
+		},
+		{
+			"name": "Hexblast",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Instant",
+			"collector_number": "380",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/178.png"
+			}
+		},
+		{
+			"name": "Counter Research",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/179.png"
+			}
+		},
+		{
+			"name": "Bullet Spray",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/180.png"
+			}
+		},
+		{
+			"name": "Inventor's Discovery",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/181.png"
+			}
+		},
+		{
+			"name": "Infused Chemist",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/182.png"
+			}
+		},
+		{
+			"name": "Hextech Sentry",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Hextech Construct",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/183.png"
+			}
+		},
+		{
+			"name": "Sumpwork Scrapyard",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "445",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/184.png"
+			}
+		},
+		{
+			"name": "Scrap Scuttler",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact Creature — Scrap Scuttler",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/185.png"
+			}
+		},
+		{
+			"name": "Flying Crane Monk",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/186.png"
+			}
+		},
+		{
+			"name": "Moonlight Mystic",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Spirit Bird",
+			"collector_number": "405",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/187.png"
+			}
+		},
+		{
+			"name": "Protected by Spirits",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/188.png"
+			}
+		},
+		{
+			"name": "A United Ionia",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "462",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/189.png"
+			}
+		},
+		{
+			"name": "Successful Pilgrimage",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/190.png"
+			}
+		},
+		{
+			"name": "Windswept",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/191.png"
+			}
+		},
+		{
+			"name": "Shadow Strike",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/192.png"
+			}
+		},
+		{
+			"name": "Ionian",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Ionian",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/193.png"
+			}
+		},
+		{
+			"name": "Shadow Hound",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Spirit Dog",
+			"collector_number": "438",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/194.png"
+			}
+		},
+		{
+			"name": "Spectral Fumes",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/195.png"
+			}
+		},
+		{
+			"name": "Return to Unlife",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/196.png"
+			}
+		},
+		{
+			"name": "Spectral Swarm",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/197.png"
+			}
+		},
+		{
+			"name": "Unnerving Presence",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/198.png"
+			}
+		},
+		{
+			"name": "Ghostly Visions",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/199.png"
+			}
+		},
+		{
+			"name": "Eerie Onlooker",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Spirit Bird",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/200.png"
+			}
+		},
+		{
+			"name": "Fear Beyond Death",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/201.png"
+			}
+		},
+		{
+			"name": "Syphon Their Souls",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "449",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/202.png"
+			}
+		},
+		{
+			"name": "Winter's Claw Raiders",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Human Viking",
+			"collector_number": "470",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/203.png"
+			}
+		},
+		{
+			"name": "Agony's Embrace",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/204.png"
+			}
+		},
+		{
+			"name": "Medarda Prodigy",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "403",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/205.png"
+			}
+		},
+		{
+			"name": "Scraps Scavenger",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Mouse",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/206.png"
+			}
+		},
+		{
+			"name": "Frost Assassin",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/207.png"
+			}
+		},
+		{
+			"name": "Avarosan Archer",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Archer",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/208.png"
+			}
+		},
+		{
+			"name": "Frostshield Shaman",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/209.png"
+			}
+		},
+		{
+			"name": "Troll Scavenger",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Troll",
+			"collector_number": "457",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/210.png"
+			}
+		},
+		{
+			"name": "Poro Herd",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/211.png"
+			}
+		},
+		{
+			"name": "Visions of the Frostguard",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/212.png"
+			}
+		},
+		{
+			"name": "Elnuk Migration",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/213.png"
+			}
+		},
+		{
+			"name": "Roar of the Wild",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/214.png"
+			}
+		},
+		{
+			"name": "Destruction from the Elder God",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/215.png"
+			}
+		},
+		{
+			"name": "Grounded by the Cryophoenix",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/216.png"
+			}
+		},
+		{
+			"name": "Demon of the Deep",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Kraken",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/217.png"
+			}
+		},
+		{
+			"name": "Aurelion Sol, Dragon of Creation",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}{B}{B}",
+			"type": "Legendary Creature — Dragon Champion",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/218.png"
+			}
+		},
+		{
+			"name": "The Outcast Sister",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "416",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/219.png"
+			}
+		},
+		{
+			"name": "Xerath, Chained Ascended",
+			"rarity": "special",
+			"mana_cost": "{5}{U}",
+			"type": "Legendary Creature — Ascended Champion",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/220.png"
+			}
+		},
+		{
+			"name": "Voracious Duplicator",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Creature — Voidborn",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/221.png"
+			}
+		},
+		{
+			"name": "Twilight Priest",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "459",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/222.png"
+			}
+		},
+		{
+			"name": "Lunari Cleric",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Lunari",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/223.png"
+			}
+		},
+		{
+			"name": "Solari Clerics",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/224.png"
+			}
+		},
+		{
+			"name": "Solari Priestess",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Mage",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/225.png"
+			}
+		},
+		{
+			"name": "Dark Stellacorn",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Stellacorn",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/226.png"
+			}
+		},
+		{
+			"name": "Lunari Assassin",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vastayan Assassin",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/227.png"
+			}
+		},
+		{
+			"name": "Lunari Cavern",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/228.png"
+			}
+		},
+		{
+			"name": "Rise of the Sun",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/229.png"
+			}
+		},
+		{
+			"name": "Banish to Marus Omegnum",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/230.png"
+			}
+		},
+		{
+			"name": "Shards of Moonlight",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/231.png"
+			}
+		},
+		{
+			"name": "Gift of the Stars",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "376",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/232.png"
+			}
+		},
+		{
+			"name": "Swain, Vision of Noxus",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Demon Champion",
+			"collector_number": "447",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/233.png"
+			}
+		},
+		{
+			"name": "Leblanc, Guile of Noxus",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Champion",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/234.png"
+			}
+		},
+		{
+			"name": "Sejuani, Winter's Rider",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Champion",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/235.png"
+			}
+		},
+		{
+			"name": "Lissandra, Frostguard Witch",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Demon Champion",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/236.png"
+			}
+		},
+		{
+			"name": "Viktor, Source of Evolution",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Hextech Champion",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/237.png"
+			}
+		},
+		{
+			"name": "Thresh, Death's Jailer",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Creature — Spirit Champion",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/238.png"
+			}
+		},
+		{
+			"name": "Sivir, Herald of the King",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Champion",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/239.png"
+			}
+		},
+		{
+			"name": "Miss Fortune, Bilgewater Liberator",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Pirate Champion",
+			"collector_number": "404",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/240.png"
+			}
+		},
+		{
+			"name": "Tristana, Bandle Gunner",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Yordle Champion",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/241.png"
+			}
+		},
+		{
+			"name": "Veigar, Twisted Sorcerer",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Yordle Champion",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/242.png"
+			}
+		},
+		{
+			"name": "Yuumi, Friend to All",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Cat Champion",
+			"collector_number": "474",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/243.png"
+			}
+		},
+		{
+			"name": "Twisted Fate, Lucky Gambler",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Champion",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/244.png"
+			}
+		},
+		{
+			"name": "Galio, Stone Protector",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Artifact Creature — Construct Champion",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/245.png"
+			}
+		},
+		{
+			"name": "Lux, Dazling Light",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Mage Champion",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/246.png"
+			}
+		},
+		{
+			"name": "Sylas, Mage Revolutionary",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Mage Champion",
+			"collector_number": "448",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/247.png"
+			}
+		},
+		{
+			"name": "Trundle, Iceborn Troll",
+			"rarity": "special",
+			"mana_cost": "{5}{R}",
+			"type": "Legendary Creature — Troll Champion",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/248.png"
+			}
+		},
+		{
+			"name": "Akali, Fist of Shadow",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Ninja Champion",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/249.png"
+			}
+		},
+		{
+			"name": "Jhin, Death Artisan",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Champion",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/250.png"
+			}
+		},
+		{
+			"name": "Vladimir, Blood of Noxus",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Vampire Champion",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/251.png"
+			}
+		},
+		{
+			"name": "Urgot, Undercity Crimeboss",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Hextech Champion",
+			"collector_number": "464",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/252.png"
+			}
+		},
+		{
+			"name": "Hecarim, Cruel Enforcer",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Spirit Champion",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/253.png"
+			}
+		},
+		{
+			"name": "Nasus, Scroll Guardian to the King",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Ascended Champion",
+			"collector_number": "408",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/254.png"
+			}
+		},
+		{
+			"name": "Taliyah, the Wandering Weaver",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Champion",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/255.png"
+			}
+		},
+		{
+			"name": "Leona, Solar Commander",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Aspect Champion",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/256.png"
+			}
+		},
+		{
+			"name": "Diana, Lunar Uniter",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Creature — Aspect Champion",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/257.png"
+			}
+		},
+		{
+			"name": "Pantheon, Immortal Warrior",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Human Champion",
+			"collector_number": "418",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/258.png"
+			}
+		},
+		{
+			"name": "Cho'Gath, Void Monstrosity",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Creature — Voidborn Champion",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/259.png"
+			}
+		},
+		{
+			"name": "Rek'Sai, Queen of the Sands",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Creature — Voidborn Champion",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/260.png"
+			}
+		},
+		{
+			"name": "Vel'Koz, Eternal Watcher",
+			"rarity": "special",
+			"mana_cost": "{7}",
+			"type": "Legendary Creature — Voidborn Champion",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/261.png"
+			}
+		},
+		{
+			"name": "Kog'Maw, Hunger of the Void",
+			"rarity": "special",
+			"mana_cost": "{X}",
+			"type": "Legendary Creature — Voidborn Champion",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/262.png"
+			}
+		},
+		{
+			"name": "Yordle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Yordle",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/263.png"
+			}
+		},
+		{
+			"name": "The Ruination",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}{B}{B}",
+			"type": "Legendary Sorcery",
+			"collector_number": "435",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/264.png"
+			}
+		},
+		{
+			"name": "United We Stand",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "463",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/265.png"
+			}
+		},
+		{
+			"name": "Glorious Evolution",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Sorcery",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/266.png"
+			}
+		},
+		{
+			"name": "Reawakening the Lineage",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Instant",
+			"collector_number": "429",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/267.png"
+			}
+		},
+		{
+			"name": "Ascension Ritual",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}{U}{U}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/268.png"
+			}
+		},
+		{
+			"name": "Devoted Retainer",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/269.png"
+			}
+		},
+		{
+			"name": "Progress Day Statue",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "424",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/270.png"
+			}
+		},
+		{
+			"name": "Alune",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/271.png"
+			}
+		},
+		{
+			"name": "Bandle Infiltrator",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Insect",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/272.png"
+			}
+		},
+		{
+			"name": "Living Vegetation",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/273.png"
+			}
+		},
+		{
+			"name": "Portal Tree Warden",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Yordle",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/274.png"
+			}
+		},
+		{
+			"name": "Bandle City Defender",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Yordle",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/275.png"
+			}
+		},
+		{
+			"name": "Weapon Thief",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature — Yordle",
+			"collector_number": "469",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/276.png"
+			}
+		},
+		{
+			"name": "Lost in the Woods",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/277.png"
+			}
+		},
+		{
+			"name": "Silent Forest Gateway",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/278.png"
+			}
+		},
+		{
+			"name": "Nature's Defenses",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "409",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/279.png"
+			}
+		},
+		{
+			"name": "Quick Journey",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/280.png"
+			}
+		},
+		{
+			"name": "Trifarian Raider",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/281.png"
+			}
+		},
+		{
+			"name": "Trifarian Bannerman",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/282.png"
+			}
+		},
+		{
+			"name": "Trifarian Legionnaire",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/283.png"
+			}
+		},
+		{
+			"name": "Return to Noxus",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/284.png"
+			}
+		},
+		{
+			"name": "Battlefield Assault",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/285.png"
+			}
+		},
+		{
+			"name": "Crippling Strike",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/286.png"
+			}
+		},
+		{
+			"name": "Battlefield Tactics",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/287.png"
+			}
+		},
+		{
+			"name": "Sight of the Raven",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/288.png"
+			}
+		},
+		{
+			"name": "Blade of the Exile",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Instant",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/289.png"
+			}
+		},
+		{
+			"name": "Crimson Delight",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/290.png"
+			}
+		},
+		{
+			"name": "Poro",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Poro",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/291.png"
+			}
+		},
+		{
+			"name": "Mt. Targon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "516",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/292.png"
+			}
+		},
+		{
+			"name": "Shurima",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "524",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/293.png"
+			}
+		},
+		{
+			"name": "Demacia",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Mountain",
+			"collector_number": "506",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/294.png"
+			}
+		},
+		{
+			"name": "The Shadow Isles",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "523",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/295.png"
+			}
+		},
+		{
+			"name": "Freljord",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "511",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/296.png"
+			}
+		},
+		{
+			"name": "Noxus",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "517",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/297.png"
+			}
+		},
+		{
+			"name": "Omikayalan, The God-Willow",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "414",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/298.png"
+			}
+		},
+		{
+			"name": "Sunken Reflections",
+			"rarity": "special",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "446",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/299.png"
+			}
+		},
+		{
+			"name": "Dalamor Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "505",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/300.png"
+			}
+		},
+		{
+			"name": "Shuriman Desert",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "525",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/301.png"
+			}
+		},
+		{
+			"name": "The Mountain Pathway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "515",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/302.png"
+			}
+		},
+		{
+			"name": "Whiterock",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "529",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/303.png"
+			}
+		},
+		{
+			"name": "The Glade",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "512",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/304.png"
+			}
+		},
+		{
+			"name": "Ruined City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "521",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/305.png"
+			}
+		},
+		{
+			"name": "The Undercity",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "528",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/306.png"
+			}
+		},
+		{
+			"name": "The First Lands",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "510",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/307.png"
+			}
+		},
+		{
+			"name": "The Wreckoning Pits",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "530",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/308.png"
+			}
+		},
+		{
+			"name": "Raider Base Camp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "520",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/309.png"
+			}
+		},
+		{
+			"name": "The Slaughter Docks",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "527",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/310.png"
+			}
+		},
+		{
+			"name": "Entrance to Mudtown",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "508",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/311.png"
+			}
+		},
+		{
+			"name": "The Black Mist",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "501",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/312.png"
+			}
+		},
+		{
+			"name": "The Ironspike Mountains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "513",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/313.png"
+			}
+		},
+		{
+			"name": "The Silent Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "526",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/314.png"
+			}
+		},
+		{
+			"name": "Sight Through Reality",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "440",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/315.png"
+			}
+		},
+		{
+			"name": "The Replicator",
+			"rarity": "special",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "432",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/316.png"
+			}
+		},
+		{
+			"name": "Watcher Troll",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{R}{G}",
+			"type": "Creature — Troll",
+			"collector_number": "468",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/317.png"
+			}
+		},
+		{
+			"name": "The Sanctuary",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "436",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/318.png"
+			}
+		},
+		{
+			"name": "Nagakabouros",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "407",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/319.png"
+			}
+		},
+		{
+			"name": "Invasion of Ionia",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}{R}",
+			"type": "Legendary Sorcery",
+			"collector_number": "386",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/320.png"
+			}
+		},
+		{
+			"name": "The Immortal Bastion",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "384",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/321.png"
+			}
+		},
+		{
+			"name": "Clash of the Gods",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Sorcery",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/322.png"
+			}
+		},
+		{
+			"name": "The Howling Abyss",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "383",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/323.png"
+			}
+		},
+		{
+			"name": "Master Kusho",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Human Ninja",
+			"collector_number": "402",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/324.png"
+			}
+		},
+		{
+			"name": "King Jarvan III",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "394",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/325.png"
+			}
+		},
+		{
+			"name": "Petricite Walls",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "420",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/326.png"
+			}
+		},
+		{
+			"name": "Pylas",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "427",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/327.png"
+			}
+		},
+		{
+			"name": "Blessing of an Aspect",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Instant",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/328.png"
+			}
+		},
+		{
+			"name": "Norra",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Yordle Mage",
+			"collector_number": "411",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/329.png"
+			}
+		},
+		{
+			"name": "Fall of Icathia",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/330.png"
+			}
+		},
+		{
+			"name": "Odyn Valley",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "518",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/331.png"
+			}
+		},
+		{
+			"name": "Buhru Temple",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "502",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/332.png"
+			}
+		},
+		{
+			"name": "The Serpentine Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "522",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/333.png"
+			}
+		},
+		{
+			"name": "The Argent Mountains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "499",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/334.png"
+			}
+		},
+		{
+			"name": "The Plague Arbor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "519",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/335.png"
+			}
+		},
+		{
+			"name": "Trinity Force",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equip",
+			"collector_number": "496",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://iamoriginality.github.io/sets/LOL-files/img/336_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/336_front.png"
+			}
+		},
+		{
+			"name": "Exploring Runeterra",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "509",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/337.png"
+			}
+		},
+		{
+			"name": "Entrance of the Void",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "507",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/338.png"
+			}
+		},
+		{
+			"name": "Fleet Siege Run",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/339.png"
+			}
+		},
+		{
+			"name": "Demonflare",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/340.png"
+			}
+		},
+		{
+			"name": "Demon Lightning",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/341.png"
+			}
+		},
+		{
+			"name": "World Rune",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "498",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/342.png"
+			}
+		},
+		{
+			"name": "Ancestors of Ice",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/343.png"
+			}
+		},
+		{
+			"name": "Vilemaw's Annointed",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Spider",
+			"collector_number": "467",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/344.png"
+			}
+		},
+		{
+			"name": "The Blessed Isles",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/345.png"
+			}
+		},
+		{
+			"name": "United Consciousness",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "461",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/346.png"
+			}
+		},
+		{
+			"name": "Victory at the Placidium",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Instant",
+			"collector_number": "466",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/347.png"
+			}
+		},
+		{
+			"name": "Skyline Inspiration",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "441",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/348.png"
+			}
+		},
+		{
+			"name": "Underhanded Research",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Instant",
+			"collector_number": "460",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/349.png"
+			}
+		},
+		{
+			"name": "Rejected From the Peak",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "430",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/350.png"
+			}
+		},
+		{
+			"name": "Open the Crypt",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "415",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/351.png"
+			}
+		},
+		{
+			"name": "Glittering Wish",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "377",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/352.png"
+			}
+		},
+		{
+			"name": "True Polymorph",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/353.png"
+			}
+		},
+		{
+			"name": "Flare of the Righteous",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/354.png"
+			}
+		},
+		{
+			"name": "Protect the Greatest City",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Instant",
+			"collector_number": "425",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/355.png"
+			}
+		},
+		{
+			"name": "Strike the Darkin Down",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "444",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/356.png"
+			}
+		},
+		{
+			"name": "Absolute Silence",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}{U}",
+			"type": "Instant",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/357.png"
+			}
+		},
+		{
+			"name": "One Quick Job",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/358.png"
+			}
+		},
+		{
+			"name": "Kraken Priest",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Serpent Priest",
+			"collector_number": "397",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/359.png"
+			}
+		},
+		{
+			"name": "Syren Shipbreaker",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "452",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/360.png"
+			}
+		},
+		{
+			"name": "Cloud Mage",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Mage",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/361.png"
+			}
+		},
+		{
+			"name": "Voidborn Carapace",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Enchantment — Aura",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/362.png"
+			}
+		},
+		{
+			"name": "Rift Scuttler",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Creature — Crab",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/363.png"
+			}
+		},
+		{
+			"name": "Herald of the Rift",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Creature — Voidborn Crab",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/364.png"
+			}
+		},
+		{
+			"name": "Void Lightning Hounds",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Creature — Voidborn Dog",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/365.png"
+			}
+		},
+		{
+			"name": "Void Swarm",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/366.png"
+			}
+		},
+		{
+			"name": "The Prophet's Visions",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/367.png"
+			}
+		},
+		{
+			"name": "Eye of Angor",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "489",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/368.png"
+			}
+		},
+		{
+			"name": "The Nether Blade of Horok",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equip",
+			"collector_number": "492",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/369.png"
+			}
+		},
+		{
+			"name": "Norra's Book",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "493",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/370.png"
+			}
+		},
+		{
+			"name": "Quicksilver Sash",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "494",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/371.png"
+			}
+		},
+		{
+			"name": "Bramble Vest",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "475",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/372.png"
+			}
+		},
+		{
+			"name": "Redemption Locket",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "495",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/373.png"
+			}
+		},
+		{
+			"name": "Baron Nashor",
+			"rarity": "special",
+			"mana_cost": "{9}",
+			"type": "Legendary Creature — Voidborn",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/374.png"
+			}
+		},
+		{
+			"name": "Return to Silence",
+			"rarity": "special",
+			"mana_cost": "{7}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/375.png"
+			}
+		},
+		{
+			"name": "A Divided Demacia",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/376.png"
+			}
+		},
+		{
+			"name": "Mageguard Duo",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Soldier Mage",
+			"collector_number": "400",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/377.png"
+			}
+		},
+		{
+			"name": "Dauntless Vanguard",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/378.png"
+			}
+		},
+		{
+			"name": "Mage Seekers",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/379.png"
+			}
+		},
+		{
+			"name": "Durand",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/380.png"
+			}
+		},
+		{
+			"name": "Tianna Crownguard",
+			"rarity": "special",
+			"mana_cost": "{5}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/381.png"
+			}
+		},
+		{
+			"name": "Blessing of the Righteous",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/382.png"
+			}
+		},
+		{
+			"name": "Gargoyle's Stoneplate",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/383.png"
+			}
+		},
+		{
+			"name": "Azakana",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Demon Spirit",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/384.png"
+			}
+		},
+		{
+			"name": "Master Doran",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "401",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/385.png"
+			}
+		},
+		{
+			"name": "Spiritual Transformation",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "443",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/386.png"
+			}
+		},
+		{
+			"name": "Waterfalls of Shon-Xan",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/387.png"
+			}
+		},
+		{
+			"name": "Entrance to the Spirit Realm",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Instant",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/388.png"
+			}
+		},
+		{
+			"name": "Soul Wanderer",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "442",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/389.png"
+			}
+		},
+		{
+			"name": "Ra'Horak Knight",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/390.png"
+			}
+		},
+		{
+			"name": "Atreus",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/391.png"
+			}
+		},
+		{
+			"name": "Bright Stellacorn",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Stellacorn",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/392.png"
+			}
+		},
+		{
+			"name": "Climber's Protector",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Creature — Goat",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/393.png"
+			}
+		},
+		{
+			"name": "Piercing Moonlight",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/394.png"
+			}
+		},
+		{
+			"name": "Edict of the Immortals",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/395.png"
+			}
+		},
+		{
+			"name": "Spell Thief",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/396.png"
+			}
+		},
+		{
+			"name": "Hextech Overcharge",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "382",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/397.png"
+			}
+		},
+		{
+			"name": "Research",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "433",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/398.png"
+			}
+		},
+		{
+			"name": "Brackern Crystal",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/399.png"
+			}
+		},
+		{
+			"name": "The Null",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Mage",
+			"collector_number": "413",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/400.png"
+			}
+		},
+		{
+			"name": "Runaan",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/401.png"
+			}
+		},
+		{
+			"name": "Rylai",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Frostborn Mage",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/402.png"
+			}
+		},
+		{
+			"name": "Youmuu",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/403.png"
+			}
+		},
+		{
+			"name": "Rabadon",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Mage",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/404.png"
+			}
+		},
+		{
+			"name": "Warmog",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Yordle",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/405.png"
+			}
+		},
+		{
+			"name": "Grena",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Berserker",
+			"collector_number": "378",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/406.png"
+			}
+		},
+		{
+			"name": "Dhogdol",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Zombie Knight",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/407.png"
+			}
+		},
+		{
+			"name": "Avarosan Icemage",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Mage",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/408.png"
+			}
+		},
+		{
+			"name": "Troll Caretaker",
+			"rarity": "special",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Yeti",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/409.png"
+			}
+		},
+		{
+			"name": "Perilous Journey",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "419",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/410.png"
+			}
+		},
+		{
+			"name": "Feast for Trolls",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Instant",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/411.png"
+			}
+		},
+		{
+			"name": "Tales of Youth",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "453",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/412.png"
+			}
+		},
+		{
+			"name": "Glacial Impact",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/413.png"
+			}
+		},
+		{
+			"name": "Valeeva",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Aven Soldier",
+			"collector_number": "465",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/414.png"
+			}
+		},
+		{
+			"name": "Kohari Warmages",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Mage",
+			"collector_number": "396",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/415.png"
+			}
+		},
+		{
+			"name": "Ascension Priest",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/416.png"
+			}
+		},
+		{
+			"name": "Corrupted Shuriman",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/417.png"
+			}
+		},
+		{
+			"name": "Forgotten Soul",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Instant",
+			"collector_number": "373",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/418.png"
+			}
+		},
+		{
+			"name": "Spirit Guardian",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/419.png"
+			}
+		},
+		{
+			"name": "Raised by the Sun Disk",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "428",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/420.png"
+			}
+		},
+		{
+			"name": "Musical Pixie",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Faerie",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/421.png"
+			}
+		},
+		{
+			"name": "Flashbloom Flower",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/422.png"
+			}
+		},
+		{
+			"name": "Screaming Yipsnake Carrier Owl",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Owl",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/423.png"
+			}
+		},
+		{
+			"name": "Wooglet",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Yordle Mage",
+			"collector_number": "472",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/424.png"
+			}
+		},
+		{
+			"name": "Pix",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "422",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/425.png"
+			}
+		},
+		{
+			"name": "Lost in the Bandlewood",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "399",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/426.png"
+			}
+		},
+		{
+			"name": "Bandlewood Defense",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/427.png"
+			}
+		},
+		{
+			"name": "Yordle Shrine",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "473",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/428.png"
+			}
+		},
+		{
+			"name": "Soul Harvester",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit Horror",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/429.png"
+			}
+		},
+		{
+			"name": "Soldier of the Ruined King",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/430.png"
+			}
+		},
+		{
+			"name": "Grez",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "379",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/431.png"
+			}
+		},
+		{
+			"name": "Commander Ledros",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Spirit Knight",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/432.png"
+			}
+		},
+		{
+			"name": "Into the Library of the Damned",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "385",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/433.png"
+			}
+		},
+		{
+			"name": "Night Terror",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "410",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/434.png"
+			}
+		},
+		{
+			"name": "The Iron Revenant's Spirit",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/435.png"
+			}
+		},
+		{
+			"name": "The Pale Lady",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "417",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/436.png"
+			}
+		},
+		{
+			"name": "Boram Darkwill",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}{R}{R}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/437.png"
+			}
+		},
+		{
+			"name": "Worthy Sacrifice",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/438.png"
+			}
+		},
+		{
+			"name": "Anger Spree",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/439.png"
+			}
+		},
+		{
+			"name": "Emystan's Horror",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/440.png"
+			}
+		},
+		{
+			"name": "Bloodsoaked Ressurection",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Instant",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/441.png"
+			}
+		},
+		{
+			"name": "Noxian Excecution",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "412",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/442.png"
+			}
+		},
+		{
+			"name": "Illusion",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Illusion",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/443.png"
+			}
+		},
+		{
+			"name": "Soul Defender",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/444.png"
+			}
+		},
+		{
+			"name": "Mejai",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/445.png"
+			}
+		},
+		{
+			"name": "Liandry",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Creature — Vastayan Mage",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/446.png"
+			}
+		},
+		{
+			"name": "Mind Lancer",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit Assassin",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/447.png"
+			}
+		},
+		{
+			"name": "Retributive Warrior",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/448.png"
+			}
+		},
+		{
+			"name": "Scream of the Banshee",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/449.png"
+			}
+		},
+		{
+			"name": "Death From Below",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/450.png"
+			}
+		},
+		{
+			"name": "Temple of the Crimson Circle",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/451.png"
+			}
+		},
+		{
+			"name": "Cast Down",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/452.png"
+			}
+		},
+		{
+			"name": "Cutthroat Operation",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/453.png"
+			}
+		},
+		{
+			"name": "Call of the Crypt",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/454.png"
+			}
+		},
+		{
+			"name": "Reinforcements of the Army",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/455.png"
+			}
+		},
+		{
+			"name": "Constant Vigilance",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/456.png"
+			}
+		},
+		{
+			"name": "Druid Evoker",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/457.png"
+			}
+		},
+		{
+			"name": "Sterak",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Berserker",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/458.png"
+			}
+		},
+		{
+			"name": "Caulfield",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/459.png"
+			}
+		},
+		{
+			"name": "Vigilant Evoker",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/460.png"
+			}
+		},
+		{
+			"name": "Dragon Hunters",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/461.png"
+			}
+		},
+		{
+			"name": "Giant Owlbear",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Owl Bear",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/462.png"
+			}
+		},
+		{
+			"name": "Break into Pieces",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/463.png"
+			}
+		},
+		{
+			"name": "Awaken the Forest",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/464.png"
+			}
+		},
+		{
+			"name": "Return to Nature",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/465.png"
+			}
+		},
+		{
+			"name": "City of Giants",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/466.png"
+			}
+		},
+		{
+			"name": "Mikael",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/467.png"
+			}
+		},
+		{
+			"name": "Randuin",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/468.png"
+			}
+		},
+		{
+			"name": "Personal Bodyguard",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/469.png"
+			}
+		},
+		{
+			"name": "Devoted Right Hand of Legends",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/470.png"
+			}
+		},
+		{
+			"name": "Sentinel's Pursuit",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/471.png"
+			}
+		},
+		{
+			"name": "Shatter Apart",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/472.png"
+			}
+		},
+		{
+			"name": "Gods Willing",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/473.png"
+			}
+		},
+		{
+			"name": "Dove Ditty",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/474.png"
+			}
+		},
+		{
+			"name": "Caretaker's Shrine",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/475.png"
+			}
+		},
+		{
+			"name": "Mageseeker's Armor",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact — Equip",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/476.png"
+			}
+		},
+		{
+			"name": "Serylda",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Mage",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/477.png"
+			}
+		},
+		{
+			"name": "Luden",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Creature — Vastayan Mage",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/478.png"
+			}
+		},
+		{
+			"name": "Watcher Sphinx",
+			"rarity": "special",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/479.png"
+			}
+		},
+		{
+			"name": "Reflected Visage",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/480.png"
+			}
+		},
+		{
+			"name": "Consult the Tomes",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/481.png"
+			}
+		},
+		{
+			"name": "Blink of a Stye",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/482.png"
+			}
+		},
+		{
+			"name": "Sudden Infiltration",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/483.png"
+			}
+		},
+		{
+			"name": "Rune Prison",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/484.png"
+			}
+		},
+		{
+			"name": "Return to the Wind",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/485.png"
+			}
+		},
+		{
+			"name": "Bami",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/486.png"
+			}
+		},
+		{
+			"name": "Shurelya",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/487.png"
+			}
+		},
+		{
+			"name": "Rampaging Badgerbear",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Bear",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/488.png"
+			}
+		},
+		{
+			"name": "Wrenwall's Brood",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/489.png"
+			}
+		},
+		{
+			"name": "Tempting Offering",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/490.png"
+			}
+		},
+		{
+			"name": "Rain of Arrows",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/491.png"
+			}
+		},
+		{
+			"name": "Demolish",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/492.png"
+			}
+		},
+		{
+			"name": "Kircheis Batons",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equip",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/493.png"
+			}
+		},
+		{
+			"name": "Flaming Assault",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/494.png"
+			}
+		},
+		{
+			"name": "Pressed Into the Pits",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Instant",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/495.png"
+			}
+		},
+		{
+			"name": "Form of the Wanderer",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/496.png"
+			}
+		},
+		{
+			"name": "Complete Obliteration",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/497.png"
+			}
+		},
+		{
+			"name": "The Eternal Nightmare",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Shade",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/498.png"
+			}
+		},
+		{
+			"name": "The Ancient Fear",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Nightmare",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/499.png"
+			}
+		},
+		{
+			"name": "Demon of Agony",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/500.png"
+			}
+		},
+		{
+			"name": "Spider God's Tutelage",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/501.png"
+			}
+		},
+		{
+			"name": "Entomb",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/502.png"
+			}
+		},
+		{
+			"name": "The Wandering Caretaker",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/503.png"
+			}
+		},
+		{
+			"name": "The Eternal Hunters",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/504.png"
+			}
+		},
+		{
+			"name": "The Purifier",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/505.png"
+			}
+		},
+		{
+			"name": "Preservation Angel",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/506.png"
+			}
+		},
+		{
+			"name": "World Rune Guardian",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/507.png"
+			}
+		},
+		{
+			"name": "Coalition Victory",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/508.png"
+			}
+		},
+		{
+			"name": "Rescue from the Lantern of Death",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/509.png"
+			}
+		},
+		{
+			"name": "The Tidal Trickster",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Yordle Fish",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/510.png"
+			}
+		},
+		{
+			"name": "The Tidecaller",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Vastayan Shaman",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/511.png"
+			}
+		},
+		{
+			"name": "The Chronokeeper",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Mage",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/512.png"
+			}
+		},
+		{
+			"name": "One with the Wind",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/513.png"
+			}
+		},
+		{
+			"name": "Chronobreak",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/514.png"
+			}
+		},
+		{
+			"name": "Skyline Scouts",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/515.png"
+			}
+		},
+		{
+			"name": "Tale's End",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/516.png"
+			}
+		},
+		{
+			"name": "The Dark Child",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Mage",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/517.png"
+			}
+		},
+		{
+			"name": "The Burning Vengeance",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Spirit Mage",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/518.png"
+			}
+		},
+		{
+			"name": "The Darkin Blade",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Darkin",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/519.png"
+			}
+		},
+		{
+			"name": "Dragon Overseer",
+			"rarity": "special",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/520.png"
+			}
+		},
+		{
+			"name": "Impulsive Raze",
+			"rarity": "special",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/521.png"
+			}
+		},
+		{
+			"name": "Noxious Fumes",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/522.png"
+			}
+		},
+		{
+			"name": "The Pridestalker",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Vastayan Assassin",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/523.png"
+			}
+		},
+		{
+			"name": "The Thorn Bringer",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Vastayan Shaman",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/524.png"
+			}
+		},
+		{
+			"name": "The Bestial Huntress",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Vastayan Assassin",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/525.png"
+			}
+		},
+		{
+			"name": "Elder Titan",
+			"rarity": "special",
+			"mana_cost": "{8}{G}{G}",
+			"type": "Creature — Elder Titan",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/526.png"
+			}
+		},
+		{
+			"name": "Shaman of the Tribe",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Troll Shaman",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/527.png"
+			}
+		},
+		{
+			"name": "Follow the Ring-Network",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/528.png"
+			}
+		},
+		{
+			"name": "Seek Far Away Lands",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/529.png"
+			}
+		},
+		{
+			"name": "Angel of Justice",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/530.png"
+			}
+		},
+		{
+			"name": "Celestial Manifestation",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/531.png"
+			}
+		},
+		{
+			"name": "Decipher the Scroll",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/532.png"
+			}
+		},
+		{
+			"name": "Time Stop",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/533.png"
+			}
+		},
+		{
+			"name": "Frostguard Stalker",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/534.png"
+			}
+		},
+		{
+			"name": "Boneyard Parley",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/535.png"
+			}
+		},
+		{
+			"name": "Celestial Star Dragon",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/536.png"
+			}
+		},
+		{
+			"name": "Unstable Realm Warp",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/537.png"
+			}
+		},
+		{
+			"name": "Azakana of Death",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Demon",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/538.png"
+			}
+		},
+		{
+			"name": "Defending Runeterra",
+			"rarity": "special",
+			"mana_cost": "{5}{G}",
+			"type": "Enchantment",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/539.png"
+			}
+		},
+		{
+			"name": "Blade",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Blade",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/540.png"
+			}
+		},
+		{
+			"name": "Elnuk",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Elnuk",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/541.png"
+			}
+		},
+		{
+			"name": "Mushroom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Mushroom",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/542.png"
+			}
+		},
+		{
+			"name": "Shyvana, Jarvan's Protector",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Dragon Champion",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/543.png"
+			}
+		},
+		{
+			"name": "Trinity Force",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equip",
+			"collector_number": "497",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/544.png"
+			}
+		},
+		{
+			"name": "Baron Nashor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Emblem — Nashor",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/545.png"
+			}
+		},
+		{
+			"name": "Voidling",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Voidling",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/546.png"
+			}
+		},
+		{
+			"name": "Dauntless Vanguard",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Human Soldier",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/547.png"
+			}
+		},
+		{
+			"name": "The Portal Tree",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "423",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/LOL-files/img/548.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Shyvana, Jarvan's Protector
+	1 Kled, Fury of Noxus
+	1 The Dreadway
+	1 Zed, Leader of Shadows
+	1 Karma, Soul Incarnate
+	1 Pyke, Drowned Serpent
+	1 Gangplank, Pirate Lord
+	1 Tahm Kench, Ravenous Broker
+	1 Karthus, Death's Lament
+	1 Yorick, Corrupted Guide
+	1 Tryndamere, War King
+	1 Ashe, the Great Uniter
+	1 Lulu, Faerie Friend
+	1 Scholar of the Sands
+	1 Crownguard Scout
+	1 Ionian Primal Monk
+	1 Fallen Priest
+	1 Bandle City
+	1 Bandle Scout
+	1 Azir, Sunborn King
+	1 Hextech Aide
+	1 Jagged Hook Rookie
+	1 Trifarian Recruit
+	1 Winter's Claw Reaver
+	1 Irelia, Warrior Dancer
+	1 Garen, Dauntless Vanguard
+	1 Teemo, Lone Scout
+	1 Darius, Might of Noxus
+	1 Jayce, Genius Inventor
+	1 Enraged Ironback
+	1 Push Through
+	1 Ship Drunkard
+	1 Drag Below
+	1 Butcher's Bridge
+	1 The City of Progress
+	1 Hextech Musician
+	1 Briliant Idea
+	1 Blitzcrank, Lost Golem
+	1 Hexlace
+	1 Winged Protege
+	1 Fume Creaks
+	1 Down in the Sumps
+	1 Zoe, Playful Trickster
+	1 Stand Together
+	1 Cultivating Harmony
+	1 Spirit Shield
+	1 Mordekaiser, Soul King
+	1 Spirit Seer
+	1 Defend the Placidium
+	1 Bigger than Being
+	1 Kinkou Monastery
+	1 Ionian Spiritualist
+	1 Call the Silverwings
+	1 Silverwing Fledgling
+	1 Laurent Duelist
+	1 Devoted Cleric
+	1 Selfless Hound
+	1 Battlefield Rallier
+	1 Zealot Devotee
+	1 Devoted Yordle
+	1 Watchful Knight
+	1 Devoted Giffonhawk
+	1 Aspect's Presence
+	1 Final Push
+	1 Purify
+	1 Blown Away
+	1 Drain Lifeforce
+	1 Devoted Trickster
+	1 Bahrl Jay
+	1 Sea-Tiger Seer
+	1 Devoted Spy
+	1 Ancient Sphinx
+	1 Spirit of the Tidecaller
+	1 Consult Mentor
+	1 Underwater Presence
+	1 Absorb Spell
+	1 Consult the Nexus
+	1 Distracting Lights
+	1 Gift of Wings
+	1 Rejected from the Library
+	1 Black Rose Assassin
+	1 New Recruit
+	1 Ravenguard Elite
+	1 Devoted Witch
+	1 Witch of the Mist
+	1 Vastayan Graverobber
+	1 Demonic Minion
+	1 Devoted Soldier
+	1 Spirit Walker
+	1 Agony of the King
+	1 Trade with the Otherrealm
+	1 Thrown in the Locker
+	1 Burning Homestead
+	1 Lost Sister
+	1 Eager Frontliner
+	1 Devoted Guardian
+	1 Quickening Inventor
+	1 Monolith Golem
+	1 Influential Socialite
+	1 Wandering Rider
+	1 Roaming Dragon
+	1 Lightning Strike
+	1 Mad Scramble
+	1 Beserker Rage
+	1 Ranger's Mount
+	1 Wandering Soldier
+	1 Devoted Soul
+	1 Creeping Spirit
+	1 Attentive Explorer
+	1 Bandlewood Defender
+	1 Collected Barbarian
+	1 Yeti Youngling
+	1 Devoted Colossal
+	1 United Strike
+	1 Overgrown Nature
+	1 Hungry Voidling
+	1 Void Stalker
+	1 Voidborn Brute
+	1 Doran's Blade
+	1 Map of Runeterra
+	1 Doran's Ring
+	1 Doran's Shield
+	1 Crest of Piltover and Zaun
+	1 Crest of the Shadow Isles
+	1 Crest of Ionia
+	1 Crest of Noxus
+	1 Crest of Freljord
+	1 Crest of Shurima
+	1 Crest of Bilgewater
+	1 Crest of Demacia
+	1 Crest of Targon
+	1 Crest of Bandle City
+	1 ZZ'rot
+	1 Kah'Zix, Apex Predator
+	1 Inner City Guard
+	1 Flameblade Knight
+	1 Pursued Arcanist
+	1 Greenfang Scout
+	1 Citywide Assembly
+	1 Holy Adornment
+	1 Kayle's Blessing
+	1 Prismatic Barrier
+	1 Forbidden Study
+	1 Demacian Shimmercloak
+	1 Krakenwyrm
+	1 Rise of the Dead Tides
+	1 The Syren
+	1 Discovering Lineage
+	1 Syren Lookout
+	1 Dreadway Boarder
+	1 Port Serpent
+	1 Hire New Hands
+	1 Weather the Storm
+	1 Shipwide Betrayal
+	1 Blobfish Escort
+	1 Calculated Gambler
+	1 Pirate Ship
+	1 Jinx, Force of Chaos
+	1 Man Overboard
+	1 Eternal Shuriman
+	1 Crypt Robber
+	1 Ancient Burial Ground
+	1 Lost to Time
+	1 Remnants of Ascension
+	1 Tomb Statue
+	1 Cull the Meek
+	1 Lost in the Scrolls
+	1 Arcane Thief
+	1 Thinker 4 and Breaker 2
+	1 Skyline Observer
+	1 Hexblast
+	1 Counter Research
+	1 Bullet Spray
+	1 Inventor's Discovery
+	1 Infused Chemist
+	1 Hextech Sentry
+	1 Sumpwork Scrapyard
+	1 Flying Crane Monk
+	1 Moonlight Mystic
+	1 Protected by Spirits
+	1 A United Ionia
+	1 Successful Pilgrimage
+	1 Windswept
+	1 Shadow Strike
+	1 Shadow Hound
+	1 Spectral Fumes
+	1 Return to Unlife
+	1 Spectral Swarm
+	1 Unnerving Presence
+	1 Ghostly Visions
+	1 Eerie Onlooker
+	1 Fear Beyond Death
+	1 Syphon Their Souls
+	1 Winter's Claw Raiders
+	1 Agony's Embrace
+	1 Medarda Prodigy
+	1 Scraps Scavenger
+	1 Frost Assassin
+	1 Avarosan Archer
+	1 Frostshield Shaman
+	1 Troll Scavenger
+	1 Poro Herd
+	1 Visions of the Frostguard
+	1 Elnuk Migration
+	1 Roar of the Wild
+	1 Destruction from the Elder God
+	1 Grounded by the Cryophoenix
+	1 Demon of the Deep
+	1 Aurelion Sol, Dragon of Creation
+	1 The Outcast Sister
+	1 Xerath, Chained Ascended
+	1 Voracious Duplicator
+	1 Twilight Priest
+	1 Lunari Cleric
+	1 Solari Clerics
+	1 Solari Priestess
+	1 Dark Stellacorn
+	1 Lunari Assassin
+	1 Lunari Cavern
+	1 Rise of the Sun
+	1 Banish to Marus Omegnum
+	1 Shards of Moonlight
+	1 Gift of the Stars
+	1 Swain, Vision of Noxus
+	1 Leblanc, Guile of Noxus
+	1 Sejuani, Winter's Rider
+	1 Lissandra, Frostguard Witch
+	1 Viktor, Source of Evolution
+	1 Thresh, Death's Jailer
+	1 Sivir, Herald of the King
+	1 Miss Fortune, Bilgewater Liberator
+	1 Tristana, Bandle Gunner
+	1 Veigar, Twisted Sorcerer
+	1 Yuumi, Friend to All
+	1 Twisted Fate, Lucky Gambler
+	1 Galio, Stone Protector
+	1 Lux, Dazling Light
+	1 Sylas, Mage Revolutionary
+	1 Trundle, Iceborn Troll
+	1 Akali, Fist of Shadow
+	1 Jhin, Death Artisan
+	1 Vladimir, Blood of Noxus
+	1 Urgot, Undercity Crimeboss
+	1 Hecarim, Cruel Enforcer
+	1 Nasus, Scroll Guardian to the King
+	1 Taliyah, the Wandering Weaver
+	1 Leona, Solar Commander
+	1 Diana, Lunar Uniter
+	1 Pantheon, Immortal Warrior
+	1 Cho'Gath, Void Monstrosity
+	1 Rek'Sai, Queen of the Sands
+	1 Vel'Koz, Eternal Watcher
+	1 Kog'Maw, Hunger of the Void
+	1 The Ruination
+	1 United We Stand
+	1 Glorious Evolution
+	1 Reawakening the Lineage
+	1 Ascension Ritual
+	1 Devoted Retainer
+	1 Progress Day Statue
+	1 Alune
+	1 Bandle Infiltrator
+	1 Living Vegetation
+	1 Portal Tree Warden
+	1 Bandle City Defender
+	1 Weapon Thief
+	1 Lost in the Woods
+	1 Silent Forest Gateway
+	1 Nature's Defenses
+	1 Quick Journey
+	1 Trifarian Raider
+	1 Trifarian Bannerman
+	1 Trifarian Legionnaire
+	1 Return to Noxus
+	1 Battlefield Assault
+	1 Crippling Strike
+	1 Battlefield Tactics
+	1 Sight of the Raven
+	1 Blade of the Exile
+	1 Crimson Delight
+	1 Mt. Targon
+	1 Shurima
+	1 Demacia
+	1 The Shadow Isles
+	1 Freljord
+	1 Noxus
+	1 Omikayalan, The God-Willow
+	1 Sunken Reflections
+	1 Dalamor Plains
+	1 Shuriman Desert
+	1 The Mountain Pathway
+	1 Whiterock
+	1 The Glade
+	1 Ruined City
+	1 The Undercity
+	1 The First Lands
+	1 The Wreckoning Pits
+	1 Raider Base Camp
+	1 The Slaughter Docks
+	1 Entrance to Mudtown
+	1 The Black Mist
+	1 The Ironspike Mountains
+	1 The Silent Forest
+	1 Sight Through Reality
+	1 The Replicator
+	1 Watcher Troll
+	1 The Sanctuary
+	1 Nagakabouros
+	1 Invasion of Ionia
+	1 The Immortal Bastion
+	1 Clash of the Gods
+	1 The Howling Abyss
+	1 Master Kusho
+	1 King Jarvan III
+	1 Petricite Walls
+	1 Pylas
+	1 Blessing of an Aspect
+	1 Norra
+	1 Fall of Icathia
+	1 Odyn Valley
+	1 Buhru Temple
+	1 The Serpentine Swamp
+	1 The Argent Mountains
+	1 The Plague Arbor
+	1 Trinity Force
+	1 Exploring Runeterra
+	1 Entrance of the Void
+	1 Fleet Siege Run
+	1 Demonflare
+	1 Demon Lightning
+	1 World Rune
+	1 Ancestors of Ice
+	1 Vilemaw's Annointed
+	1 The Blessed Isles
+	1 United Consciousness
+	1 Victory at the Placidium
+	1 Skyline Inspiration
+	1 Underhanded Research
+	1 Rejected From the Peak
+	1 Open the Crypt
+	1 Glittering Wish
+	1 True Polymorph
+	1 Flare of the Righteous
+	1 Protect the Greatest City
+	1 Strike the Darkin Down
+	1 Absolute Silence
+	1 One Quick Job
+	1 Kraken Priest
+	1 Syren Shipbreaker
+	1 Cloud Mage
+	1 Voidborn Carapace
+	1 Rift Scuttler
+	1 Herald of the Rift
+	1 Void Lightning Hounds
+	1 Void Swarm
+	1 The Prophet's Visions
+	1 Eye of Angor
+	1 The Nether Blade of Horok
+	1 Norra's Book
+	1 Quicksilver Sash
+	1 Bramble Vest
+	1 Redemption Locket
+	1 Baron Nashor
+	1 Return to Silence
+	1 A Divided Demacia
+	1 Mageguard Duo
+	1 Dauntless Vanguard
+	1 Mage Seekers
+	1 Durand
+	1 Tianna Crownguard
+	1 Blessing of the Righteous
+	1 Gargoyle's Stoneplate
+	1 Azakana
+	1 Master Doran
+	1 Spiritual Transformation
+	1 Waterfalls of Shon-Xan
+	1 Entrance to the Spirit Realm
+	1 Soul Wanderer
+	1 Ra'Horak Knight
+	1 Atreus
+	1 Bright Stellacorn
+	1 Climber's Protector
+	1 Piercing Moonlight
+	1 Edict of the Immortals
+	1 Spell Thief
+	1 Hextech Overcharge
+	1 Research
+	1 Brackern Crystal
+	1 The Null
+	1 Runaan
+	1 Rylai
+	1 Youmuu
+	1 Rabadon
+	1 Warmog
+	1 Grena
+	1 Dhogdol
+	1 Avarosan Icemage
+	1 Troll Caretaker
+	1 Perilous Journey
+	1 Feast for Trolls
+	1 Tales of Youth
+	1 Glacial Impact
+	1 Valeeva
+	1 Kohari Warmages
+	1 Ascension Priest
+	1 Corrupted Shuriman
+	1 Forgotten Soul
+	1 Spirit Guardian
+	1 Raised by the Sun Disk
+	1 Musical Pixie
+	1 Flashbloom Flower
+	1 Screaming Yipsnake Carrier Owl
+	1 Wooglet
+	1 Pix
+	1 Lost in the Bandlewood
+	1 Bandlewood Defense
+	1 Yordle Shrine
+	1 Soul Harvester
+	1 Soldier of the Ruined King
+	1 Grez
+	1 Commander Ledros
+	1 Into the Library of the Damned
+	1 Night Terror
+	1 The Iron Revenant's Spirit
+	1 The Pale Lady
+	1 Boram Darkwill
+	1 Worthy Sacrifice
+	1 Anger Spree
+	1 Emystan's Horror
+	1 Bloodsoaked Ressurection
+	1 Noxian Excecution
+	1 Soul Defender
+	1 Mejai
+	1 Liandry
+	1 Mind Lancer
+	1 Retributive Warrior
+	1 Scream of the Banshee
+	1 Death From Below
+	1 Temple of the Crimson Circle
+	1 Cast Down
+	1 Cutthroat Operation
+	1 Call of the Crypt
+	1 Reinforcements of the Army
+	1 Constant Vigilance
+	1 Druid Evoker
+	1 Sterak
+	1 Caulfield
+	1 Vigilant Evoker
+	1 Dragon Hunters
+	1 Giant Owlbear
+	1 Break into Pieces
+	1 Awaken the Forest
+	1 Return to Nature
+	1 City of Giants
+	1 Mikael
+	1 Randuin
+	1 Personal Bodyguard
+	1 Devoted Right Hand of Legends
+	1 Sentinel's Pursuit
+	1 Shatter Apart
+	1 Gods Willing
+	1 Dove Ditty
+	1 Caretaker's Shrine
+	1 Mageseeker's Armor
+	1 Serylda
+	1 Luden
+	1 Watcher Sphinx
+	1 Reflected Visage
+	1 Consult the Tomes
+	1 Blink of a Stye
+	1 Sudden Infiltration
+	1 Rune Prison
+	1 Return to the Wind
+	1 Bami
+	1 Shurelya
+	1 Rampaging Badgerbear
+	1 Wrenwall's Brood
+	1 Tempting Offering
+	1 Rain of Arrows
+	1 Demolish
+	1 Kircheis Batons
+	1 Flaming Assault
+	1 Pressed Into the Pits
+	1 Form of the Wanderer
+	1 Complete Obliteration
+	1 The Eternal Nightmare
+	1 The Ancient Fear
+	1 Demon of Agony
+	1 Spider God's Tutelage
+	1 Entomb
+	1 The Wandering Caretaker
+	1 The Eternal Hunters
+	1 The Purifier
+	1 Preservation Angel
+	1 World Rune Guardian
+	1 Coalition Victory
+	1 Rescue from the Lantern of Death
+	1 The Tidal Trickster
+	1 The Tidecaller
+	1 The Chronokeeper
+	1 One with the Wind
+	1 Chronobreak
+	1 Skyline Scouts
+	1 Tale's End
+	1 The Dark Child
+	1 The Burning Vengeance
+	1 The Darkin Blade
+	1 Dragon Overseer
+	1 Impulsive Raze
+	1 Noxious Fumes
+	1 The Pridestalker
+	1 The Thorn Bringer
+	1 The Bestial Huntress
+	1 Elder Titan
+	1 Shaman of the Tribe
+	1 Follow the Ring-Network
+	1 Seek Far Away Lands
+	1 Angel of Justice
+	1 Celestial Manifestation
+	1 Decipher the Scroll
+	1 Time Stop
+	1 Frostguard Stalker
+	1 Boneyard Parley
+	1 Celestial Star Dragon
+	1 Unstable Realm Warp
+	1 Azakana of Death
+	1 Defending Runeterra
+	1 Shyvana, Jarvan's Protector
+	1 Trinity Force
+	1 The Portal Tree

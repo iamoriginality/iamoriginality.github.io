@@ -1,110 +1,2143 @@
 ﻿[
     {
-        "card_name": "Garen, Pride of Demacia",
-        "number": 2,
+        "card_name": "Angel of Justice",
+        "number": 20,
         "shape": "normal",
         "set": "LOL",
-        "position": "3"
+        "position": "530"
     },
     {
-        "card_name": "Jayce, Tomorrow's Hero",
-        "number": 5,
-        "shape": "transform double faced",
-        "set": "LOL",
-        "position": "9"
-    },
-    {
-        "card_name": "Leblanc, Shadow of Noxus",
-        "number": 9,
+        "card_name": "Ancient Burial Ground",
+        "number": 83,
         "shape": "normal",
         "set": "LOL",
-        "position": "17"
+        "position": "169"
     },
     {
-        "card_name": "Enemy Nexus",
-        "number": 10,
+        "card_name": "Agony of the King",
+        "number": 144,
         "shape": "normal",
         "set": "LOL",
-        "position": "29"
+        "position": "95"
     },
     {
-        "card_name": "Ahri, Essence Hunter",
-        "number": 13,
+        "card_name": "Avarosan Archer",
+        "number": 204,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "208"
+    },
+    {
+        "card_name": "Akali, Fist of Shadow",
+        "number": 263,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "249"
+    },
+    {
+        "card_name": "Ascension Priest",
+        "number": 21,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "416"
+    },
+    {
+        "card_name": "Ancient Sphinx",
+        "number": 84,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "77"
+    },
+    {
+        "card_name": "Agony's Embrace",
+        "number": 145,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "204"
+    },
+    {
+        "card_name": "Bami",
+        "number": 205,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "486"
+    },
+    {
+        "card_name": "Attentive Explorer",
+        "number": 264,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "114"
+    },
+    {
+        "card_name": "Aspect's Presence",
+        "number": 22,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "68"
+    },
+    {
+        "card_name": "Bahrl Jay",
+        "number": 85,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "74"
+    },
+    {
+        "card_name": "The Ancient Fear",
+        "number": 146,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "499"
+    },
+    {
+        "card_name": "Beserker Rage",
+        "number": 206,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "109"
+    },
+    {
+        "card_name": "Avarosan Icemage",
+        "number": 265,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "408"
+    },
+    {
+        "card_name": "Banish to Marus Omegnum",
+        "number": 23,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "230"
+    },
+    {
+        "card_name": "Blink of a Stye",
+        "number": 86,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "482"
+    },
+    {
+        "card_name": "Battlefield Tactics",
+        "number": 147,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "287"
+    },
+    {
+        "card_name": "Blade of the Exile",
+        "number": 207,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "289"
+    },
+    {
+        "card_name": "Awaken the Forest",
+        "number": 266,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "464"
+    },
+    {
+        "card_name": "Battlefield Rallier",
+        "number": 24,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "62"
+    },
+    {
+        "card_name": "Blitzcrank, Lost Golem",
+        "number": 87,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "42"
+    },
+    {
+        "card_name": "Black Rose Assassin",
+        "number": 148,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "86"
+    },
+    {
+        "card_name": "Bullet Spray",
+        "number": 208,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "180"
+    },
+    {
+        "card_name": "Azakana of Death",
+        "number": 267,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "538"
+    },
+    {
+        "card_name": "Call the Silverwings",
+        "number": 25,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "57"
+    },
+    {
+        "card_name": "Blown Away",
+        "number": 88,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "71"
+    },
+    {
+        "card_name": "Boneyard Parley",
+        "number": 149,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "535"
+    },
+    {
+        "card_name": "Burning Homestead",
+        "number": 209,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "98"
+    },
+    {
+        "card_name": "Bandlewood Defender",
+        "number": 268,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "115"
+    },
+    {
+        "card_name": "Caretaker's Shrine",
+        "number": 26,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "475"
+    },
+    {
+        "card_name": "Briliant Idea",
+        "number": 89,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "41"
+    },
+    {
+        "card_name": "Call of the Crypt",
+        "number": 150,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "454"
+    },
+    {
+        "card_name": "The Burning Vengeance",
+        "number": 210,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "518"
+    },
+    {
+        "card_name": "The Bestial Huntress",
+        "number": 269,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "525"
+    },
+    {
+        "card_name": "Celestial Manifestation",
+        "number": 27,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "531"
+    },
+    {
+        "card_name": "Chronobreak",
+        "number": 90,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "514"
+    },
+    {
+        "card_name": "Cast Down",
+        "number": 151,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "452"
+    },
+    {
+        "card_name": "Celestial Star Dragon",
+        "number": 211,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "536"
+    },
+    {
+        "card_name": "Bigger than Being",
+        "number": 270,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "54"
+    },
+    {
+        "card_name": "Devoted Cleric",
+        "number": 28,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "60"
+    },
+    {
+        "card_name": "The Chronokeeper",
+        "number": 91,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "512"
+    },
+    {
+        "card_name": "Complete Obliteration",
+        "number": 152,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "497"
+    },
+    {
+        "card_name": "Darius, Might of Noxus",
+        "number": 212,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "32"
+    },
+    {
+        "card_name": "Blobfish Escort",
+        "number": 271,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "162"
+    },
+    {
+        "card_name": "Devoted Giffonhawk",
+        "number": 29,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "66"
+    },
+    {
+        "card_name": "Cloud Mage",
+        "number": 92,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "361"
+    },
+    {
+        "card_name": "Crimson Delight",
+        "number": 153,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "290"
+    },
+    {
+        "card_name": "The Dark Child",
+        "number": 213,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "517"
+    },
+    {
+        "card_name": "Break into Pieces",
+        "number": 272,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "463"
+    },
+    {
+        "card_name": "Devoted Retainer",
+        "number": 30,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "269"
+    },
+    {
+        "card_name": "Consult Mentor",
+        "number": 93,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "79"
+    },
+    {
+        "card_name": "Cutthroat Operation",
+        "number": 154,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "453"
+    },
+    {
+        "card_name": "The Darkin Blade",
+        "number": 214,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "519"
+    },
+    {
+        "card_name": "Caulfield",
+        "number": 273,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "459"
+    },
+    {
+        "card_name": "Devoted Right Hand of Legends",
+        "number": 31,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "470"
+    },
+    {
+        "card_name": "Consult the Nexus",
+        "number": 94,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "82"
+    },
+    {
+        "card_name": "Dark Stellacorn",
+        "number": 155,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "226"
+    },
+    {
+        "card_name": "Demolish",
+        "number": 215,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "492"
+    },
+    {
+        "card_name": "City of Giants",
+        "number": 274,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "466"
+    },
+    {
+        "card_name": "Devoted Yordle",
+        "number": 32,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "64"
+    },
+    {
+        "card_name": "Consult the Tomes",
+        "number": 95,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "481"
+    },
+    {
+        "card_name": "Death From Below",
+        "number": 156,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "450"
+    },
+    {
+        "card_name": "Destruction from the Elder God",
+        "number": 216,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "215"
+    },
+    {
+        "card_name": "Collected Barbarian",
+        "number": 275,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "116"
+    },
+    {
+        "card_name": "Discovering Lineage",
+        "number": 33,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "154"
+    },
+    {
+        "card_name": "Counter Research",
+        "number": 96,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "179"
+    },
+    {
+        "card_name": "Demon of Agony",
+        "number": 157,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "500"
+    },
+    {
+        "card_name": "Devoted Guardian",
+        "number": 217,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "101"
+    },
+    {
+        "card_name": "Constant Vigilance",
+        "number": 276,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "456"
+    },
+    {
+        "card_name": "Dove Ditty",
+        "number": 34,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "474"
+    },
+    {
+        "card_name": "Crypt Robber",
+        "number": 97,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "168"
+    },
+    {
+        "card_name": "Demonic Minion",
+        "number": 158,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "92"
+    },
+    {
+        "card_name": "Down in the Sumps",
+        "number": 218,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "46"
+    },
+    {
+        "card_name": "Creeping Spirit",
+        "number": 277,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "113"
+    },
+    {
+        "card_name": "The Eternal Hunters",
+        "number": 35,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "504"
+    },
+    {
+        "card_name": "Cull the Meek",
+        "number": 98,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "173"
+    },
+    {
+        "card_name": "Devoted Soldier",
+        "number": 159,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "93"
+    },
+    {
+        "card_name": "Dragon Overseer",
+        "number": 219,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "520"
+    },
+    {
+        "card_name": "Cultivating Harmony",
+        "number": 278,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "49"
+    },
+    {
+        "card_name": "Final Push",
+        "number": 36,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "69"
+    },
+    {
+        "card_name": "Decipher the Scroll",
+        "number": 99,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "532"
+    },
+    {
+        "card_name": "Devoted Witch",
+        "number": 160,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "89"
+    },
+    {
+        "card_name": "Eager Frontliner",
+        "number": 220,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "100"
+    },
+    {
+        "card_name": "Defending Runeterra",
+        "number": 279,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "539"
+    },
+    {
+        "card_name": "Flameblade Knight",
+        "number": 37,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "142"
+    },
+    {
+        "card_name": "Devoted Spy",
+        "number": 100,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "76"
+    },
+    {
+        "card_name": "Diana, Lunar Uniter",
+        "number": 161,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "257"
+    },
+    {
+        "card_name": "Flaming Assault",
+        "number": 221,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "494"
+    },
+    {
+        "card_name": "Devoted Colossal",
+        "number": 280,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "118"
+    },
+    {
+        "card_name": "Garen, Dauntless Vanguard",
+        "number": 38,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "30"
+    },
+    {
+        "card_name": "Devoted Trickster",
+        "number": 101,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "73"
+    },
+    {
+        "card_name": "Drain Lifeforce",
+        "number": 162,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "72"
+    },
+    {
+        "card_name": "Forbidden Study",
+        "number": 222,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "149"
+    },
+    {
+        "card_name": "Devoted Soul",
+        "number": 281,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "112"
+    },
+    {
+        "card_name": "Gargoyle's Stoneplate",
+        "number": 39,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "383"
+    },
+    {
+        "card_name": "Distracting Lights",
+        "number": 102,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "83"
+    },
+    {
+        "card_name": "Dreadway Boarder",
+        "number": 163,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "157"
+    },
+    {
+        "card_name": "Form of the Wanderer",
+        "number": 223,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "496"
+    },
+    {
+        "card_name": "Dragon Hunters",
+        "number": 282,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "461"
+    },
+    {
+        "card_name": "Gods Willing",
+        "number": 40,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "473"
+    },
+    {
+        "card_name": "Eerie Onlooker",
+        "number": 103,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "200"
+    },
+    {
+        "card_name": "Emystan's Horror",
+        "number": 164,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "440"
+    },
+    {
+        "card_name": "Fume Creaks",
+        "number": 224,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "45"
+    },
+    {
+        "card_name": "Druid Evoker",
+        "number": 283,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "457"
+    },
+    {
+        "card_name": "Greenfang Scout",
+        "number": 41,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "144"
+    },
+    {
+        "card_name": "Flying Crane Monk",
+        "number": 104,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "186"
+    },
+    {
+        "card_name": "Entomb",
+        "number": 165,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "502"
+    },
+    {
+        "card_name": "Glorious Evolution",
+        "number": 225,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "266"
+    },
+    {
+        "card_name": "Elder Titan",
+        "number": 284,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "526"
+    },
+    {
+        "card_name": "Holy Adornment",
+        "number": 42,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "146"
+    },
+    {
+        "card_name": "Ghostly Visions",
+        "number": 105,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "199"
+    },
+    {
+        "card_name": "The Eternal Nightmare",
+        "number": 166,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "498"
+    },
+    {
+        "card_name": "Hextech Musician",
+        "number": 226,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "40"
+    },
+    {
+        "card_name": "Enraged Ironback",
+        "number": 285,
         "shape": "normal",
         "set": "LOL",
         "position": "34"
     },
     {
-        "card_name": "Lux, Hidden Mage",
-        "number": 3,
+        "card_name": "Inner City Guard",
+        "number": 43,
         "shape": "normal",
         "set": "LOL",
-        "position": "4"
+        "position": "141"
     },
     {
-        "card_name": "Last Breath",
-        "number": 6,
+        "card_name": "Gift of Wings",
+        "number": 106,
         "shape": "normal",
         "set": "LOL",
-        "position": "37"
+        "position": "84"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Jinx, The Loose Cannon",
-        "number": 11,
-        "shape": "transform double faced",
+        "card_name": "Fear Beyond Death",
+        "number": 167,
+        "shape": "normal",
         "set": "LOL",
-        "position": "5"
+        "position": "201"
     },
     {
-        "card_name": "Lee Sin, Spirit of the Dragon",
-        "number": 14,
+        "card_name": "Hextech Sentry",
+        "number": 227,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "183"
+    },
+    {
+        "card_name": "Feast for Trolls",
+        "number": 286,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "411"
+    },
+    {
+        "card_name": "Laurent Duelist",
+        "number": 44,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "59"
+    },
+    {
+        "card_name": "Glacial Impact",
+        "number": 107,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "413"
+    },
+    {
+        "card_name": "Frostguard Stalker",
+        "number": 168,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "534"
+    },
+    {
+        "card_name": "Impulsive Raze",
+        "number": 228,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "521"
+    },
+    {
+        "card_name": "Flashbloom Flower",
+        "number": 287,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "422"
+    },
+    {
+        "card_name": "Leona, Solar Commander",
+        "number": 45,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "256"
+    },
+    {
+        "card_name": "Inventor's Discovery",
+        "number": 108,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "181"
+    },
+    {
+        "card_name": "Hecarim, Cruel Enforcer",
+        "number": 169,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "253"
+    },
+    {
+        "card_name": "Influential Socialite",
+        "number": 229,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "104"
+    },
+    {
+        "card_name": "Follow the Ring-Network",
+        "number": 288,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "528"
+    },
+    {
+        "card_name": "Lost in the Scrolls",
+        "number": 46,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "174"
+    },
+    {
+        "card_name": "The Iron Revenant's Spirit",
+        "number": 109,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "435"
+    },
+    {
+        "card_name": "Leblanc, Guile of Noxus",
+        "number": 170,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "234"
+    },
+    {
+        "card_name": "Infused Chemist",
+        "number": 230,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "182"
+    },
+    {
+        "card_name": "Frost Assassin",
+        "number": 289,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "207"
+    },
+    {
+        "card_name": "Lost in the Woods",
+        "number": 47,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "277"
+    },
+    {
+        "card_name": "Jayce, Genius Inventor",
+        "number": 110,
         "shape": "normal",
         "set": "LOL",
         "position": "33"
     },
     {
-        "card_name": "Sivir, Last of the Bloodline",
-        "number": 4,
+        "card_name": "Liandry",
+        "number": 171,
         "shape": "normal",
         "set": "LOL",
-        "position": "26"
+        "position": "446"
     },
     {
-        "card_name": "Rammus, the Forgotten God",
-        "number": 7,
+        "card_name": "Kircheis Batons",
+        "number": 231,
         "shape": "normal",
         "set": "LOL",
-        "position": "25"
+        "position": "493"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Shyvana, Dragon's Fire",
-        "number": 12,
-        "shape": "transform double faced",
-        "set": "LOL",
-        "position": "0"
-    },
-    {
-        "card_name": "Poro",
-        "number": 15,
+        "card_name": "Frostshield Shaman",
+        "number": 290,
         "shape": "normal",
         "set": "LOL",
-        "position": "31"
+        "position": "209"
     },
     {
-        "card_name": "e"
+        "card_name": "Lost to Time",
+        "number": 48,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "170"
     },
     {
-        "card_name": "Yasuo, Lonely Exile",
-        "number": 8,
+        "card_name": "Jhin, Death Artisan",
+        "number": 111,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "250"
+    },
+    {
+        "card_name": "Lunari Assassin",
+        "number": 172,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "227"
+    },
+    {
+        "card_name": "Lightning Strike",
+        "number": 232,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "107"
+    },
+    {
+        "card_name": "Giant Owlbear",
+        "number": 291,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "462"
+    },
+    {
+        "card_name": "Lulu, Faerie Friend",
+        "number": 49,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "16"
+    },
+    {
+        "card_name": "Luden",
+        "number": 112,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "478"
+    },
+    {
+        "card_name": "Lunari Cavern",
+        "number": 173,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "228"
+    },
+    {
+        "card_name": "Lost Sister",
+        "number": 233,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "99"
+    },
+    {
+        "card_name": "Grounded by the Cryophoenix",
+        "number": 292,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "216"
+    },
+    {
+        "card_name": "Mageseeker's Armor",
+        "number": 50,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "476"
+    },
+    {
+        "card_name": "One with the Wind",
+        "number": 113,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "513"
+    },
+    {
+        "card_name": "Lunari Cleric",
+        "number": 174,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "223"
+    },
+    {
+        "card_name": "Lux, Dazling Light",
+        "number": 234,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "246"
+    },
+    {
+        "card_name": "Hire New Hands",
+        "number": 293,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "159"
+    },
+    {
+        "card_name": "Mikael",
+        "number": 51,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "467"
+    },
+    {
+        "card_name": "Protected by Spirits",
+        "number": 114,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "188"
+    },
+    {
+        "card_name": "Man Overboard",
+        "number": 175,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "166"
+    },
+    {
+        "card_name": "Mad Scramble",
+        "number": 235,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "108"
+    },
+    {
+        "card_name": "Ionian Primal Monk",
+        "number": 294,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "19"
+    },
+    {
+        "card_name": "Musical Pixie",
+        "number": 52,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "421"
+    },
+    {
+        "card_name": "Reflected Visage",
+        "number": 115,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "480"
+    },
+    {
+        "card_name": "Mejai",
+        "number": 176,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "445"
+    },
+    {
+        "card_name": "Mage Seekers",
+        "number": 236,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "379"
+    },
+    {
+        "card_name": "Lissandra, Frostguard Witch",
+        "number": 295,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "236"
+    },
+    {
+        "card_name": "Personal Bodyguard",
+        "number": 53,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "469"
+    },
+    {
+        "card_name": "Rejected from the Library",
+        "number": 116,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "85"
+    },
+    {
+        "card_name": "Mind Lancer",
+        "number": 177,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "447"
+    },
+    {
+        "card_name": "Monolith Golem",
+        "number": 237,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "103"
+    },
+    {
+        "card_name": "Living Vegetation",
+        "number": 296,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "273"
+    },
+    {
+        "card_name": "Portal Tree Warden",
+        "number": 54,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "274"
+    },
+    {
+        "card_name": "Return to the Wind",
+        "number": 117,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "485"
+    },
+    {
+        "card_name": "New Recruit",
+        "number": 178,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "87"
+    },
+    {
+        "card_name": "Noxious Fumes",
+        "number": 238,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "522"
+    },
+    {
+        "card_name": "Overgrown Nature",
+        "number": 297,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "120"
+    },
+    {
+        "card_name": "Preservation Angel",
+        "number": 55,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "506"
+    },
+    {
+        "card_name": "Rune Prison",
+        "number": 118,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "484"
+    },
+    {
+        "card_name": "One Quick Job",
+        "number": 179,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "358"
+    },
+    {
+        "card_name": "Pressed Into the Pits",
+        "number": 239,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "495"
+    },
+    {
+        "card_name": "Poro Herd",
+        "number": 298,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "211"
+    },
+    {
+        "card_name": "Prismatic Barrier",
+        "number": 56,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "148"
+    },
+    {
+        "card_name": "Rylai",
+        "number": 119,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "402"
+    },
+    {
+        "card_name": "Piercing Moonlight",
+        "number": 180,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "394"
+    },
+    {
+        "card_name": "Quickening Inventor",
+        "number": 240,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "102"
+    },
+    {
+        "card_name": "Port Serpent",
+        "number": 299,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "158"
+    },
+    {
+        "card_name": "The Purifier",
+        "number": 57,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "505"
+    },
+    {
+        "card_name": "Sea-Tiger Seer",
+        "number": 120,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "75"
+    },
+    {
+        "card_name": "Pyke, Drowned Serpent",
+        "number": 181,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "8"
+    },
+    {
+        "card_name": "Rabadon",
+        "number": 241,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "404"
+    },
+    {
+        "card_name": "The Pridestalker",
+        "number": 300,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "523"
+    },
+    {
+        "card_name": "Purify",
+        "number": 58,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "70"
+    },
+    {
+        "card_name": "Serylda",
+        "number": 121,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "477"
+    },
+    {
+        "card_name": "Ravenguard Elite",
+        "number": 182,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "88"
+    },
+    {
+        "card_name": "Rain of Arrows",
+        "number": 242,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "491"
+    },
+    {
+        "card_name": "Push Through",
+        "number": 301,
         "shape": "normal",
         "set": "LOL",
         "position": "35"
+    },
+    {
+        "card_name": "Quick Journey",
+        "number": 59,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "280"
+    },
+    {
+        "card_name": "Skyline Observer",
+        "number": 122,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "177"
+    },
+    {
+        "card_name": "Retributive Warrior",
+        "number": 183,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "448"
+    },
+    {
+        "card_name": "Rampaging Badgerbear",
+        "number": 243,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "488"
+    },
+    {
+        "card_name": "Return to Nature",
+        "number": 302,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "465"
+    },
+    {
+        "card_name": "Ra'Horak Knight",
+        "number": 60,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "390"
+    },
+    {
+        "card_name": "Skyline Scouts",
+        "number": 123,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "515"
+    },
+    {
+        "card_name": "Return to Noxus",
+        "number": 184,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "284"
+    },
+    {
+        "card_name": "Ranger's Mount",
+        "number": 244,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "110"
+    },
+    {
+        "card_name": "Roar of the Wild",
+        "number": 303,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "214"
+    },
+    {
+        "card_name": "Randuin",
+        "number": 61,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "468"
+    },
+    {
+        "card_name": "Spectral Swarm",
+        "number": 124,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "197"
+    },
+    {
+        "card_name": "Return to Unlife",
+        "number": 185,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "196"
+    },
+    {
+        "card_name": "Reinforcements of the Army",
+        "number": 245,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "455"
+    },
+    {
+        "card_name": "Seek Far Away Lands",
+        "number": 304,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "529"
+    },
+    {
+        "card_name": "Rescue from the Lantern of Death",
+        "number": 62,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "509"
+    },
+    {
+        "card_name": "Spirit Guardian",
+        "number": 125,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "419"
+    },
+    {
+        "card_name": "Scream of the Banshee",
+        "number": 186,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "449"
+    },
+    {
+        "card_name": "Roaming Dragon",
+        "number": 246,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "106"
+    },
+    {
+        "card_name": "Sejuani, Winter's Rider",
+        "number": 305,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "235"
+    },
+    {
+        "card_name": "Rise of the Sun",
+        "number": 63,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "229"
+    },
+    {
+        "card_name": "Spirit of the Tidecaller",
+        "number": 126,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "78"
+    },
+    {
+        "card_name": "Shards of Moonlight",
+        "number": 187,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "231"
+    },
+    {
+        "card_name": "Shurelya",
+        "number": 247,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "487"
+    },
+    {
+        "card_name": "Shadow Strike",
+        "number": 306,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "192"
+    },
+    {
+        "card_name": "Runaan",
+        "number": 64,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "401"
+    },
+    {
+        "card_name": "Spirit Seer",
+        "number": 127,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "52"
+    },
+    {
+        "card_name": "Soldier of the Ruined King",
+        "number": 188,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "430"
+    },
+    {
+        "card_name": "Shyvana, Jarvan's Protector",
+        "number": 248,
+        "shape": "flip",
+        "set": "LOL",
+        "position": "543"
+    },
+    {
+        "card_name": "Shaman of the Tribe",
+        "number": 307,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "527"
+    },
+    {
+        "card_name": "Scraps Scavenger",
+        "number": 65,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "206"
+    },
+    {
+        "card_name": "Spirit Shield",
+        "number": 128,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "50"
+    },
+    {
+        "card_name": "Soul Defender",
+        "number": 189,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "444"
+    },
+    {
+        "card_name": "Sight of the Raven",
+        "number": 250,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "288"
+    },
+    {
+        "card_name": "Ship Drunkard",
+        "number": 308,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "36"
+    },
+    {
+        "card_name": "Screaming Yipsnake Carrier Owl",
+        "number": 66,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "423"
+    },
+    {
+        "card_name": "Stand Together",
+        "number": 129,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "48"
+    },
+    {
+        "card_name": "Soul Harvester",
+        "number": 190,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "429"
+    },
+    {
+        "card_name": "Tempting Offering",
+        "number": 251,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "490"
+    },
+    {
+        "card_name": "Silent Forest Gateway",
+        "number": 309,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "278"
+    },
+    {
+        "card_name": "Selfless Hound",
+        "number": 67,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "61"
+    },
+    {
+        "card_name": "Sudden Infiltration",
+        "number": 130,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "483"
+    },
+    {
+        "card_name": "Spectral Fumes",
+        "number": 191,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "195"
+    },
+    {
+        "card_name": "Trifarian Bannerman",
+        "number": 252,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "282"
+    },
+    {
+        "card_name": "Sterak",
+        "number": 310,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "458"
+    },
+    {
+        "card_name": "Sentinel's Pursuit",
+        "number": 68,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "471"
+    },
+    {
+        "card_name": "Tale's End",
+        "number": 131,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "516"
+    },
+    {
+        "card_name": "Spider God's Tutelage",
+        "number": 192,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "501"
+    },
+    {
+        "card_name": "Trifarian Raider",
+        "number": 253,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "281"
+    },
+    {
+        "card_name": "Successful Pilgrimage",
+        "number": 311,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "190"
+    },
+    {
+        "card_name": "Shatter Apart",
+        "number": 69,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "472"
+    },
+    {
+        "card_name": "Taliyah, the Wandering Weaver",
+        "number": 132,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "255"
+    },
+    {
+        "card_name": "Spirit Walker",
+        "number": 193,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "94"
+    },
+    {
+        "card_name": "Troll Caretaker",
+        "number": 254,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "409"
+    },
+    {
+        "card_name": "The Thorn Bringer",
+        "number": 312,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "524"
+    },
+    {
+        "card_name": "Silverwing Fledgling",
+        "number": 70,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "58"
+    },
+    {
+        "card_name": "Thresh, Death's Jailer",
+        "number": 133,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "238"
+    },
+    {
+        "card_name": "Tahm Kench, Ravenous Broker",
+        "number": 194,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "10"
+    },
+    {
+        "card_name": "Trundle, Iceborn Troll",
+        "number": 255,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "248"
+    },
+    {
+        "card_name": "Twisted Fate, Lucky Gambler",
+        "number": 313,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "244"
+    },
+    {
+        "card_name": "Sivir, Herald of the King",
+        "number": 71,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "239"
+    },
+    {
+        "card_name": "The Tidal Trickster",
+        "number": 134,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "510"
+    },
+    {
+        "card_name": "Temple of the Crimson Circle",
+        "number": 195,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "451"
+    },
+    {
+        "card_name": "Unstable Realm Warp",
+        "number": 256,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "537"
+    },
+    {
+        "card_name": "United Strike",
+        "number": 314,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "119"
+    },
+    {
+        "card_name": "Solari Clerics",
+        "number": 72,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "224"
+    },
+    {
+        "card_name": "The Tidecaller",
+        "number": 135,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "511"
+    },
+    {
+        "card_name": "Thrown in the Locker",
+        "number": 196,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "97"
+    },
+    {
+        "card_name": "Viktor, Source of Evolution",
+        "number": 257,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "237"
+    },
+    {
+        "card_name": "Veigar, Twisted Sorcerer",
+        "number": 315,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "242"
+    },
+    {
+        "card_name": "Solari Priestess",
+        "number": 73,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "225"
+    },
+    {
+        "card_name": "Time Stop",
+        "number": 136,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "533"
+    },
+    {
+        "card_name": "Trade with the Otherrealm",
+        "number": 197,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "96"
+    },
+    {
+        "card_name": "Visions of the Frostguard",
+        "number": 258,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "212"
+    },
+    {
+        "card_name": "Vigilant Evoker",
+        "number": 316,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "460"
+    },
+    {
+        "card_name": "Spell Thief",
+        "number": 74,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "396"
+    },
+    {
+        "card_name": "Tomb Statue",
+        "number": 137,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "172"
+    },
+    {
+        "card_name": "Trifarian Legionnaire",
+        "number": 198,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "283"
+    },
+    {
+        "card_name": "Vladimir, Blood of Noxus",
+        "number": 259,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "251"
+    },
+    {
+        "card_name": "Wandering Soldier",
+        "number": 317,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "111"
+    },
+    {
+        "card_name": "Tianna Crownguard",
+        "number": 75,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "381"
+    },
+    {
+        "card_name": "Underwater Presence",
+        "number": 138,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "80"
+    },
+    {
+        "card_name": "Vastayan Graverobber",
+        "number": 199,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "91"
+    },
+    {
+        "card_name": "Wandering Rider",
+        "number": 260,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "105"
+    },
+    {
+        "card_name": "Warmog",
+        "number": 318,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "405"
+    },
+    {
+        "card_name": "Tristana, Bandle Gunner",
+        "number": 76,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "241"
+    },
+    {
+        "card_name": "Unnerving Presence",
+        "number": 139,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "198"
+    },
+    {
+        "card_name": "Weather the Storm",
+        "number": 200,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "160"
+    },
+    {
+        "card_name": "Worthy Sacrifice",
+        "number": 261,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "438"
+    },
+    {
+        "card_name": "Waterfalls of Shon-Xan",
+        "number": 319,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "387"
+    },
+    {
+        "card_name": "True Polymorph",
+        "number": 77,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "353"
+    },
+    {
+        "card_name": "Watcher Sphinx",
+        "number": 140,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "479"
+    },
+    {
+        "card_name": "Witch of the Mist",
+        "number": 201,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "90"
+    },
+    {
+        "card_name": "Wrenwall's Brood",
+        "number": 262,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "489"
+    },
+    {
+        "card_name": "Yeti Youngling",
+        "number": 320,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "117"
+    },
+    {
+        "card_name": "The Wandering Caretaker",
+        "number": 78,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "503"
+    },
+    {
+        "card_name": "Windswept",
+        "number": 141,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "191"
+    },
+    {
+        "card_name": "Yorick, Corrupted Guide",
+        "number": 202,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Zed, Leader of Shadows",
+        "number": 321,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "6"
+    },
+    {
+        "card_name": "Watchful Knight",
+        "number": 79,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "65"
+    },
+    {
+        "card_name": "Winged Protege",
+        "number": 142,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "44"
+    },
+    {
+        "card_name": "Youmuu",
+        "number": 203,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "403"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "World Rune Guardian",
+        "number": 80,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "507"
+    },
+    {
+        "card_name": "Xerath, Chained Ascended",
+        "number": 143,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "220"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Zealot Devotee",
+        "number": 81,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "63"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Zoe, Playful Trickster",
+        "number": 82,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "47"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -129,175 +2162,532 @@
     },
     "a->gold",
     {
-        "card_name": "Amumu, the Lonely Wanderer",
-        "number": 16,
+        "card_name": "Absolute Silence",
+        "number": 322,
         "shape": "normal",
         "set": "LOL",
-        "position": "27"
+        "position": "357"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Darius, Might of Noxus",
-        "number": 19,
+        "card_name": "Absorb Spell",
+        "number": 323,
         "shape": "normal",
         "set": "LOL",
-        "position": "13"
+        "position": "81"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Azir, Ascended King",
-        "number": 17,
+        "card_name": "Anger Spree",
+        "number": 326,
         "shape": "normal",
         "set": "LOL",
-        "position": "21"
+        "position": "439"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Draven, Face of Noxus",
-        "number": 21,
+        "card_name": "Ancestors of Ice",
+        "number": 325,
         "shape": "normal",
         "set": "LOL",
-        "position": "14"
+        "position": "343"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Skarner, Crystaline Predator",
-        "number": 27,
+        "card_name": "Bandle City Defender",
+        "number": 334,
         "shape": "normal",
         "set": "LOL",
-        "position": "24"
+        "position": "275"
     },
     {
-        "card_name": "e"
+        "card_name": "Arcane Thief",
+        "number": 327,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "175"
+    },
+    {
+        "card_name": "The Blessed Isles",
+        "number": 339,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "345"
+    },
+    {
+        "card_name": "Battlefield Assault",
+        "number": 338,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "285"
+    },
+    {
+        "card_name": "Ashe, the Great Uniter",
+        "number": 329,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "15"
+    },
+    {
+        "card_name": "Bandle Infiltrator",
+        "number": 335,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "272"
+    },
+    {
+        "card_name": "Ascension Ritual",
+        "number": 328,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "268"
+    },
+    {
+        "card_name": "Commander Ledros",
+        "number": 351,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "432"
+    },
+    {
+        "card_name": "Bloodsoaked Ressurection",
+        "number": 342,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "441"
+    },
+    {
+        "card_name": "Clash of the Gods",
+        "number": 348,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "322"
+    },
+    {
+        "card_name": "Bandle Scout",
+        "number": 336,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "22"
+    },
+    {
+        "card_name": "Azir, Sunborn King",
+        "number": 333,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "23"
+    },
+    {
+        "card_name": "Fallen Priest",
+        "number": 370,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "20"
+    },
+    {
+        "card_name": "Boram Darkwill",
+        "number": 343,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "437"
+    },
+    {
+        "card_name": "Dhogdol",
+        "number": 361,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "407"
+    },
+    {
+        "card_name": "Bandlewood Defense",
+        "number": 337,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "427"
+    },
+    {
+        "card_name": "Brackern Crystal",
+        "number": 344,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "399"
+    },
+    {
+        "card_name": "Grez",
+        "number": 379,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "431"
+    },
+    {
+        "card_name": "Crippling Strike",
+        "number": 353,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "286"
+    },
+    {
+        "card_name": "Elnuk Migration",
+        "number": 367,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "213"
+    },
+    {
+        "card_name": "Glittering Wish",
+        "number": 377,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "352"
+    },
+    {
+        "card_name": "Corrupted Shuriman",
+        "number": 352,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "417"
+    },
+    {
+        "card_name": "Into the Library of the Damned",
+        "number": 385,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "433"
+    },
+    {
+        "card_name": "Demon Lightning",
+        "number": 358,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "341"
+    },
+    {
+        "card_name": "Grena",
+        "number": 378,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "406"
+    },
+    {
+        "card_name": "Lost in the Bandlewood",
+        "number": 399,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "426"
+    },
+    {
+        "card_name": "Eternal Shuriman",
+        "number": 369,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "167"
+    },
+    {
+        "card_name": "Karthus, Death's Lament",
+        "number": 392,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "11"
+    },
+    {
+        "card_name": "Demonflare",
+        "number": 360,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "340"
+    },
+    {
+        "card_name": "The Howling Abyss",
+        "number": 383,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "323"
+    },
+    {
+        "card_name": "Nature's Defenses",
+        "number": 409,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "279"
+    },
+    {
+        "card_name": "Forgotten Soul",
+        "number": 373,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "418"
+    },
+    {
+        "card_name": "Mordekaiser, Soul King",
+        "number": 406,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "51"
+    },
+    {
+        "card_name": "The Immortal Bastion",
+        "number": 384,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "321"
+    },
+    {
+        "card_name": "The Outcast Sister",
+        "number": 416,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "219"
+    },
+    {
+        "card_name": "Norra",
+        "number": 411,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "329"
+    },
+    {
+        "card_name": "Kohari Warmages",
+        "number": 396,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "415"
+    },
+    {
+        "card_name": "Night Terror",
+        "number": 410,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "434"
+    },
+    {
+        "card_name": "Invasion of Ionia",
+        "number": 386,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "320"
+    },
+    {
+        "card_name": "Perilous Journey",
+        "number": 419,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "410"
+    },
+    {
+        "card_name": "Pix",
+        "number": 422,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "425"
+    },
+    {
+        "card_name": "Nasus, Scroll Guardian to the King",
+        "number": 408,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "254"
+    },
+    {
+        "card_name": "Rise of the Dead Tides",
+        "number": 434,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "152"
     },
     {
         "card_name": "Kled, Fury of Noxus",
-        "number": 26,
-        "shape": "normal",
-        "set": "LOL",
-        "position": "10"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Swain, Head of Noxus",
-        "number": 28,
-        "shape": "transform double faced",
-        "set": "LOL",
-        "position": "16"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Caitlyn, Rule of Law",
-        "number": 18,
-        "shape": "normal",
-        "set": "LOL",
-        "position": "6"
-    },
-    {
-        "card_name": "The Dead Pool",
-        "number": 20,
-        "shape": "normal",
-        "set": "LOL",
-        "position": "30"
-    },
-    {
-        "card_name": "Fiora Honor of House Laurent",
-        "number": 22,
-        "shape": "normal",
-        "set": "LOL",
-        "position": "2"
-    },
-    {
-        "card_name": "Karma, Soul Incarnate",
-        "number": 24,
-        "shape": "normal",
-        "set": "LOL",
-        "position": "36"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Hextech Cloning",
-        "number": 23,
-        "shape": "normal",
-        "set": "LOL",
-        "position": "28"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Sylas, King Slayer",
-        "number": 29,
+        "number": 395,
         "shape": "normal",
         "set": "LOL",
         "position": "1"
     },
     {
-        "card_name": "Khada-Jhin, Masked Artist",
-        "number": 25,
+        "card_name": "Tales of Youth",
+        "number": 453,
         "shape": "normal",
         "set": "LOL",
-        "position": "32"
+        "position": "412"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Urgot, Slum Baron",
-        "number": 30,
+        "card_name": "The Portal Tree",
+        "number": 423,
         "shape": "normal",
         "set": "LOL",
-        "position": "8"
+        "position": "548"
+    },
+    {
+        "card_name": "Raised by the Sun Disk",
+        "number": 428,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "420"
+    },
+    {
+        "card_name": "The Ruination",
+        "number": 435,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "264"
+    },
+    {
+        "card_name": "Noxian Excecution",
+        "number": 412,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "442"
+    },
+    {
+        "card_name": "Troll Scavenger",
+        "number": 457,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "210"
+    },
+    {
+        "card_name": "Teemo, Lone Scout",
+        "number": 454,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "31"
+    },
+    {
+        "card_name": "Reawakening the Lineage",
+        "number": 429,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "267"
+    },
+    {
+        "card_name": "Shadow Hound",
+        "number": 438,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "194"
+    },
+    {
+        "card_name": "The Null",
+        "number": 413,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "400"
+    },
+    {
+        "card_name": "Tryndamere, War King",
+        "number": 458,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "14"
+    },
+    {
+        "card_name": "Weapon Thief",
+        "number": 469,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "276"
+    },
+    {
+        "card_name": "Remnants of Ascension",
+        "number": 431,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "171"
+    },
+    {
+        "card_name": "Soul Wanderer",
+        "number": 442,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "389"
+    },
+    {
+        "card_name": "The Pale Lady",
+        "number": 417,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "436"
+    },
+    {
+        "card_name": "Winter's Claw Raiders",
+        "number": 470,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "203"
+    },
+    {
+        "card_name": "Wooglet",
+        "number": 472,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "424"
+    },
+    {
+        "card_name": "Scholar of the Sands",
+        "number": 437,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "17"
+    },
+    {
+        "card_name": "Syphon Their Souls",
+        "number": 449,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "202"
+    },
+    {
+        "card_name": "Swain, Vision of Noxus",
+        "number": 447,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "233"
+    },
+    {
+        "card_name": "Winter's Claw Reaver",
+        "number": 471,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "27"
+    },
+    {
+        "card_name": "Yordle Shrine",
+        "number": 473,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "428"
+    },
+    {
+        "card_name": "Strike the Darkin Down",
+        "number": 444,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "356"
+    },
+    {
+        "card_name": "Vilemaw's Annointed",
+        "number": 467,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "344"
+    },
+    {
+        "card_name": "Trifarian Recruit",
+        "number": 456,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yuumi, Friend to All",
+        "number": 474,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "243"
+    },
+    {
+        "card_name": "Valeeva",
+        "number": 465,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "414"
     },
     {
         "card_name": "e"
@@ -312,11 +2702,607 @@
         "card_name": "e"
     },
     {
-        "card_name": "Vi, Fist of Justice",
-        "number": 31,
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Alune",
+        "number": 324,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "271"
+    },
+    {
+        "card_name": "Hexblast",
+        "number": 380,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "178"
+    },
+    {
+        "card_name": "Calculated Gambler",
+        "number": 346,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "163"
+    },
+    {
+        "card_name": "Blessing of the Righteous",
+        "number": 341,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "382"
+    },
+    {
+        "card_name": "Azakana",
+        "number": 332,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "384"
+    },
+    {
+        "card_name": "Atreus",
+        "number": 330,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "391"
+    },
+    {
+        "card_name": "Hextech Aide",
+        "number": 381,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "24"
+    },
+    {
+        "card_name": "Demon of the Deep",
+        "number": 359,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "217"
+    },
+    {
+        "card_name": "Citywide Assembly",
+        "number": 347,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "145"
+    },
+    {
+        "card_name": "Defend the Placidium",
+        "number": 356,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "53"
+    },
+    {
+        "card_name": "Aurelion Sol, Dragon of Creation",
+        "number": 331,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "218"
+    },
+    {
+        "card_name": "Hextech Overcharge",
+        "number": 382,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "397"
+    },
+    {
+        "card_name": "Drag Below",
+        "number": 363,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "37"
+    },
+    {
+        "card_name": "Crownguard Scout",
+        "number": 354,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "18"
+    },
+    {
+        "card_name": "Entrance to the Spirit Realm",
+        "number": 368,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "388"
+    },
+    {
+        "card_name": "Blessing of an Aspect",
+        "number": 340,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "328"
+    },
+    {
+        "card_name": "Jinx, Force of Chaos",
+        "number": 390,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "165"
+    },
+    {
+        "card_name": "The Dreadway",
+        "number": 364,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "5"
+    },
+    {
+        "card_name": "Dauntless Vanguard",
+        "number": 355,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "378"
+    },
+    {
+        "card_name": "Ionian Spiritualist",
+        "number": 387,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "56"
+    },
+    {
+        "card_name": "Bright Stellacorn",
+        "number": 345,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "392"
+    },
+    {
+        "card_name": "Medarda Prodigy",
+        "number": 403,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "205"
+    },
+    {
+        "card_name": "Fleet Siege Run",
+        "number": 372,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "339"
+    },
+    {
+        "card_name": "Demacian Shimmercloak",
+        "number": 357,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "150"
+    },
+    {
+        "card_name": "Irelia, Warrior Dancer",
+        "number": 388,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "29"
+    },
+    {
+        "card_name": "Climber's Protector",
+        "number": 349,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "393"
+    },
+    {
+        "card_name": "Progress Day Statue",
+        "number": 424,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "270"
+    },
+    {
+        "card_name": "Gangplank, Pirate Lord",
+        "number": 375,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "9"
+    },
+    {
+        "card_name": "A Divided Demacia",
+        "number": 362,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "376"
+    },
+    {
+        "card_name": "Karma, Soul Incarnate",
+        "number": 391,
         "shape": "normal",
         "set": "LOL",
         "position": "7"
+    },
+    {
+        "card_name": "Edict of the Immortals",
+        "number": 366,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "395"
+    },
+    {
+        "card_name": "Research",
+        "number": 433,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "398"
+    },
+    {
+        "card_name": "Jagged Hook Rookie",
+        "number": 389,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "25"
+    },
+    {
+        "card_name": "Durand",
+        "number": 365,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "380"
+    },
+    {
+        "card_name": "Master Doran",
+        "number": 401,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "385"
+    },
+    {
+        "card_name": "Gift of the Stars",
+        "number": 376,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "232"
+    },
+    {
+        "card_name": "Skyline Inspiration",
+        "number": 441,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "348"
+    },
+    {
+        "card_name": "Kraken Priest",
+        "number": 397,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "359"
+    },
+    {
+        "card_name": "Flare of the Righteous",
+        "number": 371,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "354"
+    },
+    {
+        "card_name": "Master Kusho",
+        "number": 402,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "324"
+    },
+    {
+        "card_name": "Open the Crypt",
+        "number": 415,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "351"
+    },
+    {
+        "card_name": "Sumpwork Scrapyard",
+        "number": 445,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "184"
+    },
+    {
+        "card_name": "Krakenwyrm",
+        "number": 398,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "151"
+    },
+    {
+        "card_name": "Galio, Stone Protector",
+        "number": 374,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "245"
+    },
+    {
+        "card_name": "Moonlight Mystic",
+        "number": 405,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "187"
+    },
+    {
+        "card_name": "Pantheon, Immortal Warrior",
+        "number": 418,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "258"
+    },
+    {
+        "card_name": "Thinker 4 and Breaker 2",
+        "number": 455,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "176"
+    },
+    {
+        "card_name": "Miss Fortune, Bilgewater Liberator",
+        "number": 404,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "240"
+    },
+    {
+        "card_name": "Kayle's Blessing",
+        "number": 393,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "147"
+    },
+    {
+        "card_name": "Omikayalan, The God-Willow",
+        "number": 414,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "298"
+    },
+    {
+        "card_name": "Pylas",
+        "number": 427,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "327"
+    },
+    {
+        "card_name": "Underhanded Research",
+        "number": 460,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "349"
+    },
+    {
+        "card_name": "Nagakabouros",
+        "number": 407,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "319"
+    },
+    {
+        "card_name": "King Jarvan III",
+        "number": 394,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "325"
+    },
+    {
+        "card_name": "Spiritual Transformation",
+        "number": 443,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "386"
+    },
+    {
+        "card_name": "Rejected From the Peak",
+        "number": 430,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "350"
+    },
+    {
+        "card_name": "Urgot, Undercity Crimeboss",
+        "number": 464,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "252"
+    },
+    {
+        "card_name": "Pirate Ship",
+        "number": 421,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "164"
+    },
+    {
+        "card_name": "Mageguard Duo",
+        "number": 400,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "377"
+    },
+    {
+        "card_name": "United Consciousness",
+        "number": 461,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "346"
+    },
+    {
+        "card_name": "Twilight Priest",
+        "number": 459,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "222"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Shipwide Betrayal",
+        "number": 439,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "161"
+    },
+    {
+        "card_name": "Petricite Walls",
+        "number": 420,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "326"
+    },
+    {
+        "card_name": "A United Ionia",
+        "number": 462,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "189"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Syren",
+        "number": 450,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "153"
+    },
+    {
+        "card_name": "Protect the Greatest City",
+        "number": 425,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "355"
+    },
+    {
+        "card_name": "United We Stand",
+        "number": 463,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "265"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Syren Lookout",
+        "number": 451,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "156"
+    },
+    {
+        "card_name": "Pursued Arcanist",
+        "number": 426,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "143"
+    },
+    {
+        "card_name": "Victory at the Placidium",
+        "number": 466,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "347"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Syren Shipbreaker",
+        "number": 452,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "360"
+    },
+    {
+        "card_name": "Sylas, Mage Revolutionary",
+        "number": 448,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "247"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Replicator",
+        "number": 432,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "316"
+    },
+    {
+        "card_name": "The Sanctuary",
+        "number": 436,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "318"
+    },
+    {
+        "card_name": "Sight Through Reality",
+        "number": 440,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "315"
+    },
+    {
+        "card_name": "Sunken Reflections",
+        "number": 446,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "299"
+    },
+    {
+        "card_name": "Watcher Troll",
+        "number": 468,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "317"
+    },
+    {
+        "card_name": "Coalition Victory",
+        "number": 350,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "508"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -341,14 +3327,589 @@
     },
     "a->colorless",
     {
-        "card_name": "Bard, the Voiceless Chorus",
+        "card_name": "Baron Nashor",
         "number": 1,
-        "shape": "planeswalker",
+        "shape": "normal",
+        "set": "LOL",
+        "position": "374"
+    },
+    {
+        "card_name": "Cho'Gath, Void Monstrosity",
+        "number": 2,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "259"
+    },
+    {
+        "card_name": "Fall of Icathia",
+        "number": 3,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "330"
+    },
+    {
+        "card_name": "Herald of the Rift",
+        "number": 4,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "364"
+    },
+    {
+        "card_name": "Hungry Voidling",
+        "number": 5,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "122"
+    },
+    {
+        "card_name": "Kah'Zix, Apex Predator",
+        "number": 6,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "140"
+    },
+    {
+        "card_name": "Kog'Maw, Hunger of the Void",
+        "number": 7,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "262"
+    },
+    {
+        "card_name": "The Prophet's Visions",
+        "number": 8,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "367"
+    },
+    {
+        "card_name": "Rek'Sai, Queen of the Sands",
+        "number": 9,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "260"
+    },
+    {
+        "card_name": "Return to Silence",
+        "number": 10,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "375"
+    },
+    {
+        "card_name": "Rift Scuttler",
+        "number": 11,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "363"
+    },
+    {
+        "card_name": "Vel'Koz, Eternal Watcher",
+        "number": 12,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "261"
+    },
+    {
+        "card_name": "Void Lightning Hounds",
+        "number": 13,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "365"
+    },
+    {
+        "card_name": "Void Stalker",
+        "number": 14,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "123"
+    },
+    {
+        "card_name": "Void Swarm",
+        "number": 15,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "366"
+    },
+    {
+        "card_name": "Voidborn Brute",
+        "number": 16,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "124"
+    },
+    {
+        "card_name": "Voidborn Carapace",
+        "number": 17,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "362"
+    },
+    {
+        "card_name": "Voracious Duplicator",
+        "number": 18,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "221"
+    },
+    {
+        "card_name": "ZZ'rot",
+        "number": 19,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "139"
+    },
+    {
+        "card_name": "Bramble Vest",
+        "number": 475,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "372"
+    },
+    {
+        "card_name": "Crest of Bandle City",
+        "number": 476,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "138"
+    },
+    {
+        "card_name": "Crest of Bilgewater",
+        "number": 477,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "135"
+    },
+    {
+        "card_name": "Crest of Demacia",
+        "number": 478,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "136"
+    },
+    {
+        "card_name": "Crest of Freljord",
+        "number": 479,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "133"
+    },
+    {
+        "card_name": "Crest of Ionia",
+        "number": 480,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "131"
+    },
+    {
+        "card_name": "Crest of Noxus",
+        "number": 481,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "132"
+    },
+    {
+        "card_name": "Crest of Piltover and Zaun",
+        "number": 482,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "129"
+    },
+    {
+        "card_name": "Crest of Shurima",
+        "number": 483,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "134"
+    },
+    {
+        "card_name": "Crest of Targon",
+        "number": 484,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "137"
+    },
+    {
+        "card_name": "Crest of the Shadow Isles",
+        "number": 485,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "130"
+    },
+    {
+        "card_name": "Doran's Blade",
+        "number": 486,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "125"
+    },
+    {
+        "card_name": "Doran's Ring",
+        "number": 487,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "127"
+    },
+    {
+        "card_name": "Doran's Shield",
+        "number": 488,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "128"
+    },
+    {
+        "card_name": "Eye of Angor",
+        "number": 489,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "368"
+    },
+    {
+        "card_name": "Hexlace",
+        "number": 490,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "43"
+    },
+    {
+        "card_name": "Map of Runeterra",
+        "number": 491,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "126"
+    },
+    {
+        "card_name": "The Nether Blade of Horok",
+        "number": 492,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "369"
+    },
+    {
+        "card_name": "Norra's Book",
+        "number": 493,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "370"
+    },
+    {
+        "card_name": "Quicksilver Sash",
+        "number": 494,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "371"
+    },
+    {
+        "card_name": "Redemption Locket",
+        "number": 495,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "373"
+    },
+    {
+        "card_name": "Trinity Force",
+        "number": 497,
+        "shape": "flip",
+        "set": "LOL",
+        "position": "544"
+    },
+    {
+        "card_name": "World Rune",
+        "number": 498,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "342"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Dalamor Plains",
+        "number": 505,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "300"
+    },
+    {
+        "card_name": "Buhru Temple",
+        "number": 502,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "332"
+    },
+    {
+        "card_name": "The Black Mist",
+        "number": 501,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "312"
+    },
+    {
+        "card_name": "The Argent Mountains",
+        "number": 499,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "334"
+    },
+    {
+        "card_name": "The Plague Arbor",
+        "number": 519,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "335"
+    },
+    {
+        "card_name": "Odyn Valley",
+        "number": 518,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "331"
+    },
+    {
+        "card_name": "Entrance to Mudtown",
+        "number": 508,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "311"
+    },
+    {
+        "card_name": "The Serpentine Swamp",
+        "number": 522,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "333"
+    },
+    {
+        "card_name": "The Ironspike Mountains",
+        "number": 513,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "313"
+    },
+    {
+        "card_name": "The Silent Forest",
+        "number": 526,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "314"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Shurima",
+        "number": 524,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "293"
+    },
+    {
+        "card_name": "Ruined City",
+        "number": 521,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "305"
+    },
+    {
+        "card_name": "Noxus",
+        "number": 517,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "297"
+    },
+    {
+        "card_name": "Freljord",
+        "number": 511,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "296"
+    },
+    {
+        "card_name": "Bandle City",
+        "number": 500,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "21"
+    },
+    {
+        "card_name": "Shuriman Desert",
+        "number": 525,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "301"
+    },
+    {
+        "card_name": "The Shadow Isles",
+        "number": 523,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "295"
+    },
+    {
+        "card_name": "The Wreckoning Pits",
+        "number": 530,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "308"
+    },
+    {
+        "card_name": "Raider Base Camp",
+        "number": 520,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "309"
+    },
+    {
+        "card_name": "The Glade",
+        "number": 512,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "304"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Mountain Pathway",
+        "number": 515,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "302"
+    },
+    {
+        "card_name": "The City of Progress",
+        "number": 504,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "39"
+    },
+    {
+        "card_name": "Butcher's Bridge",
+        "number": 503,
+        "shape": "normal",
         "set": "LOL",
         "position": "38"
     },
     {
-        "card_name": "e"
+        "card_name": "Demacia",
+        "number": 506,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "294"
+    },
+    {
+        "card_name": "The First Lands",
+        "number": 510,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "307"
+    },
+    {
+        "card_name": "Mt. Targon",
+        "number": 516,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "292"
+    },
+    {
+        "card_name": "The Undercity",
+        "number": 528,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "306"
+    },
+    {
+        "card_name": "The Slaughter Docks",
+        "number": 527,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "310"
+    },
+    {
+        "card_name": "Whiterock",
+        "number": 529,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "303"
+    },
+    {
+        "card_name": "Kinkou Monastery",
+        "number": 514,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "55"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Entrance of the Void",
+        "number": 507,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "338"
+    },
+    {
+        "card_name": "Exploring Runeterra",
+        "number": 509,
+        "shape": "normal",
+        "set": "LOL",
+        "position": "337"
     },
     {
         "card_name": "e"
@@ -373,63 +3934,137 @@
     },
     "a->token",
     {
-        "card_name": "Gold",
-        "number": 6,
-        "shape": "token",
-        "set": "LOL",
-        "position": "19"
-    },
-    {
-        "card_name": "Hextech Gauntlet",
-        "number": 7,
-        "shape": "token",
-        "set": "LOL",
-        "position": "12"
-    },
-    {
-        "card_name": "Whirling Axe",
-        "number": 8,
-        "shape": "token",
-        "set": "LOL",
-        "position": "15"
-    },
-    {
-        "card_name": "Sand Soldier",
+        "card_name": "Baron Nashor",
         "number": 1,
         "shape": "token",
         "set": "LOL",
-        "position": "22"
+        "position": "545"
     },
     {
-        "card_name": "King Defender",
+        "card_name": "Inventor",
         "number": 2,
         "shape": "token",
         "set": "LOL",
-        "position": "23"
+        "position": "28"
     },
     {
-        "card_name": "Illusion",
+        "card_name": "Voidling",
         "number": 3,
         "shape": "token",
         "set": "LOL",
-        "position": "18"
+        "position": "546"
     },
     {
-        "card_name": "Skarl",
+        "card_name": "Dauntless Vanguard",
+        "number": 13,
+        "shape": "token",
+        "set": "LOL",
+        "position": "547"
+    },
+    {
+        "card_name": "Scrap Scuttler",
+        "number": 18,
+        "shape": "token",
+        "set": "LOL",
+        "position": "185"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 19,
+        "shape": "token",
+        "set": "LOL",
+        "position": "3"
+    },
+    {
+        "card_name": "Bird",
         "number": 4,
         "shape": "token",
         "set": "LOL",
-        "position": "11"
+        "position": "67"
     },
     {
-        "card_name": "Spirit",
+        "card_name": "Soldier",
         "number": 5,
         "shape": "token",
         "set": "LOL",
-        "position": "20"
+        "position": "155"
     },
     {
-        "card_name": "e"
+        "card_name": "Yordle",
+        "number": 6,
+        "shape": "token",
+        "set": "LOL",
+        "position": "263"
+    },
+    {
+        "card_name": "Illusion",
+        "number": 7,
+        "shape": "token",
+        "set": "LOL",
+        "position": "443"
+    },
+    {
+        "card_name": "Blade",
+        "number": 8,
+        "shape": "token",
+        "set": "LOL",
+        "position": "540"
+    },
+    {
+        "card_name": "Elnuk",
+        "number": 9,
+        "shape": "token",
+        "set": "LOL",
+        "position": "541"
+    },
+    {
+        "card_name": "Mushroom",
+        "number": 10,
+        "shape": "token",
+        "set": "LOL",
+        "position": "542"
+    },
+    {
+        "card_name": "Poro",
+        "number": 11,
+        "shape": "token",
+        "set": "LOL",
+        "position": "291"
+    },
+    {
+        "card_name": "Yeti",
+        "number": 12,
+        "shape": "token",
+        "set": "LOL",
+        "position": "121"
+    },
+    {
+        "card_name": "Ionian",
+        "number": 14,
+        "shape": "token",
+        "set": "LOL",
+        "position": "193"
+    },
+    {
+        "card_name": "Maiden of the Mists",
+        "number": 15,
+        "shape": "token",
+        "set": "LOL",
+        "position": "13"
+    },
+    {
+        "card_name": "Skarl",
+        "number": 16,
+        "shape": "token",
+        "set": "LOL",
+        "position": "2"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 17,
+        "shape": "token",
+        "set": "LOL",
+        "position": "4"
     },
     {
         "card_name": "e"

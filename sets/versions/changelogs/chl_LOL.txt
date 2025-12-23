@@ -1,4 +1,615 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Shyvana, Jarvan's Protector added.
+Treasure added.
+The Dreadway added.
+Zed, Leader of Shadows added.
+Pyke, Drowned Serpent added.
+Gangplank, Pirate Lord added.
+Tahm Kench, Ravenous Broker added.
+Karthus, Death's Lament added.
+Yorick, Corrupted Guide added.
+Maiden of the Mists added.
+Tryndamere, War King added.
+Ashe, the Great Uniter added.
+Lulu, Faerie Friend added.
+Scholar of the Sands added.
+Crownguard Scout added.
+Ionian Primal Monk added.
+Fallen Priest added.
+Bandle City added.
+Bandle Scout added.
+Azir, Sunborn King added.
+Hextech Aide added.
+Jagged Hook Rookie added.
+Trifarian Recruit added.
+Winter's Claw Reaver added.
+Inventor added.
+Irelia, Warrior Dancer added.
+Garen, Dauntless Vanguard added.
+Teemo, Lone Scout added.
+Jayce, Genius Inventor added.
+Enraged Ironback added.
+Push Through added.
+Ship Drunkard added.
+Drag Below added.
+Butcher's Bridge added.
+The City of Progress added.
+Hextech Musician added.
+Briliant Idea added.
+Blitzcrank, Lost Golem added.
+Hexlace added.
+Winged Protege added.
+Fume Creaks added.
+Down in the Sumps added.
+Zoe, Playful Trickster added.
+Stand Together added.
+Cultivating Harmony added.
+Spirit Shield added.
+Mordekaiser, Soul King added.
+Spirit Seer added.
+Defend the Placidium added.
+Bigger than Being added.
+Kinkou Monastery added.
+Ionian Spiritualist added.
+Call the Silverwings added.
+Silverwing Fledgling added.
+Laurent Duelist added.
+Devoted Cleric added.
+Selfless Hound added.
+Battlefield Rallier added.
+Zealot Devotee added.
+Devoted Yordle added.
+Watchful Knight added.
+Devoted Giffonhawk added.
+Bird added.
+Aspect's Presence added.
+Final Push added.
+Purify added.
+Blown Away added.
+Drain Lifeforce added.
+Devoted Trickster added.
+Bahrl Jay added.
+Sea-Tiger Seer added.
+Devoted Spy added.
+Ancient Sphinx added.
+Spirit of the Tidecaller added.
+Consult Mentor added.
+Underwater Presence added.
+Absorb Spell added.
+Consult the Nexus added.
+Distracting Lights added.
+Gift of Wings added.
+Rejected from the Library added.
+Black Rose Assassin added.
+New Recruit added.
+Ravenguard Elite added.
+Devoted Witch added.
+Witch of the Mist added.
+Vastayan Graverobber added.
+Demonic Minion added.
+Devoted Soldier added.
+Spirit Walker added.
+Agony of the King added.
+Trade with the Otherrealm added.
+Thrown in the Locker added.
+Burning Homestead added.
+Lost Sister added.
+Eager Frontliner added.
+Devoted Guardian added.
+Quickening Inventor added.
+Monolith Golem added.
+Influential Socialite added.
+Wandering Rider added.
+Roaming Dragon added.
+Lightning Strike added.
+Mad Scramble added.
+Beserker Rage added.
+Ranger's Mount added.
+Wandering Soldier added.
+Devoted Soul added.
+Creeping Spirit added.
+Attentive Explorer added.
+Bandlewood Defender added.
+Collected Barbarian added.
+Yeti Youngling added.
+Devoted Colossal added.
+United Strike added.
+Overgrown Nature added.
+Yeti added.
+Hungry Voidling added.
+Void Stalker added.
+Voidborn Brute added.
+Doran's Blade added.
+Map of Runeterra added.
+Doran's Ring added.
+Doran's Shield added.
+Crest of Piltover and Zaun added.
+Crest of the Shadow Isles added.
+Crest of Ionia added.
+Crest of Noxus added.
+Crest of Freljord added.
+Crest of Shurima added.
+Crest of Bilgewater added.
+Crest of Demacia added.
+Crest of Targon added.
+Crest of Bandle City added.
+ZZ'rot added.
+Kah'Zix, Apex Predator added.
+Inner City Guard added.
+Flameblade Knight added.
+Pursued Arcanist added.
+Greenfang Scout added.
+Citywide Assembly added.
+Holy Adornment added.
+Kayle's Blessing added.
+Prismatic Barrier added.
+Forbidden Study added.
+Demacian Shimmercloak added.
+Krakenwyrm added.
+Rise of the Dead Tides added.
+The Syren added.
+Discovering Lineage added.
+Soldier added.
+Syren Lookout added.
+Dreadway Boarder added.
+Port Serpent added.
+Hire New Hands added.
+Weather the Storm added.
+Shipwide Betrayal added.
+Blobfish Escort added.
+Calculated Gambler added.
+Pirate Ship added.
+Jinx, Force of Chaos added.
+Man Overboard added.
+Eternal Shuriman added.
+Crypt Robber added.
+Ancient Burial Ground added.
+Lost to Time added.
+Remnants of Ascension added.
+Tomb Statue added.
+Cull the Meek added.
+Lost in the Scrolls added.
+Arcane Thief added.
+Thinker 4 and Breaker 2 added.
+Skyline Observer added.
+Hexblast added.
+Counter Research added.
+Bullet Spray added.
+Inventor's Discovery added.
+Infused Chemist added.
+Hextech Sentry added.
+Sumpwork Scrapyard added.
+Scrap Scuttler added.
+Flying Crane Monk added.
+Moonlight Mystic added.
+Protected by Spirits added.
+A United Ionia added.
+Successful Pilgrimage added.
+Windswept added.
+Shadow Strike added.
+Ionian added.
+Shadow Hound added.
+Spectral Fumes added.
+Return to Unlife added.
+Spectral Swarm added.
+Unnerving Presence added.
+Ghostly Visions added.
+Eerie Onlooker added.
+Fear Beyond Death added.
+Syphon Their Souls added.
+Winter's Claw Raiders added.
+Agony's Embrace added.
+Medarda Prodigy added.
+Scraps Scavenger added.
+Frost Assassin added.
+Avarosan Archer added.
+Frostshield Shaman added.
+Troll Scavenger added.
+Poro Herd added.
+Visions of the Frostguard added.
+Elnuk Migration added.
+Roar of the Wild added.
+Destruction from the Elder God added.
+Grounded by the Cryophoenix added.
+Demon of the Deep added.
+Aurelion Sol, Dragon of Creation added.
+The Outcast Sister added.
+Xerath, Chained Ascended added.
+Voracious Duplicator added.
+Twilight Priest added.
+Lunari Cleric added.
+Solari Clerics added.
+Solari Priestess added.
+Dark Stellacorn added.
+Lunari Assassin added.
+Lunari Cavern added.
+Rise of the Sun added.
+Banish to Marus Omegnum added.
+Shards of Moonlight added.
+Gift of the Stars added.
+Swain, Vision of Noxus added.
+Leblanc, Guile of Noxus added.
+Sejuani, Winter's Rider added.
+Lissandra, Frostguard Witch added.
+Viktor, Source of Evolution added.
+Thresh, Death's Jailer added.
+Sivir, Herald of the King added.
+Miss Fortune, Bilgewater Liberator added.
+Tristana, Bandle Gunner added.
+Veigar, Twisted Sorcerer added.
+Yuumi, Friend to All added.
+Twisted Fate, Lucky Gambler added.
+Galio, Stone Protector added.
+Lux, Dazling Light added.
+Sylas, Mage Revolutionary added.
+Trundle, Iceborn Troll added.
+Akali, Fist of Shadow added.
+Jhin, Death Artisan added.
+Vladimir, Blood of Noxus added.
+Urgot, Undercity Crimeboss added.
+Hecarim, Cruel Enforcer added.
+Nasus, Scroll Guardian to the King added.
+Taliyah, the Wandering Weaver added.
+Leona, Solar Commander added.
+Diana, Lunar Uniter added.
+Pantheon, Immortal Warrior added.
+Cho'Gath, Void Monstrosity added.
+Rek'Sai, Queen of the Sands added.
+Vel'Koz, Eternal Watcher added.
+Kog'Maw, Hunger of the Void added.
+Yordle added.
+The Ruination added.
+United We Stand added.
+Glorious Evolution added.
+Reawakening the Lineage added.
+Ascension Ritual added.
+Devoted Retainer added.
+Progress Day Statue added.
+Alune added.
+Bandle Infiltrator added.
+Living Vegetation added.
+Portal Tree Warden added.
+Bandle City Defender added.
+Weapon Thief added.
+Lost in the Woods added.
+Silent Forest Gateway added.
+Nature's Defenses added.
+Quick Journey added.
+Trifarian Raider added.
+Trifarian Bannerman added.
+Trifarian Legionnaire added.
+Return to Noxus added.
+Battlefield Assault added.
+Crippling Strike added.
+Battlefield Tactics added.
+Sight of the Raven added.
+Blade of the Exile added.
+Crimson Delight added.
+Mt. Targon added.
+Shurima added.
+Demacia added.
+The Shadow Isles added.
+Freljord added.
+Noxus added.
+Omikayalan, The God-Willow added.
+Sunken Reflections added.
+Dalamor Plains added.
+Shuriman Desert added.
+The Mountain Pathway added.
+Whiterock added.
+The Glade added.
+Ruined City added.
+The Undercity added.
+The First Lands added.
+The Wreckoning Pits added.
+Raider Base Camp added.
+The Slaughter Docks added.
+Entrance to Mudtown added.
+The Black Mist added.
+The Ironspike Mountains added.
+The Silent Forest added.
+Sight Through Reality added.
+The Replicator added.
+Watcher Troll added.
+The Sanctuary added.
+Nagakabouros added.
+Invasion of Ionia added.
+The Immortal Bastion added.
+Clash of the Gods added.
+The Howling Abyss added.
+Master Kusho added.
+King Jarvan III added.
+Petricite Walls added.
+Pylas added.
+Blessing of an Aspect added.
+Norra added.
+Fall of Icathia added.
+Odyn Valley added.
+Buhru Temple added.
+The Serpentine Swamp added.
+The Argent Mountains added.
+The Plague Arbor added.
+Trinity Force added.
+Exploring Runeterra added.
+Entrance of the Void added.
+Fleet Siege Run added.
+Demonflare added.
+Demon Lightning added.
+World Rune added.
+Ancestors of Ice added.
+Vilemaw's Annointed added.
+The Blessed Isles added.
+United Consciousness added.
+Victory at the Placidium added.
+Skyline Inspiration added.
+Underhanded Research added.
+Rejected From the Peak added.
+Open the Crypt added.
+Glittering Wish added.
+True Polymorph added.
+Flare of the Righteous added.
+Protect the Greatest City added.
+Strike the Darkin Down added.
+Absolute Silence added.
+One Quick Job added.
+Kraken Priest added.
+Syren Shipbreaker added.
+Cloud Mage added.
+Voidborn Carapace added.
+Rift Scuttler added.
+Herald of the Rift added.
+Void Lightning Hounds added.
+Void Swarm added.
+The Prophet's Visions added.
+Eye of Angor added.
+The Nether Blade of Horok added.
+Norra's Book added.
+Quicksilver Sash added.
+Bramble Vest added.
+Redemption Locket added.
+Baron Nashor added.
+Return to Silence added.
+A Divided Demacia added.
+Mageguard Duo added.
+Dauntless Vanguard added.
+Mage Seekers added.
+Durand added.
+Tianna Crownguard added.
+Blessing of the Righteous added.
+Gargoyle's Stoneplate added.
+Azakana added.
+Master Doran added.
+Spiritual Transformation added.
+Waterfalls of Shon-Xan added.
+Entrance to the Spirit Realm added.
+Soul Wanderer added.
+Ra'Horak Knight added.
+Atreus added.
+Bright Stellacorn added.
+Climber's Protector added.
+Piercing Moonlight added.
+Edict of the Immortals added.
+Spell Thief added.
+Hextech Overcharge added.
+Research added.
+Brackern Crystal added.
+The Null added.
+Runaan added.
+Rylai added.
+Youmuu added.
+Rabadon added.
+Warmog added.
+Grena added.
+Dhogdol added.
+Avarosan Icemage added.
+Troll Caretaker added.
+Perilous Journey added.
+Feast for Trolls added.
+Tales of Youth added.
+Glacial Impact added.
+Valeeva added.
+Kohari Warmages added.
+Ascension Priest added.
+Corrupted Shuriman added.
+Forgotten Soul added.
+Spirit Guardian added.
+Raised by the Sun Disk added.
+Musical Pixie added.
+Flashbloom Flower added.
+Screaming Yipsnake Carrier Owl added.
+Wooglet added.
+Pix added.
+Lost in the Bandlewood added.
+Bandlewood Defense added.
+Yordle Shrine added.
+Soul Harvester added.
+Soldier of the Ruined King added.
+Grez added.
+Commander Ledros added.
+Into the Library of the Damned added.
+Night Terror added.
+The Iron Revenant's Spirit added.
+The Pale Lady added.
+Boram Darkwill added.
+Worthy Sacrifice added.
+Anger Spree added.
+Emystan's Horror added.
+Bloodsoaked Ressurection added.
+Noxian Excecution added.
+Soul Defender added.
+Mejai added.
+Liandry added.
+Mind Lancer added.
+Retributive Warrior added.
+Scream of the Banshee added.
+Death From Below added.
+Temple of the Crimson Circle added.
+Cast Down added.
+Cutthroat Operation added.
+Call of the Crypt added.
+Reinforcements of the Army added.
+Constant Vigilance added.
+Druid Evoker added.
+Sterak added.
+Caulfield added.
+Vigilant Evoker added.
+Dragon Hunters added.
+Giant Owlbear added.
+Break into Pieces added.
+Awaken the Forest added.
+Return to Nature added.
+City of Giants added.
+Mikael added.
+Randuin added.
+Personal Bodyguard added.
+Devoted Right Hand of Legends added.
+Sentinel's Pursuit added.
+Shatter Apart added.
+Gods Willing added.
+Dove Ditty added.
+Caretaker's Shrine added.
+Mageseeker's Armor added.
+Serylda added.
+Luden added.
+Watcher Sphinx added.
+Reflected Visage added.
+Consult the Tomes added.
+Blink of a Stye added.
+Sudden Infiltration added.
+Rune Prison added.
+Return to the Wind added.
+Bami added.
+Shurelya added.
+Rampaging Badgerbear added.
+Wrenwall's Brood added.
+Tempting Offering added.
+Rain of Arrows added.
+Demolish added.
+Kircheis Batons added.
+Flaming Assault added.
+Pressed Into the Pits added.
+Form of the Wanderer added.
+Complete Obliteration added.
+The Eternal Nightmare added.
+The Ancient Fear added.
+Demon of Agony added.
+Spider God's Tutelage added.
+Entomb added.
+The Wandering Caretaker added.
+The Eternal Hunters added.
+The Purifier added.
+Preservation Angel added.
+World Rune Guardian added.
+Coalition Victory added.
+Rescue from the Lantern of Death added.
+The Tidal Trickster added.
+The Tidecaller added.
+The Chronokeeper added.
+One with the Wind added.
+Chronobreak added.
+Skyline Scouts added.
+Tale's End added.
+The Dark Child added.
+The Burning Vengeance added.
+The Darkin Blade added.
+Dragon Overseer added.
+Impulsive Raze added.
+Noxious Fumes added.
+The Pridestalker added.
+The Thorn Bringer added.
+The Bestial Huntress added.
+Elder Titan added.
+Shaman of the Tribe added.
+Follow the Ring-Network added.
+Seek Far Away Lands added.
+Angel of Justice added.
+Celestial Manifestation added.
+Decipher the Scroll added.
+Time Stop added.
+Frostguard Stalker added.
+Boneyard Parley added.
+Celestial Star Dragon added.
+Unstable Realm Warp added.
+Azakana of Death added.
+Defending Runeterra added.
+Blade added.
+Elnuk added.
+Mushroom added.
+Shyvana, Jarvan's Protector added.
+Trinity Force added.
+Baron Nashor added.
+Voidling added.
+Dauntless Vanguard added.
+The Portal Tree added.
+
+Shyvana, Dragon's Fire removed.
+Sylas, King Slayer removed.
+Fiora Honor of House Laurent removed.
+Garen, Pride of Demacia removed.
+Lux, Hidden Mage removed.
+Jinx, The Loose Cannon removed.
+Caitlyn, Rule of Law removed.
+Vi, Fist of Justice removed.
+Urgot, Slum Baron removed.
+Jayce, Tomorrow's Hero removed.
+Hextech Gauntlet removed.
+Draven, Face of Noxus removed.
+Whirling Axe removed.
+Swain, Head of Noxus removed.
+Leblanc, Shadow of Noxus removed.
+Gold removed.
+Azir, Ascended King removed.
+Sand Soldier removed.
+King Defender removed.
+Skarner, Crystaline Predator removed.
+Rammus, the Forgotten God removed.
+Sivir, Last of the Bloodline removed.
+Amumu, the Lonely Wanderer removed.
+Hextech Cloning removed.
+Enemy Nexus removed.
+The Dead Pool removed.
+Khada-Jhin, Masked Artist removed.
+Lee Sin, Spirit of the Dragon removed.
+Ahri, Essence Hunter removed.
+Yasuo, Lonely Exile removed.
+Last Breath removed.
+Bard, the Voiceless Chorus removed.
+
+Kled, Fury of Noxus
+rules_text: When Kled, Fury of Noxus enters the battlefield or destroys a blocking creature, create a legendary 0/2 red and black Skarl creature token with “All damage that would be dealt to a creature you control named Kled, Fury of Noxus is deal to Skarl instead.” => As Kled enters the battlefield or destroys a blocking creature, create a legendary 0/3 red and black Skarl creature token with “All damage that would be dealt to a creature you control named Kled, Fury of Noxus is deal to Skarl instead.”
+pt: 6/2 => 6/1
+
+Skarl
+rules_text:  => All damage that would be dealt to a creature you control named Kled, Fury of Noxus is deal to Skarl instead.
+pt: 0/2 => 0/3
+
+Spirit
+
+Karma, Soul Incarnate
+cost: {3}{G}{U} => {4}{G}{U}
+rules_text: The first Instant or Sorcery spell you cast each turn is copied. You may choose new targets for the copy. => United
+Whenever you cast your first spell each turn, you may pay {GU}. If you do, copy that spell. [i](A copy of a permanent spell becomes a token)[/i]
+pt: 3/3 => 2/2
+
+Darius, Might of Noxus
+cost: {5}{B}{R} => {4}{R}
+rules_text: Trample, Glory 3 [i](When this creature dies, you may place three +1/+1 counters on target creature you control)[/i]
+{T}: Destroy target creature that was dealt damage this turn
+Whenever a creature dies, untap Darius, Might of Noxus => Trample
+[i]Strength [/i]- If you control creatures with total power 8 or more, creatures you control gain +2/+0 and trample.
+pt: 6/6 => 4/4
+
+Poro
+cost: {G} => 
+
+Illusion
+rules_text:  => Hexpoof
+pt: 3/3 => 1/1
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.
