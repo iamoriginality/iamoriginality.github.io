@@ -1,0 +1,181 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Liam Wilhemina, Conflicting Ideals",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Candy Assassin",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/0.png"
+			}
+		},
+		{
+			"name": "Sir Theobald Gumbar, Commander",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Candy Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/1.png"
+			}
+		},
+		{
+			"name": "Princess Jet Rocks, Elder Twin",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Candy Rogue",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/2.png"
+			}
+		},
+		{
+			"name": "Princess Ruby Rocks, Younger Twin",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Candy Rogue",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/3.png"
+			}
+		},
+		{
+			"name": "King Amethar of House Rocks, Unfallen",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Candy Noble",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/4.png"
+			}
+		},
+		{
+			"name": "Chancellor Lapin Cadburry, Chaplain",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Candy Advisor",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/5.png"
+			}
+		},
+		{
+			"name": "Cumulous Rocks, Hand of the Hungry",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Candy Monk",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/6.png"
+			}
+		},
+		{
+			"name": "Queen Saccharina of House Frost Whip",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Candy Noble",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/7.png"
+			}
+		},
+		{
+			"name": "The Kingdom of Candia",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/8.png"
+			}
+		},
+		{
+			"name": "Who Are You?",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/9.png"
+			}
+		},
+		{
+			"name": "For Candia!",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/10.png"
+			}
+		},
+		{
+			"name": "Gift of the Sugar Plum Fairy",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/11.png"
+			}
+		},
+		{
+			"name": "Rage of the Unfallen",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/12.png"
+			}
+		},
+		{
+			"name": "Monarch",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "The Monarch",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/13.png"
+			}
+		},
+		{
+			"name": "Land of Candy",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/14.png"
+			}
+		},
+		{
+			"name": "A Crown of Candy",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Late Game — Difficulty — 2",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/COC-files/img/15.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Sir Theobald Gumbar, Commander
+	5 King Amethar of House Rocks, Unfallen
+	5 Cumulous Rocks, Hand of the Hungry
+[uncommon(3)]
+	5 Chancellor Lapin Cadburry, Chaplain
+	5 Who Are You?
+	5 For Candia!
+	5 Gift of the Sugar Plum Fairy
+[common(10)]
+	5 Liam Wilhemina, Conflicting Ideals
+	5 Princess Jet Rocks, Elder Twin
+	5 Princess Ruby Rocks, Younger Twin
+	5 Queen Saccharina of House Frost Whip
+	5 The Kingdom of Candia
+	5 Rage of the Unfallen
+	5 Land of Candy
