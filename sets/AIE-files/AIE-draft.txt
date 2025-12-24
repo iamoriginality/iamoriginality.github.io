@@ -1,0 +1,181 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Echo Savant",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/0.png"
+			}
+		},
+		{
+			"name": "Ripple Adept",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/1.png"
+			}
+		},
+		{
+			"name": "Mirrorling Drake",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/2.png"
+			}
+		},
+		{
+			"name": "Echo Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Vedalken Wizard",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/3.png"
+			}
+		},
+		{
+			"name": "Thoughtwave Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/4.png"
+			}
+		},
+		{
+			"name": "Glassmind Serpent",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/5.png"
+			}
+		},
+		{
+			"name": "Archivist of Loops",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/6.png"
+			}
+		},
+		{
+			"name": "Echoform Paragon",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Avatar",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/7.png"
+			}
+		},
+		{
+			"name": "Hall of Reflections",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/8.png"
+			}
+		},
+		{
+			"name": "Echoing Analysis",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/9.png"
+			}
+		},
+		{
+			"name": "Shatter the Moment",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/10.png"
+			}
+		},
+		{
+			"name": "Reflected Insight",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/11.png"
+			}
+		},
+		{
+			"name": "Temporal Nudge",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/12.png"
+			}
+		},
+		{
+			"name": "AI Design",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Mid Game — Difficulty — 1",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/13.png"
+			}
+		},
+		{
+			"name": "Echoes of AI",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/14.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/AIE-files/img/15.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Archivist of Loops
+	5 Echoform Paragon
+[uncommon(3)]
+	5 Echo Channeler
+	5 Thoughtwave Elemental
+	5 Echoing Analysis
+	5 Shatter the Moment
+[common(10)]
+	5 Echo Savant
+	5 Ripple Adept
+	5 Mirrorling Drake
+	5 Glassmind Serpent
+	5 Hall of Reflections
+	5 Reflected Insight
+	5 Temporal Nudge
+	5 Echoes of AI

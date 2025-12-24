@@ -6,6 +6,11 @@
             "formats": ""
         },
         {
+            "set_code": "AIE",
+            "set_name": "Universes Everywhere: AI Echoes",
+            "formats": ""
+        },
+        {
             "set_code": "ANI",
             "set_name": "Universes Everywhere: Animorphs",
             "formats": ""
@@ -13,6 +18,11 @@
         {
             "set_code": "COC",
             "set_name": "Universes Everywhere: Crown of Candy",
+            "formats": ""
+        },
+        {
+            "set_code": "HOS",
+            "set_name": "Universes Everywhere: Hall of Suits",
             "formats": ""
         },
         {

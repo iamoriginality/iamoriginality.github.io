@@ -1,0 +1,171 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "MK33 Silver Centurion",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Suit",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/0.png"
+			}
+		},
+		{
+			"name": "MK5 Suitcase Suit",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Equipment Suit",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/1.png"
+			}
+		},
+		{
+			"name": "MK1 Cave Suit",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Equipment Suit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/2.png"
+			}
+		},
+		{
+			"name": "MK3 Flight Suit",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Equipment Suit",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/3.png"
+			}
+		},
+		{
+			"name": "MK27 Disco",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Equipment Suit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/4.png"
+			}
+		},
+		{
+			"name": "MK41 Bones",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Suit",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/5.png"
+			}
+		},
+		{
+			"name": "MK42 The Prodigal Son",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Equipment Suit",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/6.png"
+			}
+		},
+		{
+			"name": "MK44 Hulkbuster",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Equipment Suit",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/7.png"
+			}
+		},
+		{
+			"name": "Stark's Mansion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/8.png"
+			}
+		},
+		{
+			"name": "MK50 Nanotech Suit",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Equipment Suit",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/9.png"
+			}
+		},
+		{
+			"name": "MK85 Enhanced Nanotech Suit",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Equipment Suit",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/10.png"
+			}
+		},
+		{
+			"name": "Suit Detonation",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/11.png"
+			}
+		},
+		{
+			"name": "House Party Protocol",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/12.png"
+			}
+		},
+		{
+			"name": "MCU — Hall of Suits",
+			"rarity": "common",
+			"mana_cost": "{C}",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/13.png"
+			}
+		},
+		{
+			"name": "Iron Man",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Mid Game — Difficulty — 1",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/HOS-files/img/14.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 MK44 Hulkbuster
+	5 MK85 Enhanced Nanotech Suit
+	5 House Party Protocol
+[uncommon(3)]
+	5 MK27 Disco
+	5 MK41 Bones
+	5 MK42 The Prodigal Son
+	5 MK50 Nanotech Suit
+[common(10)]
+	5 MK33 Silver Centurion
+	5 MK5 Suitcase Suit
+	5 MK1 Cave Suit
+	5 MK3 Flight Suit
+	5 Stark's Mansion
+	5 Suit Detonation
+	5 MCU — Hall of Suits

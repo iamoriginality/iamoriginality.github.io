@@ -1,7 +1,7 @@
 ﻿{
     "name": "Universes Everywhere: Hall of Suits",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "draft booster",
     "unpreviewed": "card back",
@@ -308,6 +308,5 @@
             "position": "14",
             "notes": ""
         }
-    ],
-    "version": 1
+    ]
 }
