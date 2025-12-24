@@ -1,0 +1,347 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Eye of Cthulu",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Eyeball",
+			"collector_number": "5",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://iamoriginality.github.io/sets/TER-files/img/0_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/0_front.png"
+			}
+		},
+		{
+			"name": "Eater of Worlds",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Wurm",
+			"collector_number": "4",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://iamoriginality.github.io/sets/TER-files/img/1_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/1_front.png"
+			}
+		},
+		{
+			"name": "Skeletron",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "12",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://iamoriginality.github.io/sets/TER-files/img/2_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/2_front.png"
+			}
+		},
+		{
+			"name": "Guide Voodoo Doll",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Toy",
+			"collector_number": "7",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://iamoriginality.github.io/sets/TER-files/img/3_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/3_front.png"
+			}
+		},
+		{
+			"name": "Plantera",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Plant",
+			"collector_number": "11",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://iamoriginality.github.io/sets/TER-files/img/4_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/4_front.png"
+			}
+		},
+		{
+			"name": "Golem",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Golem",
+			"collector_number": "6",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://iamoriginality.github.io/sets/TER-files/img/5_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/5_front.png"
+			}
+		},
+		{
+			"name": "Lunatic Cultist",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Wizard",
+			"collector_number": "8",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://iamoriginality.github.io/sets/TER-files/img/6_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/6_front.png"
+			}
+		},
+		{
+			"name": "Moon Lord",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Legendary Creature — God",
+			"collector_number": "9",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://iamoriginality.github.io/sets/TER-files/img/7_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/7_front.png"
+			}
+		},
+		{
+			"name": "Night Time",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/8.png"
+			}
+		},
+		{
+			"name": "A Solar Eclipse is Happening",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/9.png"
+			}
+		},
+		{
+			"name": "The Blood Moon is Rising...",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/10.png"
+			}
+		},
+		{
+			"name": "Pass Away Together",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/11.png"
+			}
+		},
+		{
+			"name": "Boulder Trap",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/12.png"
+			}
+		},
+		{
+			"name": "Worm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Worm",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/13.png"
+			}
+		},
+		{
+			"name": "Worm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Worm",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/14.png"
+			}
+		},
+		{
+			"name": "Eyeball",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Eyeball",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/15.png"
+			}
+		},
+		{
+			"name": "Head",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Head",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/16.png"
+			}
+		},
+		{
+			"name": "Hungry",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Hungry",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/17.png"
+			}
+		},
+		{
+			"name": "Leech",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Leech",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/18.png"
+			}
+		},
+		{
+			"name": "Pillar",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Pillar",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/19.png"
+			}
+		},
+		{
+			"name": "Tentacle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Tentacle",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/20.png"
+			}
+		},
+		{
+			"name": "Hand",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Hand",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/21.png"
+			}
+		},
+		{
+			"name": "A Dark Night",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/22.png"
+			}
+		},
+		{
+			"name": "Cultist",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Cultist",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/23.png"
+			}
+		},
+		{
+			"name": "Hand",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Hand",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/24.png"
+			}
+		},
+		{
+			"name": "Cultist",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Cultist",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/25.png"
+			}
+		},
+		{
+			"name": "Terraria Bosses",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Late Game — Difficulty — 4",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TER-files/img/26.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Moon Lord
+	5 The Blood Moon is Rising...
+	5 Pass Away Together
+[uncommon(3)]
+	5 Skeletron
+	5 Plantera
+	5 Golem
+	5 A Solar Eclipse is Happening
+[common(10)]
+	5 Eye of Cthulu
+	5 Eater of Worlds
+	5 Guide Voodoo Doll
+	5 Lunatic Cultist
+	5 Night Time
+	5 Boulder Trap
+	5 A Dark Night

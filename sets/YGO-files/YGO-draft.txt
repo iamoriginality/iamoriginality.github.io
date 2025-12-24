@@ -1,0 +1,271 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Yugi Moto, Ancient Pharoah",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Duelist",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/0.png"
+			}
+		},
+		{
+			"name": "Seto Kaiba, Eternal Rival",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Human Duelist",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/1.png"
+			}
+		},
+		{
+			"name": "Jaden Yuki, Hero of Two Worlds",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Duelist",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/2.png"
+			}
+		},
+		{
+			"name": "Chazz Princeton, Cocky Duelist",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Duelist",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/3.png"
+			}
+		},
+		{
+			"name": "Yusei Fudo, Satellite Prodigy",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Human Duelist",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/4.png"
+			}
+		},
+		{
+			"name": "Jack Atlas, the Master of Faster",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Human Duelist",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/5.png"
+			}
+		},
+		{
+			"name": "Yuma Tsukumo, Number Hunter",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Duelist",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/6.png"
+			}
+		},
+		{
+			"name": "Reginald Kastle, King of Barian",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}",
+			"type": "Legendary Creature — Human Duelist",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/7.png"
+			}
+		},
+		{
+			"name": "Duelist Kingdom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/8.png"
+			}
+		},
+		{
+			"name": "Destiny Draw",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/9.png"
+			}
+		},
+		{
+			"name": "The Power of Friendship",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/10.png"
+			}
+		},
+		{
+			"name": "Exodia! Obliterate!",
+			"rarity": "common",
+			"mana_cost": "{X}{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/11.png"
+			}
+		},
+		{
+			"name": "Polymerization",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/12.png"
+			}
+		},
+		{
+			"name": "Dark Magician",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Wizard",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/13.png"
+			}
+		},
+		{
+			"name": "Ojama",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/14.png"
+			}
+		},
+		{
+			"name": "Stardust Dragon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/15.png"
+			}
+		},
+		{
+			"name": "Flame Wingman",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/16.png"
+			}
+		},
+		{
+			"name": "Number 32 Shark Drake",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Shark",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/17.png"
+			}
+		},
+		{
+			"name": "Blue-Eyes White Dragon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/18.png"
+			}
+		},
+		{
+			"name": "Number 39 Utopia",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/19.png"
+			}
+		},
+		{
+			"name": "Red Dragon Archfiend",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/20.png"
+			}
+		},
+		{
+			"name": "Ojama",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/21.png"
+			}
+		},
+		{
+			"name": "Ojama",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/22.png"
+			}
+		},
+		{
+			"name": "Time to Duel",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/23.png"
+			}
+		},
+		{
+			"name": "Yugioh",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Late Game — Difficulty — 2",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/YGO-files/img/24.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Yuma Tsukumo, Number Hunter
+	5 Reginald Kastle, King of Barian
+	5 Destiny Draw
+[uncommon(3)]
+	5 Jaden Yuki, Hero of Two Worlds
+	5 Yusei Fudo, Satellite Prodigy
+	5 Jack Atlas, the Master of Faster
+	5 Polymerization
+[common(10)]
+	5 Yugi Moto, Ancient Pharoah
+	5 Seto Kaiba, Eternal Rival
+	5 Chazz Princeton, Cocky Duelist
+	5 Duelist Kingdom
+	5 The Power of Friendship
+	5 Exodia! Obliterate!
+	5 Time to Duel

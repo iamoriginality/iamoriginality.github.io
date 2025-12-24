@@ -1,0 +1,421 @@
+﻿[
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Moon Lord",
+        "number": 9,
+        "shape": "transform double faced",
+        "set": "TER",
+        "position": "7"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Blood Moon is Rising...",
+        "number": 1,
+        "shape": "normal",
+        "set": "TER",
+        "position": "10"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Pass Away Together",
+        "number": 10,
+        "shape": "normal",
+        "set": "TER",
+        "position": "11"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Golem",
+        "number": 6,
+        "shape": "transform double faced",
+        "set": "TER",
+        "position": "5"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Plantera",
+        "number": 11,
+        "shape": "transform double faced",
+        "set": "TER",
+        "position": "4"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Skeletron",
+        "number": 12,
+        "shape": "transform double faced",
+        "set": "TER",
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "A Solar Eclipse is Happening",
+        "number": 13,
+        "shape": "normal",
+        "set": "TER",
+        "position": "9"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Boulder Trap",
+        "number": 2,
+        "shape": "normal",
+        "set": "TER",
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "A Dark Night",
+        "number": 3,
+        "shape": "normal",
+        "set": "TER",
+        "position": "22"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Eater of Worlds",
+        "number": 4,
+        "shape": "transform double faced",
+        "set": "TER",
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Eye of Cthulu",
+        "number": 5,
+        "shape": "transform double faced",
+        "set": "TER",
+        "position": "0"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Guide Voodoo Doll",
+        "number": 7,
+        "shape": "transform double faced",
+        "set": "TER",
+        "position": "3"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lunatic Cultist",
+        "number": 8,
+        "shape": "transform double faced",
+        "set": "TER",
+        "position": "6"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Terraria Bosses",
+        "number": 15,
+        "shape": "normal",
+        "set": "TER",
+        "position": "26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Night Time",
+        "number": 14,
+        "shape": "normal",
+        "set": "TER",
+        "position": "8"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Cultist",
+        "number": 1,
+        "shape": "token",
+        "set": "TER",
+        "position": "23"
+    },
+    {
+        "card_name": "Cultist",
+        "number": 2,
+        "shape": "token",
+        "set": "TER",
+        "position": "25"
+    },
+    {
+        "card_name": "Eyeball",
+        "number": 3,
+        "shape": "token",
+        "set": "TER",
+        "position": "15"
+    },
+    {
+        "card_name": "Hand",
+        "number": 4,
+        "shape": "token",
+        "set": "TER",
+        "position": "21"
+    },
+    {
+        "card_name": "Hand",
+        "number": 5,
+        "shape": "token",
+        "set": "TER",
+        "position": "24"
+    },
+    {
+        "card_name": "Head",
+        "number": 6,
+        "shape": "token",
+        "set": "TER",
+        "position": "16"
+    },
+    {
+        "card_name": "Hungry",
+        "number": 7,
+        "shape": "token",
+        "set": "TER",
+        "position": "17"
+    },
+    {
+        "card_name": "Leech",
+        "number": 8,
+        "shape": "token",
+        "set": "TER",
+        "position": "18"
+    },
+    {
+        "card_name": "Pillar",
+        "number": 9,
+        "shape": "token",
+        "set": "TER",
+        "position": "19"
+    },
+    {
+        "card_name": "Tentacle",
+        "number": 10,
+        "shape": "token",
+        "set": "TER",
+        "position": "20"
+    },
+    {
+        "card_name": "Worm",
+        "number": 11,
+        "shape": "token",
+        "set": "TER",
+        "position": "13"
+    },
+    {
+        "card_name": "Worm",
+        "number": 12,
+        "shape": "token",
+        "set": "TER",
+        "position": "14"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

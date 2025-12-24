@@ -1,4 +1,19 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Joh Yowza, Hogging the Spotlight
+type: Creature — Yuzzum Bard => Legendary Creature — Yuzzum Bard
+
+Dexter Jettster, Bar Owner
+type: Creature — Besalisk => Legendary Creature — Besalisk
+
+Maximillian Rebo, Jizz Wailer
+type: Creature — Ortolan Bard => Legendary Creature — Ortolan Bard
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

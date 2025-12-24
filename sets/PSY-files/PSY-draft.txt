@@ -1,0 +1,191 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Shawn Spencer, Psychic Detective",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/0.png"
+			}
+		},
+		{
+			"name": "Burton Guster, Super Sniffer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Detective",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/1.png"
+			}
+		},
+		{
+			"name": "Henry Spencer, Almost Retired",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/2.png"
+			}
+		},
+		{
+			"name": "Carlton Lassiter, Head Detective",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Detective",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/3.png"
+			}
+		},
+		{
+			"name": "Juliet O'Hara, Junior Detective",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Detective",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/4.png"
+			}
+		},
+		{
+			"name": "Karen Vick, Chief of Police",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Police",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/5.png"
+			}
+		},
+		{
+			"name": "Woody, Disturbed Mortician",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Police",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/6.png"
+			}
+		},
+		{
+			"name": "Buzz McNab, Beat Cop",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Police",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/7.png"
+			}
+		},
+		{
+			"name": "Santa Barbara Skies",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/8.png"
+			}
+		},
+		{
+			"name": "Trunk Pol Peac Sig Binshot",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/9.png"
+			}
+		},
+		{
+			"name": "Last Night Gus",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/10.png"
+			}
+		},
+		{
+			"name": "The Many Names of Burton Guster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/11.png"
+			}
+		},
+		{
+			"name": "Psychic Vision",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/12.png"
+			}
+		},
+		{
+			"name": "Psych",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/13.png"
+			}
+		},
+		{
+			"name": "Police",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Police",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/14.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/15.png"
+			}
+		},
+		{
+			"name": "Psych",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Mid Game — Difficulty — 2",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/PSY-files/img/16.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Shawn Spencer, Psychic Detective
+	5 Karen Vick, Chief of Police
+	5 Psychic Vision
+[uncommon(3)]
+	5 Carlton Lassiter, Head Detective
+	5 Juliet O'Hara, Junior Detective
+	5 Woody, Disturbed Mortician
+	5 The Many Names of Burton Guster
+[common(10)]
+	5 Burton Guster, Super Sniffer
+	5 Henry Spencer, Almost Retired
+	5 Buzz McNab, Beat Cop
+	5 Santa Barbara Skies
+	5 Trunk Pol Peac Sig Binshot
+	5 Last Night Gus
+	5 Psych

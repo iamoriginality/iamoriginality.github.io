@@ -37,7 +37,12 @@
         },
         {
             "set_code": "OSW",
-            "set_name": "Universes Everywhere: Obscure Star Wars",
+            "set_name": "Universes Everywhere: Star Wars \u2014 Obscure",
+            "formats": ""
+        },
+        {
+            "set_code": "PSY",
+            "set_name": "Universes Everywhere: Psych",
             "formats": ""
         },
         {
@@ -53,6 +58,16 @@
         {
             "set_code": "TBO",
             "set_name": "Universes Everywhere: MCU \u2014 The Black Order",
+            "formats": ""
+        },
+        {
+            "set_code": "TER",
+            "set_name": "Universes Everywhere: Terraria Bosses",
+            "formats": ""
+        },
+        {
+            "set_code": "YGO",
+            "set_name": "Universes Everywhere: Yugioh \u2014 Protagonist and Rivals",
             "formats": ""
         }
     ]

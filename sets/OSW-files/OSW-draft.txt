@@ -4,7 +4,7 @@
 			"name": "Joh Yowza, Hogging the Spotlight",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Yuzzum Bard",
+			"type": "Legendary Creature — Yuzzum Bard",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://iamoriginality.github.io/sets/OSW-files/img/0.png"
@@ -24,7 +24,7 @@
 			"name": "Dexter Jettster, Bar Owner",
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Besalisk",
+			"type": "Legendary Creature — Besalisk",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://iamoriginality.github.io/sets/OSW-files/img/2.png"
@@ -94,7 +94,7 @@
 			"name": "Maximillian Rebo, Jizz Wailer",
 			"rarity": "rare",
 			"mana_cost": "{6}{W}",
-			"type": "Creature — Ortolan Bard",
+			"type": "Legendary Creature — Ortolan Bard",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://iamoriginality.github.io/sets/OSW-files/img/9.png"
