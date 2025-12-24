@@ -1,0 +1,181 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Cobalt Blue, Avatar of Speed",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Speedster Avatar",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/0.png"
+			}
+		},
+		{
+			"name": "Reverse Flash, Timeless Rival",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Speedster Villain",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/1.png"
+			}
+		},
+		{
+			"name": "Zoom, Demon of Speed",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Speedster Demon",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/2.png"
+			}
+		},
+		{
+			"name": "Savitar, Remnant of Speed",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Speedster Construct",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/3.png"
+			}
+		},
+		{
+			"name": "Godspeed, God of Speed",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Speedster God",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/4.png"
+			}
+		},
+		{
+			"name": "Red Death, Dark Knight of Speed",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Speedster Knight",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/5.png"
+			}
+		},
+		{
+			"name": "The Rival, Man of Speed",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Speedster",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/6.png"
+			}
+		},
+		{
+			"name": "Black Flash, Wraith of Speed",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Speedster Zombie",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/7.png"
+			}
+		},
+		{
+			"name": "Negative Speed Force",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/8.png"
+			}
+		},
+		{
+			"name": "Fueled by Negativity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/9.png"
+			}
+		},
+		{
+			"name": "Drag into Oblivion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/10.png"
+			}
+		},
+		{
+			"name": "Recover in the Negative Speed Force",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/11.png"
+			}
+		},
+		{
+			"name": "Blade of Speed",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/12.png"
+			}
+		},
+		{
+			"name": "Evil Speedsters",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Early Game — Difficulty — 2",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/13.png"
+			}
+		},
+		{
+			"name": "Legion of Zoom",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/14.png"
+			}
+		},
+		{
+			"name": "Armor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Equipment Armor",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/NSF-files/img/15.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Cobalt Blue, Avatar of Speed
+	5 Reverse Flash, Timeless Rival
+	5 Zoom, Demon of Speed
+[uncommon(3)]
+	5 Savitar, Remnant of Speed
+	5 Godspeed, God of Speed
+	5 Black Flash, Wraith of Speed
+	5 Fueled by Negativity
+[common(10)]
+	5 Red Death, Dark Knight of Speed
+	5 The Rival, Man of Speed
+	5 Negative Speed Force
+	5 Drag into Oblivion
+	5 Recover in the Negative Speed Force
+	5 Blade of Speed
+	5 Legion of Zoom
