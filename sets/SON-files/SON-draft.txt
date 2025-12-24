@@ -1,0 +1,182 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Sonic, the Hedgehog",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Hedgehog",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/0.png"
+			}
+		},
+		{
+			"name": "Tails, the Fox",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Fox Artificer",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/1.png"
+			}
+		},
+		{
+			"name": "Knuckles, the Echidna",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Echidna",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/2.png"
+			}
+		},
+		{
+			"name": "Amy Rose, the Hedgehog",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Hedgehog",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/3.png"
+			}
+		},
+		{
+			"name": "Silver, the Hedgehog",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Hedgehog",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/4.png"
+			}
+		},
+		{
+			"name": "Blaze, the Cat",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cat",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/5.png"
+			}
+		},
+		{
+			"name": "Shadow, the Hedgehog",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Hedgehog",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/6.png"
+			}
+		},
+		{
+			"name": "Rouge, the Bat",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Bat Rogue",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/7.png"
+			}
+		},
+		{
+			"name": "Green Hill Zone",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/8.png"
+			}
+		},
+		{
+			"name": "Piko Piko Smash",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/9.png"
+			}
+		},
+		{
+			"name": "Fast Friends",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/10.png"
+			}
+		},
+		{
+			"name": "Chaos Control",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/11.png"
+			}
+		},
+		{
+			"name": "Sonic Speed",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/12.png"
+			}
+		},
+		{
+			"name": "Chaos Emerald",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/13.png"
+			}
+		},
+		{
+			"name": "Sonic",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/14.png"
+			}
+		},
+		{
+			"name": "Sonic",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Early Game — Difficulty — 1",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SON-files/img/15.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Sonic, the Hedgehog
+	5 Silver, the Hedgehog
+	5 Shadow, the Hedgehog
+[uncommon(3)]
+	5 Tails, the Fox
+	5 Amy Rose, the Hedgehog
+	5 Green Hill Zone
+	5 Sonic Speed
+	5 Chaos Emerald
+[common(10)]
+	5 Knuckles, the Echidna
+	5 Blaze, the Cat
+	5 Rouge, the Bat
+	5 Piko Piko Smash
+	5 Fast Friends
+	5 Chaos Control
+	5 Sonic

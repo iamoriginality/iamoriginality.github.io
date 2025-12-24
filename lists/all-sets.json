@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "501",
+            "set_name": "Universes Everywhere: Star Wars \u2014 501st Legion",
+            "formats": ""
+        },
+        {
             "set_code": "ANI",
             "set_name": "Universes Everywhere: Animorphs",
             "formats": ""
@@ -33,6 +38,21 @@
         {
             "set_code": "OSW",
             "set_name": "Universes Everywhere: Obscure Star Wars",
+            "formats": ""
+        },
+        {
+            "set_code": "SBS",
+            "set_name": "Universes Everywhere: Spongebob Squarepants",
+            "formats": ""
+        },
+        {
+            "set_code": "SON",
+            "set_name": "Universes Everywhere: Sonic",
+            "formats": ""
+        },
+        {
+            "set_code": "TBO",
+            "set_name": "Universes Everywhere: MCU \u2014 The Black Order",
             "formats": ""
         }
     ]

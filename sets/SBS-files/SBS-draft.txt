@@ -1,0 +1,170 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Spongebob Squarepants, Fun-Loving Sponge",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Sponge",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/0.png"
+			}
+		},
+		{
+			"name": "Patrick Star, Dummy",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Starfish",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/1.png"
+			}
+		},
+		{
+			"name": "Squidward Tentacles, Clarinet Player",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Octopus",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/2.png"
+			}
+		},
+		{
+			"name": "Mr. Krabs, Money Lover",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/3.png"
+			}
+		},
+		{
+			"name": "Sandy Cheeks, Karate Master",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Squirrel",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/4.png"
+			}
+		},
+		{
+			"name": "Bikini Bottom",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/5.png"
+			}
+		},
+		{
+			"name": "Gary, House Pet",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Snail",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/6.png"
+			}
+		},
+		{
+			"name": "Ms. Puff, Boating Instructor",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/7.png"
+			}
+		},
+		{
+			"name": "Perfume Department",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/8.png"
+			}
+		},
+		{
+			"name": "The F.U.N. Song",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/9.png"
+			}
+		},
+		{
+			"name": "Drum Solo",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/10.png"
+			}
+		},
+		{
+			"name": "The Magic Conch",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/11.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/12.png"
+			}
+		},
+		{
+			"name": "Under the Sea",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/13.png"
+			}
+		},
+		{
+			"name": "Spongebob",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Late Game — Difficulty — 2",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/SBS-files/img/14.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Spongebob Squarepants, Fun-Loving Sponge
+	5 Mr. Krabs, Money Lover
+	5 The Magic Conch
+[uncommon(3)]
+	5 Squidward Tentacles, Clarinet Player
+	5 Sandy Cheeks, Karate Master
+	5 Perfume Department
+	5 The F.U.N. Song
+[common(10)]
+	5 Patrick Star, Dummy
+	5 Bikini Bottom
+	5 Gary, House Pet
+	5 Ms. Puff, Boating Instructor
+	5 Drum Solo
+	5 Under the Sea

@@ -1,0 +1,231 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Thanos, the Mad Titan",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}",
+			"type": "Legendary Creature — Titan",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/0.png"
+			}
+		},
+		{
+			"name": "Cull Obsidian, the Savage",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Black-Order Berserker",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/1.png"
+			}
+		},
+		{
+			"name": "Proxima Midnight, the Soldier",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Black-Order Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/2.png"
+			}
+		},
+		{
+			"name": "Ebony Maw, the Torturer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Black-Order Rogue",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/3.png"
+			}
+		},
+		{
+			"name": "Corvus Glaive, the Assassin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Black-Order Assassin",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/4.png"
+			}
+		},
+		{
+			"name": "The Stonekeeper",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/5.png"
+			}
+		},
+		{
+			"name": "The Outriders",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Chitauri",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/6.png"
+			}
+		},
+		{
+			"name": "The Snap",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/7.png"
+			}
+		},
+		{
+			"name": "Titan",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/8.png"
+			}
+		},
+		{
+			"name": "The Soul Stone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact — Stone",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/9.png"
+			}
+		},
+		{
+			"name": "A Soul for a Soul",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/10.png"
+			}
+		},
+		{
+			"name": "Destiny is Here",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/11.png"
+			}
+		},
+		{
+			"name": "Fracture Reality",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/12.png"
+			}
+		},
+		{
+			"name": "The Mind Stone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact — Stone",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/13.png"
+			}
+		},
+		{
+			"name": "The Power Stone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact — Stone",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/14.png"
+			}
+		},
+		{
+			"name": "The Time Stone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact — Stone",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/15.png"
+			}
+		},
+		{
+			"name": "The Reality Stone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact — Stone",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/16.png"
+			}
+		},
+		{
+			"name": "The Space Stone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact — Stone",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/17.png"
+			}
+		},
+		{
+			"name": "MCU — The Black Order",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/18.png"
+			}
+		},
+		{
+			"name": "Throw a Moon",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/19.png"
+			}
+		},
+		{
+			"name": "The Black Order",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Late Game — Difficulty — 3",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/TBO-files/img/20.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Thanos, the Mad Titan
+	5 The Snap
+	5 Destiny is Here
+[uncommon(3)]
+	5 Cull Obsidian, the Savage
+	5 Proxima Midnight, the Soldier
+	5 Ebony Maw, the Torturer
+	5 Corvus Glaive, the Assassin
+[common(10)]
+	5 The Stonekeeper
+	5 The Outriders
+	5 Titan
+	5 A Soul for a Soul
+	5 Fracture Reality
+	5 MCU — The Black Order
+	5 Throw a Moon

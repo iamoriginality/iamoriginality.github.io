@@ -1,0 +1,181 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Anakin Skywalker, Jedi General",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Jedi",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/0.png"
+			}
+		},
+		{
+			"name": "Ahsoka Tano, Brash Apprentice",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Togruta Jedi",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/1.png"
+			}
+		},
+		{
+			"name": "CT-7567 Rex",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Clone Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/2.png"
+			}
+		},
+		{
+			"name": "CT-782 Hevy",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Clone Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/3.png"
+			}
+		},
+		{
+			"name": "CT-1409 Echo",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Clone Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/4.png"
+			}
+		},
+		{
+			"name": "CT-5555 Fives",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Clone Soldier",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/5.png"
+			}
+		},
+		{
+			"name": "CT-5634 Hardcase",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Clone Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/6.png"
+			}
+		},
+		{
+			"name": "CT-5597 Jesse",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Clone Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/7.png"
+			}
+		},
+		{
+			"name": "Kamino",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/8.png"
+			}
+		},
+		{
+			"name": "For Clone 99!",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/9.png"
+			}
+		},
+		{
+			"name": "Friendly Fire on Umbara",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/10.png"
+			}
+		},
+		{
+			"name": "Reinforce",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/11.png"
+			}
+		},
+		{
+			"name": "CT-6116 Kix",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Clone Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/12.png"
+			}
+		},
+		{
+			"name": "Clone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Clone",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/13.png"
+			}
+		},
+		{
+			"name": "501st Legion",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/14.png"
+			}
+		},
+		{
+			"name": "Star Wars Clone Wars",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Early Game — Difficulty — 1",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://iamoriginality.github.io/sets/501-files/img/15.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Anakin Skywalker, Jedi General
+	5 Ahsoka Tano, Brash Apprentice
+	5 CT-1409 Echo
+[uncommon(3)]
+	5 CT-7567 Rex
+	5 CT-5634 Hardcase
+	5 CT-5597 Jesse
+	5 For Clone 99!
+[common(10)]
+	5 CT-782 Hevy
+	5 CT-5555 Fives
+	5 Kamino
+	5 Friendly Fire on Umbara
+	5 Reinforce
+	5 CT-6116 Kix
+	5 501st Legion

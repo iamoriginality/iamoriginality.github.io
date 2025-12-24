@@ -1,0 +1,382 @@
+﻿[
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Thanos, the Mad Titan",
+        "number": 12,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "0"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Destiny is Here",
+        "number": 3,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "11"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Snap",
+        "number": 9,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "7"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Corvus Glaive, the Assassin",
+        "number": 1,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "4"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Cull Obsidian, the Savage",
+        "number": 2,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ebony Maw, the Torturer",
+        "number": 4,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "3"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Proxima Midnight, the Soldier",
+        "number": 8,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Fracture Reality",
+        "number": 5,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "MCU \u2014 The Black Order",
+        "number": 6,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "18"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Outriders",
+        "number": 7,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "6"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "A Soul for a Soul",
+        "number": 10,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "10"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Stonekeeper",
+        "number": 11,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "5"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Throw a Moon",
+        "number": 13,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "19"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Black Order",
+        "number": 15,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "20"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Titan",
+        "number": 14,
+        "shape": "normal",
+        "set": "TBO",
+        "position": "8"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "The Mind Stone",
+        "number": 1,
+        "shape": "token",
+        "set": "TBO",
+        "position": "13"
+    },
+    {
+        "card_name": "The Power Stone",
+        "number": 2,
+        "shape": "token",
+        "set": "TBO",
+        "position": "14"
+    },
+    {
+        "card_name": "The Reality Stone",
+        "number": 3,
+        "shape": "token",
+        "set": "TBO",
+        "position": "16"
+    },
+    {
+        "card_name": "The Soul Stone",
+        "number": 4,
+        "shape": "token",
+        "set": "TBO",
+        "position": "9"
+    },
+    {
+        "card_name": "The Space Stone",
+        "number": 5,
+        "shape": "token",
+        "set": "TBO",
+        "position": "17"
+    },
+    {
+        "card_name": "The Time Stone",
+        "number": 6,
+        "shape": "token",
+        "set": "TBO",
+        "position": "15"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
